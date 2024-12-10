@@ -1,0 +1,71 @@
+{
+    "annual crop land": [
+        "tillage patterns",
+        "Different shapes and patterns of fields",
+        "Field shapes and paths",
+        "Natural, irregular boundaries, unlike the straight, geometric lines of buildings",
+        "Fences or boundaries marking fields"
+    ],
+    "forest": [
+        "Lack of systematic rows or uniform planting patterns",
+        "Absence of man-made structures",
+        "Dense tree coverage",
+        "Natural pathways or trails (if any)",
+        "Uneven terrain"
+    ],
+    "brushland or shrubland": [
+        "Natural landscape contours",
+        "Lack of buildings, rooflines, and architectural structures",
+        "Varied terrain with natural land contours",
+        "Lack of uniform crop types"
+    ],
+    "highway or road": [
+        "Painted road markings (e.g., lines, arrows)",
+        "Presence of human infrastructure (bridges, tunnels)",
+        "intersections",
+        "bridges and overpasses",
+        "bridges or overpasses"
+    ],
+    "industrial buildings or commercial buildings": [
+        "absence of water bodies",
+        "Location in less densely populated or zoned industrial areas",
+        "absence of dense tree cover",
+        "Roads or paved areas surrounding the structures",
+        "Large size and expansive footprint"
+    ],
+    "pasture land": [
+        "Minimal human intervention or cultivation patterns",
+        "Lack of structures",
+        "Lack of visible rows or organized planting patterns",
+        "Absence of specific horticultural structures (e.g., trellises, crop rows)",
+        "visible farming infrastructure (e.g., water troughs, barns)"
+    ],
+    "permanent crop land": [
+        "Greenhouses or other agricultural structures",
+        "Patterns or patches of different crops or vegetation",
+        "minimal or no large structures/buildings",
+        "Structured and organized planting patterns",
+        "Visible boundaries or plots"
+    ],
+    "residential buildings or homes or apartments": [
+        "straight, defined edges",
+        "Visible chimneys or satellite dishes",
+        "Human activity or people",
+        "Proximity to other residential or urban structures and infrastructure",
+        "vehicles parked nearby"
+    ],
+    "river": [
+        "Meandering shape or defined channel",
+        "Possible presence of boats, bridges, or docks",
+        "Linear or winding shape",
+        "varying width along its course",
+        "Bridges or boats (if present)"
+    ],
+    "lake or sea": [
+        "Absence of a distinct and noticeable channel or stream",
+        "Absence of visible current or flow",
+        "potentially visible shores or coastlines",
+        "horizon line distinct from structures",
+        "reflective properties"
+    ]
+}

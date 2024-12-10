@@ -1,0 +1,72 @@
+{
+    "annual crop land": [
+        "uniformity in the type of vegetation being grown",
+        "usually free of large trees or permanent structures",
+        "possibly farm equipment or irrigation systems",
+        "visible soil between rows",
+        "cultivated plots of land"
+    ],
+    "forest": [
+        "wildlife such as birds, insects, or mammals",
+        "varying shades of green leaves or foliage",
+        "diverse array of plant species",
+        "dense collection of trees",
+        "presence of underbrush or ground vegetation"
+    ],
+    "brushland or shrubland": [
+        "dry, rocky, or sandy soil",
+        "limited or irregular patches of taller plants",
+        "may have grassy areas interspersed with shrubs",
+        "subject to seasonal changes in appearance, with stress indicating rainfall patterns",
+        "presence of low-lying vegetation"
+    ],
+    "highway or road": [
+        "streetlights or overhead lighting",
+        "curbs or gutters",
+        "intersections or junctions",
+        "absence of vegetation in the primary travel paths",
+        "paved surface"
+    ],
+    "industrial buildings or commercial buildings": [
+        "loading docks or large entry doors (common in industrial buildings)",
+        "parking lots with numerous vehicles",
+        "multiple levels or floors",
+        "exterior lighting or security cameras",
+        "utilitarian design (especially for industrial buildings)"
+    ],
+    "pasture land": [
+        "Often divided by hedgerows, ditches, or other natural boundaries",
+        "Sometimes includes a barn or a shelter for animals",
+        "Bright and airy, often with clear skies",
+        "Fencing that may outline the pasture area",
+        "Open grassy fields"
+    ],
+    "permanent crop land": [
+        "consistent and well-maintained vegetation",
+        "signs of agricultural activity such as machinery or workers",
+        "absence of crop rotation or seasonal changes",
+        "presence of structures like trellises or supports",
+        "mature trees or perennial plants"
+    ],
+    "residential buildings or homes or apartments": [
+        "doors",
+        "chimneys",
+        "walls with siding, brick, or other exterior finishes",
+        "driveways",
+        "visible address numbers or plaques"
+    ],
+    "river": [
+        "Reflective surface that can range from calm to turbulent",
+        "Sometimes animals or people interacting with the water",
+        "Surrounded by natural features such as vegetation, rocks, or banks",
+        "Meandering or winding path through the landscape",
+        "Various shades of blue, green, or brown"
+    ],
+    "lake or sea": [
+        "presence of boats, buoys, or other watercraft",
+        "shoreline or coast",
+        "often surrounded by mountains, hills, or flat terrain depending on the region",
+        "aquatic vegetation or wildlife",
+        "varying shades of blue or green"
+    ]
+}

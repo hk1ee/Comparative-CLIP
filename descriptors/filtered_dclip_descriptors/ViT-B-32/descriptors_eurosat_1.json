@@ -1,0 +1,36 @@
+{
+    "annual crop land": [
+        "possibly farm equipment or irrigation systems",
+        "rows or grids of plants",
+        "visible soil between rows",
+        "cultivated plots of land"
+    ],
+    "forest": [
+        "possibly features like streams or rivers"
+    ],
+    "brushland or shrubland": [],
+    "highway or road": [
+        "visible routes or mile markers",
+        "intersections or junctions",
+        "curbs or gutters"
+    ],
+    "industrial buildings or commercial buildings": [],
+    "pasture land": [],
+    "permanent crop land": [
+        "rows or patterns of planted crops",
+        "absence of crop rotation or seasonal changes",
+        "signs of agricultural activity such as machinery or workers"
+    ],
+    "residential buildings or homes or apartments": [
+        "visible address numbers or plaques",
+        "driveways"
+    ],
+    "river": [
+        "Possibly bridges or boats",
+        "Varying widths and depths along its course",
+        "Meandering or winding path through the landscape"
+    ],
+    "lake or sea": [
+        "varying shades of blue or green"
+    ]
+}

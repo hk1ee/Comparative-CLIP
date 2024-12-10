@@ -1,0 +1,492 @@
+{
+    "A300": [
+        "Landing gear: The A300 has a more complex landing gear structure due to its larger size, while the Challenger 600 has a simpler, more compact landing gear.",
+        "More modern cockpit design with larger windows ",
+        "Airbus logo or markings on the aircraft",
+        "Two round windows on the forward fuselage before the door",
+        "Positioned lower, closer to the ground when on the ground (due to shorter landing gear)"
+    ],
+    "A310": [
+        "Tail fin is relatively larger compared to the body size",
+        "Engine Mounting: The Boeing 757 usually has its engines mounted slightly higher and closer to the wings compared to the A310.",
+        "Cockpit Windows: The cockpit window design is different; Airbus has a more rounded and slanted design while Boeing has a more angular appearance.",
+        "Broader, taller vertical stabilizer (tail fin) on the A310",
+        "A wider and shorter fuselage compared to the DC-8."
+    ],
+    "A320": [
+        "Wider fuselage (typically 6-abreast seating)",
+        "two engines under the wings",
+        "Smaller size and shorter fuselage",
+        "Differences in cockpit window shape and configuration",
+        "Shorter length compared to A380"
+    ],
+    "A330": [
+        "Wingspan: A380 has a significantly wider wingspan than the A330.",
+        "Six-wheel main landing gear bogies (three wheels on each side)",
+        "Newer design with longer range and more passenger capacity",
+        "Engine type and shape characteristics (Rolls-Royce Trent or General Electric CF6 for A330)",
+        "Cockpit Windows: The A330 has a more curved and downward-sloping cockpit window line, whereas Boeing 777 cockpit windows are relatively straight and angular."
+    ],
+    "A340": [
+        "Four engines (A340) vs. two engines (A320)",
+        "Four engines",
+        "A340 generally has a smoother nose shape, while the 777 has a more pointed nose",
+        "Winglets shape (A340 winglets are different compared to A320)",
+        "Tail design (The A340's vertical stabilizer is generally taller and sleeker)"
+    ],
+    "A380": [
+        "more rectangular windows",
+        "Four jet engines (two on each wing)",
+        "Generally more massive and larger fuselage",
+        "Four engines",
+        "Emirates and other specific airlines' logos often associated with A380"
+    ],
+    "ATR-42": [
+        "Passenger doors located at the rear of the aircraft on the left side",
+        "Number of engines (ATR-42 has two engines mounted on the wings, while BAE-125 has two rear-mounted engines)",
+        "Shape of the nose: The ATR-42 generally has a more rounded nose.",
+        "Fuselage shape: The ATR-42 generally has a thicker fuselage compared to the slimmer profile of the DHC-6.",
+        "Propeller engines (ATR-42 has turboprop engines, while BAE-125 has jet engines)"
+    ],
+    "ATR-72": [
+        "Shorter and more rounded fuselage",
+        "Twin turboprop engines: The ATR-72 is powered by two turboprop engines mounted under the wings.",
+        "Larger fuselage",
+        "High-wing configuration: The ATR-72 has wings mounted high on the fuselage.",
+        "Taller main landing gear"
+    ],
+    "An-12": [
+        "More robust, shorter landing gear struts",
+        "Distinctive shape of the nose, often with a radar dome",
+        "No tail turret",
+        "A distinct, rounded tail with a rear loading ramp for cargo",
+        "Narrower fuselage"
+    ],
+    "BAE 146": [
+        "Shorter fuselage compared to the Boeing 717",
+        "fewer propellers (since Saab 340 is a turboprop aircraft)",
+        "High wing position relative to the fuselage",
+        "larger fuselage",
+        "Number of engines (BAE 146 has four turbofan engines; Dash 8 typically has two turboprop engines)"
+    ],
+    "BAE-125": [
+        "Jet engines instead of turboprops",
+        "T-tail configuration",
+        "T-tail design",
+        "Propeller engines",
+        "Tail design: The vertical and horizontal stabilizers on the BAE-125 have a distinct design compared to the ERJ 145."
+    ],
+    "Beechcraft 1900": [
+        "Twin turboprop engines",
+        "Less pronounced wing dihedral (angle between the wings and horizontal plane of the aircraft)",
+        "Nose shape and cockpit window design",
+        "Smaller fuselage compared to Falcon 900",
+        "Rear ventral airstair door (unlike the forward door on the Legacy 600)"
+    ],
+    "Boeing 707": [
+        "Cockpit windows\u2019 configuration: The shape and layout of Boeing 707 cockpit windows differ from those of the DC-10",
+        "Distinctive cockpit window shape (707\u2019s cockpit windows have a different layout)",
+        "Wider body",
+        "Location of the wings: On certain Boeing 707 models, the wings may appear slightly higher on the fuselage compared to the DC-8.",
+        "Window shape and arrangement (more rectangular on 707, more uniform on 717)"
+    ],
+    "Boeing 717": [
+        "Smaller winglets or none, compared to MD-80 variations",
+        "Length of the fuselage: The Boeing 717 is generally shorter in length compared to the Boeing 757.",
+        "Either a single-class or dual-class cabin configuration",
+        "Smaller size and fuselage length",
+        "Engines mounted at the rear"
+    ],
+    "Boeing 727": [
+        "Conventional low tail",
+        "Three engines (two mounted on the rear fuselage and one at the base of the tail)",
+        "Modern winglets on the wings (in newer versions)",
+        "Three rear-mounted engines",
+        "Rear stairway (built-in airstairs that can be lowered from the rear fuselage)"
+    ],
+    "Boeing 737": [
+        "Longer fuselage length",
+        "Smaller passenger capacity",
+        "Twin-aisle configuration",
+        "Single-aisle (narrow-body) design",
+        "flattened or blended rear tail cone"
+    ],
+    "Boeing 747": [
+        "Hump-like structure near the front",
+        "Shorter and more robust fuselage compared to the more elongated fuselage of the 757",
+        "Four engines (747)",
+        "Distinctive nose shape",
+        "Larger size and wider wingspan"
+    ],
+    "Boeing 757": [
+        "No winglets",
+        "newer, more streamlined design of the nose",
+        "taller landing gear",
+        "Longer, slimmer appearance",
+        "Door arrangement: The Boeing 757 usually has fewer doors compared to the Boeing 767."
+    ],
+    "Boeing 767": [
+        "Single-deck fuselage",
+        "Larger size overall",
+        "Presence of a larger wingspan",
+        "Winglets at the tips of the wings (in newer models)",
+        "Cockpit Windows: The cockpit windows on the Boeing 767 and 777 have slightly different shapes and arrangements."
+    ],
+    "Boeing 777": [
+        "**Number of Doors**: The Boeing 777 has more doors along its fuselage.",
+        "Raked wingtips (Boeing 777 wingtips are curved and angled back slightly)",
+        "Advanced, high-bypass turbofan engines (Boeing 777)",
+        "Main landing gear: The Boeing 777 usually features two sets of main landing gear, each with six wheels, while the A340 has an additional central landing gear with four wheels.",
+        "Nose shape: The nose of the Boeing 777 is more rounded, whereas the A340 has a more pointed nose."
+    ],
+    "C-130": [
+        "Bulky and shorter fuselage",
+        "Rear loading ramp",
+        "Presence of external fuel tanks or other military-specific equipment",
+        "Large rear cargo ramp",
+        "Squat and utilitarian appearance"
+    ],
+    "C-47": [
+        "Landing gear: The C-47 features a tailwheel landing gear configuration, while the DC-6 typically has a tricycle landing gear system.",
+        "Single tail fin",
+        "Position and number of windows: The C-47 generally has fewer and more evenly spaced windows along its fuselage compared to the DC-6.",
+        "WWII-era design (C-47 has a vintage, older design typical of WWII aircraft)",
+        "Narrow, oval windows"
+    ],
+    "CRJ-200": [
+        "More windows (typically around 100-seater configuration)",
+        "Smaller overall size and seating capacity",
+        "Higher number of cabin windows ",
+        "Shorter landing gear",
+        "single overwing emergency exit on each side"
+    ],
+    "CRJ-700": [
+        "Classic, older aircraft design features",
+        "T-tail design",
+        "Distinctive winglets at the tips of the wings",
+        "Wing Configuration: The CRJ-700 has wings mounted lower on the body, while the MD-80 has wings mounted higher and further back on the fuselage.",
+        "Larger wingspan"
+    ],
+    "Cessna 172": [
+        "Small, compact fuselage",
+        "Simple, less complex structure",
+        "seating for up to 19 passengers",
+        "Generally found in a lighter, simpler paint scheme",
+        "Tandem seating (one behind the other)"
+    ],
+    "Cessna 208": [
+        "Low-wing design",
+        "Tall vertical stabilizer",
+        "High-wing configuration",
+        "Engine nacelles: The DHC-6's engine nacelles on the wings may help identify it, whereas the Cessna 208 lacks these due to its single-engine configuration.",
+        "Larger cabin with more windows"
+    ],
+    "Cessna Citation": [
+        "Executive-style windows",
+        "**Landing gear**: The Cessna Citation often has tricycle landing gear with the main gear retracting into the wings or fuselage, while the Beechcraft 1900's landing gear retracts into nacelles on the wing.",
+        "winglets on some models",
+        "swept-back wings",
+        "Single row of windows on each side"
+    ],
+    "Challenger 600": [
+        "Landing gear configuration (Challenger 600 landing gear is simpler compared to the A310's more robust system)",
+        "Challenger 600 typically has a sleeker, more streamlined appearance",
+        "Distinctive T-tail configuration",
+        "Wing placement (Challenger 600 has wings attached low on the fuselage)",
+        "Number of windows: The Challenger 600 has fewer windows due to its smaller capacity."
+    ],
+    "DC-10": [
+        "Larger wingspan and overall size.",
+        "Wing-mounted engines: The DC-10 has two wing-mounted engines, one on each wing, while the DC-8 has two engines on each wing (a total of four).",
+        "Passenger windows (DC-10 typically has smaller and fewer windows compared to the A300)",
+        "Three engines: one on each wing and a third in the tail (distinctive for the DC-10)",
+        "Lack of winglets on the wingtips"
+    ],
+    "DC-3": [
+        "Single, round exhaust stacks on each engine (DC-3) versus multi-port exhaust stacks (DC-6)",
+        "Low-wing monoplane design",
+        "Number of engines (the DC-3 typically has two engines, while the DC-8 has four)",
+        "Rounded, non-retractable tail wheel (DC-3) versus retractable tricycle landing gear (DC-6)",
+        "Rounded nose"
+    ],
+    "DC-6": [
+        "Presence of wing struts on the DC-6",
+        "Cabin Windows: DC-6 usually has more cabin windows along the fuselage compared to the C-47.",
+        "Fuselage Shape: DC-6 has a more streamlined and elongated fuselage, while C-47 has a shorter, fatter fuselage.",
+        "More windows on the fuselage",
+        "Older, classic design with a conventional tail"
+    ],
+    "DC-8": [
+        "Fuselage length: Typically, the DC-8 has a longer, more slender fuselage compared to the DC-10.",
+        "Smaller, older-style windows",
+        "Variations in wing placement and design, as DC-8 wings are usually lower than the fuselage compared to the A310",
+        "Narrower fuselage (DC-8) vs. wider fuselage (Boeing 767)",
+        "Turbojet engines (DC-8)"
+    ],
+    "DC-9": [
+        "Generally simpler, more compact appearance",
+        "Shorter, more narrow fuselage",
+        "Fuselage shape: The DC-9 has a more streamlined, narrow-body fuselage, while the DC-6 has a larger, rounder fuselage.",
+        "Absence of the third engine, which is present in the Boeing 727 and mounted at the base of the vertical stabilizer or tail",
+        "Jet engines: The DC-9 is a jet airliner with turbofan engines, whereas the DC-6 is a propeller-driven airliner."
+    ],
+    "DH-82": [
+        "Open cockpit",
+        "Often painted in bright, eye-catching colors",
+        "Visible wing struts and bracing wires",
+        "Historic look, often associated with vintage aircraft from the 1930s",
+        "smaller size"
+    ],
+    "DHC-1": [
+        "Relatively smaller and lighter frame",
+        "Tandem seating (two seats, one behind the other)",
+        "Single-engine",
+        "Low-wing design",
+        "Smaller size and light aircraft build"
+    ],
+    "DHC-6": [
+        "Distinctive short nose",
+        "fixed, non-retractable landing gear",
+        "short, stubby fuselage",
+        "Larger and more robust fuselage, often with a higher passenger capacity",
+        "Square-shaped windows"
+    ],
+    "DR-400": [
+        "Fixed tricycle landing gear",
+        "distinctively higher tail compared to fuselage dimension",
+        "Smaller size and lighter weight",
+        "Aircraft registration usually starting with \"F-\" for French registration",
+        "Typically seats 3-4 people"
+    ],
+    "Dash 8": [
+        "Shorter fuselage compared to the MD-80",
+        "Fuselage length (Dash 8 typically has a shorter, more stubby fuselage, while the DC-8 has a long, slender fuselage)",
+        "T-shaped tail",
+        "Larger passenger windows",
+        "Landing gear (Dash 8 has shorter landing gear designed for regional flights, the DC-8's landing gear is more robust for long-haul flights)"
+    ],
+    "Dornier 328": [
+        "T-tail configuration on both aircrafts, but particularly the smaller size and shape in the Dornier 328",
+        "Shorter and stubbier fuselage",
+        "propeller engines",
+        "Smaller size",
+        "Wing placement: The Dornier 328 has a high-wing design, while the Cessna 208 often has a low-wing design."
+    ],
+    "EMB-120": [
+        "T-tail design (horizontal stabilizer mounted at the top of the vertical stabilizer)",
+        "Larger fuselage size",
+        "Twin-engine setup",
+        "high-wing configuration",
+        "Twin-turboprop engines mounted on the wings"
+    ],
+    "Embraer E-Jet": [
+        "Typically has a more streamlined, pointed nose",
+        "different winglet design",
+        "larger fuselage diameter",
+        "smaller size",
+        "Fewer passenger windows (indicating a smaller passenger capacity)"
+    ],
+    "Embraer ERJ 145": [
+        "Winglets: The ERJ 145 has downward-angled winglets, while the CRJ-200 has upward-angled winglets.",
+        "tail design",
+        "Jet engines (Embraer ERJ 145 has jet engines, typically mounted under the wings, while the Saab 340 has propellers.)",
+        "shape of the wingtips",
+        "Smaller fuselage diameter"
+    ],
+    "Embraer Legacy 600": [
+        "Landing gear configuration (Embraer has a different stance and wheel setup)",
+        "Different tail cone design, more pointed on the Legacy 600",
+        "T-tail configuration",
+        "Engine Position: The engines on the Legacy 600 are mounted further back toward the tail, while the E-Jet\u2019s engines are mounted on the wings.",
+        "More extended and pronounced fuselage length compared to its counterparts"
+    ],
+    "Eurofighter Typhoon": [
+        "Canards (small forewings near the cockpit)",
+        "Lack of a propeller (The Spitfire is a World War II-era propeller aircraft)",
+        "Winglets at the tips of wings (for some models)",
+        "overall more angular, aggressive appearance suitable for a fighter jet",
+        "absence of canards"
+    ],
+    "F-16": [
+        "Small size relative to a commercial airliner",
+        "Small size compared to commercial airliners",
+        "Missiles and weaponry",
+        "Afterburner exhaust",
+        "Lack of windows for passengers"
+    ],
+    "F/A-18": [
+        "Afterburner-equipped jet engines",
+        "swept-back wings with a more aggressive angle",
+        "Narrow fuselage",
+        "Distinctive twin vertical stabilizers (tail fins)",
+        "Slender, swept-back wings"
+    ],
+    "Falcon 2000": [
+        "Tail Design: The Falcon 2000 features a T-tail design (horizontal stabilizer on top of the vertical stabilizer), while the DC-8 has a conventional tail design.",
+        "Manufacturer logo (Dassault for Falcon 2000)",
+        "twin-engine configuration (mounted under the wings)",
+        "**Tail Design**: The Falcon 2000 typically has a more swept-back vertical stabilizer and distinct horizontal stabilizers set further back.",
+        "Larger fuselage and cabin size typical of a business jet vs. smaller, lighter design typical of a light aircraft"
+    ],
+    "Falcon 900": [
+        "Manufacturer logos or specific livery",
+        "T-tail: The Falcon 900 features a T-tail configuration, while the Embraer Legacy 600 has a conventional tail.",
+        "fuselage length",
+        "Winglets: The Embraer Legacy 600 often has noticeable winglets at the wingtips, whereas the Falcon 900 typically does not.",
+        "Distinctive large, oval-shaped windows"
+    ],
+    "Fokker 100": [
+        "Cockpit window configuration.",
+        "Absence of the distinctive \"eyebrow\" windows above the main cockpit windows, which are sometimes found on the Boeing 717",
+        "Two engines mounted on the rear of the fuselage (Fokker 100 has this configuration).",
+        "T-tail configuration (horizontal stabilizer mounted on top of the vertical stabilizer)",
+        "Cockpit windows: The shape of the cockpit windows may also differ; Fokker 100 windows are typically more angular, while DC-9 windows are more rounded."
+    ],
+    "Fokker 50": [
+        "Longer fuselage with a wider and shorter appearance",
+        "Nose Shape: The Fokker 50 often has a more rounded nose, while the Saab 2000 may have a more pointed or sleek nose shape.",
+        "Two turboprop engines (one on each wing)",
+        "Flat-topped T-tail design",
+        "Passenger windows: The window arrangement can also be a clue, as the Fokker 50 has more squared windows while the Fokker 70 has more rounded windows."
+    ],
+    "Fokker 70": [
+        "Four-wheeled main landing gear (two wheels on each side)",
+        "Distinctive Fokker logo often found on the aircraft\u2019s tail or fuselage",
+        "Smaller size compared to the Fokker 70",
+        "Engine placement at the rear fuselage",
+        "Winglets: Some Boeing 737 models have winglets at the tips of the wings, which are less common on the Fokker 70."
+    ],
+    "Global Express": [
+        "Cabin Door: The door and entryway design on the Global Express is typically more luxurious and distinct from the commercial-style door on the CRJ-200.",
+        "Shape of the nose and cockpit windows",
+        "Swept-back wings",
+        "Engine placement slightly further apart and typically larger in size",
+        "Engine placement: Compare the positioning and size of the engines on the rear fuselage."
+    ],
+    "Gulfstream": [
+        "smaller size compared to a DC-9",
+        "engine placement",
+        "Signature \"G\" logo on tail (if present)",
+        "Swept-back wings",
+        "fewer windows"
+    ],
+    "Hawk T1": [
+        "Larger, fixed wings without military hardware",
+        "Streamlined, aerodynamic cockpit canopy",
+        "Single jet engine exhaust at the rear (Hawk T1)",
+        "Delta wing",
+        "Configuration: The Hawk T1 is a single-engine jet trainer aircraft, while the DC-10 is a large, multi-engine commercial airliner."
+    ],
+    "Il-76": [
+        "Four engines mounted on underwing pylons",
+        "Rear cargo ramp/door",
+        "T-tail configuration (Il-76) vs. conventional tail (An-12)",
+        "T-tail (horizontal stabilizer mounted on the top of the vertical tail fin)",
+        "Tail Design: The Il-76 features a T-tail, where the horizontal stabilizer is mounted at the top of the vertical stabilizer, whereas the C-130 has a conventional tail with the horizontal stabilizer mounted low on the fuselage."
+    ],
+    "King Air": [
+        "Engine nacelle shape and location (King Air's engines are mounted under the wings, while Falcon 2000's engines are mounted at the rear of the fuselage)",
+        "Smaller fuselage",
+        "Wider fuselage for passengers/comfort",
+        "Landing gear: The landing gear design and placement might vary between the two, with King Air models often having simpler, less robust landing gear compared to the more substantial gear on Gulfstream jets.",
+        "More contemporary design with modern avionics"
+    ],
+    "L-1011": [
+        "Tri-jet configuration of the L-1011 (three engines: two on wing sides, one at the tail base)",
+        "The L-1011's distinctive S-duct engine at the tail",
+        "Distinctive S-duct for the tail engine",
+        "Fuller height and extended fairing under the tail",
+        "T-tail (horizontal stabilizer mounted on top of the vertical stabilizer)"
+    ],
+    "MD-11": [
+        "larger, more advanced cockpit windows",
+        "Extended fuselage: the MD-11 typically has a longer fuselage compared to the A310.",
+        "Landing Gear: The MD-11 has a different landing gear configuration, including a center landing gear, which is not present in the MD-80.",
+        "Two engines (one under each wing)",
+        "Extended fuselage length compared to DC-8"
+    ],
+    "MD-80": [
+        "More advanced and larger cockpit windows",
+        "Single aisle in the passenger cabin",
+        "More modern and sleeker design overall",
+        "Lengthened nose section",
+        "Slightly different emergency exit configuration"
+    ],
+    "MD-90": [
+        "absence of the third engine at the tail (MD-90).",
+        "Advanced cockpit windows with a more streamlined appearance",
+        "The absence of the third window exit on both sides of the fuselage right behind the wings, which the MD-90 lacks and the DC-9 usually has.",
+        "Engines mounted at the rear of the fuselage",
+        "Tail cone design: The MD-90 has a redesigned, streamlined tail cone compared to the older, more angular tail cone of the DC-9."
+    ],
+    "Metroliner": [
+        "Propeller-driven engines ",
+        "High-wing design (Metroliner) vs. low-wing design (MD-90)",
+        "Smaller, regional airline markings or livery",
+        "Smaller size compared to EMB-120",
+        "landing gear with fairings"
+    ],
+    "PA-28": [
+        "Tricycle landing gear",
+        "fixed landing gear (most models)",
+        "**Landing Gear:** PA-28 usually has a fixed landing gear, while the SR-20 features a retractable landing gear.",
+        "fewer windows",
+        "Fuselage tapering: The PA-28 tends to have a more uniform fuselage taper from the cockpit to the tail, whereas the DR-400\u2019s fuselage appears more tapered, giving it a slimmer tail section."
+    ],
+    "SR-20": [
+        "Single-engine setup with streamlined cowling",
+        "Modern, sleek fuselage design",
+        "Retractable landing gear",
+        "Larger windows and cabin space",
+        "Four-seater cockpit"
+    ],
+    "Saab 2000": [
+        "longer, sleeker fuselage",
+        "T-tail configuration",
+        "Aerodynamic nose shape",
+        "T-tail with a larger horizontal stabilizer",
+        "Distinctive T-tail design"
+    ],
+    "Saab 340": [
+        "Smaller, compact fuselage with a shorter nose",
+        "High-mounted wings compared to the low-mounted wings of the Beechcraft 1900",
+        "Single row of passenger windows on each side",
+        "Propeller blades visible on the engines",
+        "Two-engine turboprop"
+    ],
+    "Spitfire": [
+        "Single-seat cockpit: Spitfires typically have a single-seat cockpit, while Tornados are often configured for two pilots.",
+        "visible rivets and metal panels",
+        "elliptical wings",
+        "WWII-era design",
+        "Monoplane with elliptical wings"
+    ],
+    "Tornado": [
+        "Smaller size compared to a commercial airliner",
+        "dark and ominous appearance",
+        "absence of wings or fuselage",
+        "Funnel-shaped cloud extending from the sky to the ground",
+        "military insignia or markings"
+    ],
+    "Tu-134": [
+        "Distinctive glass navigator's nose",
+        "T-tail design",
+        "Engines mounted at the rear of the fuselage",
+        "Typically, single-aisle passenger jet",
+        "narrower fuselage (Tu-134)"
+    ],
+    "Tu-154": [
+        "Longer fuselage in comparison to the DC-9",
+        "Slightly larger overall size and longer fuselage",
+        "T-tail configuration",
+        "Narrow fuselage compared to the Boeing 707",
+        "Swept-back wings with pronounced anhedral (downward angle)"
+    ],
+    "Yak-42": [
+        "Typically larger and can carry more passengers",
+        "Three jet engines mounted at the rear",
+        "Distinctive tail shape with a more pronounced vertical stabilizer",
+        "Distinctive nose shape with a sharper point compared to the rounded nose of a BAE-125",
+        "Slightly shorter fuselage"
+    ]
+}

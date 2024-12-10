@@ -1,0 +1,72 @@
+{
+    "annual crop land": [
+        "Presence of farm equipment or machinery",
+        "Rows of plants or crops",
+        "Fences or boundaries marking fields",
+        "Unpaved, dirt roads or pathways between fields",
+        "plowed soil"
+    ],
+    "forest": [
+        "Larger trees with wider trunks",
+        "Fallen logs",
+        "Diverse flora and fauna",
+        "Absence of man-made structures",
+        "Uneven terrain with natural features (e.g., hills, streams, rocks)"
+    ],
+    "brushland or shrubland": [
+        "Often found in regions with seasonal fires as part of the natural cycle",
+        "Variety of shrubs and small trees",
+        "Lack of continuous water body",
+        "Small trees or large shrubs",
+        "Presence of wildlife or natural flora"
+    ],
+    "highway or road": [
+        "Guardrails or medians",
+        "Traffic signs",
+        "streetlights positioned at regular intervals",
+        "traffic signs",
+        "intersections and traffic lights"
+    ],
+    "industrial buildings or commercial buildings": [
+        "Presence of vehicles such as trucks or cars",
+        "Man-made constructions such as factories, warehouses, or offices",
+        "Large buildings with flat roofs",
+        "Presence of signage indicating commercial or industrial use",
+        "Parking lots around the buildings"
+    ],
+    "pasture land": [
+        "Absence of paved surfaces",
+        "Open, grassy areas",
+        "Patches of different types of grasses and wildflowers",
+        "Less variability in plant species compared to a forest",
+        "Lack of organized planting rows"
+    ],
+    "permanent crop land": [
+        "Lack of dense underbrush",
+        "Irrigation systems: Permanent crops often have more elaborate irrigation systems in place.",
+        "Visible boundaries or plots",
+        "organized rows of plants",
+        "farm machinery"
+    ],
+    "residential buildings or homes or apartments": [
+        "Sidewalks and pathways",
+        "Family-oriented structures such as playgrounds, mailboxes, or outdoor seating areas",
+        "roofs",
+        "Rooftops",
+        "windows and doors"
+    ],
+    "river": [
+        "Presence of wildlife, such as fish, birds, or plants",
+        "Water surface reflections",
+        "Natural banks or shorelines",
+        "Flowing water",
+        "Visible banks or shores on both sides"
+    ],
+    "lake or sea": [
+        "Reflection of the sky",
+        "Aquatic vegetation like reeds or lily pads",
+        "vast expanse of water",
+        "waves or ripples",
+        "boats, buoys, or other watercraft"
+    ]
+}

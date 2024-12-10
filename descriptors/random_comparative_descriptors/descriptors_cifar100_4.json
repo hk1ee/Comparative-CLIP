@@ -1,0 +1,702 @@
+{
+    "apple": [
+        "Presence of a stem",
+        "Seeds arranged in a central core",
+        "Firm texture when touched",
+        "specific colors like red, green, or yellow",
+        "Smooth, often shiny skin"
+    ],
+    "aquarium_fish": [
+        "swimming in water",
+        "Lateral line along the sides",
+        "Distinctive colors and patterns found in fish species",
+        "Compact body shape",
+        "Aquatic environment, often with water, plants, and/or gravel"
+    ],
+    "baby": [
+        "small human form",
+        "wearing diapers",
+        "more chubby and less defined limbs",
+        "Human facial features (eyes, nose, mouth)",
+        "human shape and posture"
+    ],
+    "bear": [
+        "eyes and ears",
+        "Shorter, less slender legs",
+        "Longer snout with a more pronounced nose",
+        "Fur-covered body",
+        "Short tail"
+    ],
+    "beaver": [
+        "Presence near water (dams, lodges)",
+        "Brown fur",
+        "smaller body size",
+        "large, orange-tinted incisors",
+        "shorter limbs"
+    ],
+    "bed": [
+        "bed linens such as sheets, blankets, or pillows",
+        "bed sheets or blankets",
+        "alarm clock",
+        "absence of human features (e.g., limbs, face, clothing)",
+        "bedding such as sheets, blankets, and pillows"
+    ],
+    "bee": [
+        "Six legs",
+        "overall body shape (more streamlined and less segmented than most beetles)",
+        "slender waist (between thorax and abdomen)",
+        "Striped abdomen",
+        "Fuzzy body with distinct segmentation"
+    ],
+    "beetle": [
+        "often has wings under hard wing covers (elytra)",
+        "Wings that fold vertically over their backs when at rest",
+        "Long, slender antennae with clubbed tips",
+        "antennae on the head",
+        "Presence of wings (beetles often have elytra, hard wing covers)"
+    ],
+    "bicycle": [
+        "Spokes on the wheels",
+        "Handlebars",
+        "Frame with a chain and gears",
+        "Simpler braking system",
+        "Human-powered or sometimes electrically assisted"
+    ],
+    "bottle": [
+        "Label or branding (in many cases)",
+        "liquid contents",
+        "Transparent or translucent material (such as glass or plastic)",
+        "Cap or cork",
+        "Transparent or semi-transparent material (usually glass or plastic)"
+    ],
+    "bowl": [
+        "Smooth, solid surface",
+        "wide opening",
+        "Often placed on a flat surface like a table",
+        "contents",
+        "depth"
+    ],
+    "boy": [
+        "active posture or movement",
+        "Lack of traditionally feminine accessories (e.g., hair clips, necklaces)",
+        "Presence of teeth: Boys have more and larger teeth, while babies may have few or no teeth.",
+        "Short hair styles (although girls can also have short hair)",
+        "Hair (head hair, eyebrows)"
+    ],
+    "bridge": [
+        "Supports or pillars",
+        "large scale spanning a body of water or land",
+        "absence of human features like facial characteristics or limbs",
+        "Architectural elements like trusses, cables, or beams",
+        "Lack of walls or turrets"
+    ],
+    "bus": [
+        "Different body design, often with an articulated or double-decker structure",
+        "side mirrors (buses typically have side mirrors for the driver to check traffic, while trains do not)",
+        "bus logo or branding",
+        "windows and doors",
+        "size (buses are generally smaller than train cars)"
+    ],
+    "butterfly": [
+        "two pairs of wings",
+        "colorful patterns",
+        "Proboscis for feeding",
+        "the ability to fly",
+        "Small size"
+    ],
+    "camel": [
+        "Desert or arid background (often indicating the natural habitat of a camel)",
+        "distinctive long eyelashes",
+        "Large, prominent eyelashes",
+        "lack of horns (in most cases)",
+        "One or two humps on the back"
+    ],
+    "can": [
+        "Pull-tab or pop-top lid",
+        "consistent size (typically much smaller than a human)",
+        "labels or printed design on the surface",
+        "pull-tab or pop-top mechanism",
+        "absence of human characteristics such as limbs, face, and clothing"
+    ],
+    "castle": [
+        "courtyards",
+        "Windows and doors",
+        "Large size and scale",
+        "stone or brick walls",
+        "Moats"
+    ],
+    "caterpillar": [
+        "Segmented body",
+        "Numerous small prolegs (false legs) along its body",
+        "distinct head with mouthparts",
+        "lack of clothing",
+        "distinct segments and possibly colorful patterns on the body"
+    ],
+    "cattle": [
+        "Grass or pastureland context",
+        "Presence of animals",
+        "Hooves",
+        "Muzzle/snout",
+        "Usually fur-covered body"
+    ],
+    "chair": [
+        "A seat",
+        "A structure designed for sitting",
+        "Seat",
+        "presence of legs",
+        "Armrests (optional)"
+    ],
+    "chimpanzee": [
+        "Pronounced muzzle",
+        "a furry body",
+        "Body posture and movement",
+        "Hands and feet with fingers and toes",
+        "human-like facial features"
+    ],
+    "clock": [
+        "Located typically on walls, tables, or inside buildings",
+        "hour and minute hands (sometimes a second hand)",
+        "circular or rectangular face",
+        "stationary position (not moving)",
+        "Presence of gears or digital display"
+    ],
+    "cloud": [
+        "White or gray coloration",
+        "fluffy, amorphous shape",
+        "no solid structure or defined edges",
+        "Positioned in the sky",
+        "can appear fluffy or wispy in texture"
+    ],
+    "cockroach": [
+        "brown or reddish-brown color",
+        "Antennae",
+        "Presence of head, thorax, and abdomen sections",
+        "Brown or dark coloration",
+        "Small size compared to lobsters"
+    ],
+    "couch": [
+        "a backrest and armrests",
+        "cushions specifically for sitting",
+        "upholstery fabric or leather",
+        "upholstery that matches the room decor",
+        "cushioned seating"
+    ],
+    "crab": [
+        "Exoskeleton texture: Crabs typically have a rougher, more textured exoskeleton compared to the smoother exoskeleton of many beetles.",
+        "prominent eyes on stalks",
+        "Often observed on the seafloor or near coastal areas",
+        "paddle-like back legs (in some species, adapted for swimming)",
+        "Eyes: Crabs usually have stalked eyes that are set further apart, while beetles have compound eyes that are typically closer together."
+    ],
+    "crocodile": [
+        "Horizontal, flat body profile",
+        "Short, sturdy legs with webbed feet",
+        "Sharp, pointed snout",
+        "Eyes and nostrils positioned on top of the head",
+        "webbed toes"
+    ],
+    "cup": [
+        "tall and narrow shape",
+        "Typically cylindrical shape",
+        "handle",
+        "Design: Cups might have printed patterns, logos, or colors that differ from the uniform metallic appearance of a can.",
+        "Made of diverse materials (ceramic, glass, plastic, metal)"
+    ],
+    "dinosaur": [
+        "terrestrial setting (land) versus aquatic setting (water)",
+        "bipedal or quadrupedal stance",
+        "often in an outdoor, prehistoric setting",
+        "Terrestrial environment",
+        "scales or feathers"
+    ],
+    "dolphin": [
+        "absence of clothing",
+        "beak-like snout",
+        "smooth, rubbery skin",
+        "presence of water environment",
+        "streamlined, torpedo-shaped body"
+    ],
+    "elephant": [
+        "Big, floppy ears",
+        "Long tusks",
+        "Thick, gray skin",
+        "Thick, grey skin",
+        "Massive, pillar-like legs"
+    ],
+    "flatfish": [
+        "both eyes on one side of the body",
+        "typically a brown, grey, or sandy color",
+        "No blowhole",
+        "operates on the seabed",
+        "Fins instead of legs"
+    ],
+    "forest": [
+        "presence of wildlife such as birds, squirrels, or deer",
+        "Lack of human features",
+        "Absence of human forms",
+        "Natural paths or clearings",
+        "Natural light filtering through trees"
+    ],
+    "fox": [
+        "slender and agile body shape",
+        "Predatory physique with long legs",
+        "Reddish or orange fur color (commonly for red foxes)",
+        "erect, triangular ears",
+        "Sharp, visible claws"
+    ],
+    "girl": [
+        "Facial features (eyes, nose, mouth)",
+        "Human limbs (arms and legs)",
+        "Clothing",
+        "skin texture and tone",
+        "smaller and more delicate build"
+    ],
+    "hamster": [
+        "Soft, fine fur covering the entire body",
+        "Furry body",
+        "often found in a habitat like a cage or hamster wheel",
+        "**Fur**: Hamsters typically have thicker, fluffier fur.",
+        "small size"
+    ],
+    "house": [
+        "Walls",
+        "Fixed foundation",
+        "doors",
+        "Multiple rooms or stories",
+        "Landscaping (trees, lawns, gardens) nearby"
+    ],
+    "kangaroo": [
+        "Long, powerful tail",
+        "Long tail used for balance",
+        "Upright posture while hopping",
+        "Prominent ears",
+        "long ears "
+    ],
+    "keyboard": [
+        "sheet music stand",
+        "electronic display or control panel",
+        "Presence of function keys (F1, F2, etc.)",
+        "power cord or USB connection",
+        "Separate number pad (in many models)"
+    ],
+    "lamp": [
+        "lack of organic structure",
+        "Power cord or battery compartment",
+        "metal or wood base/stand",
+        "non-organic structure",
+        "Switch or control mechanism"
+    ],
+    "lawn_mower": [
+        "Purpose: Lawn mowers are designed for cutting grass and have grass collection bags or side-discharge chutes. Tanks are built for combat and have visible weaponry, like cannons or machine guns.",
+        "User walking behind or riding on it",
+        "more than two wheels (typically four for riding mowers)",
+        "Cutting blades",
+        "Lack of human facial features and limbs"
+    ],
+    "leopard": [
+        "Predominantly yellowish or golden fur",
+        "Four legs",
+        "large size",
+        "Long tail with a tapered end",
+        "Size relative to environment (much larger than a spider)"
+    ],
+    "lion": [
+        "Eyes and ears positioned on a mammalian face",
+        "Mane",
+        "feline facial features",
+        "four legs and claws",
+        "Tawny-yellow fur"
+    ],
+    "lizard": [
+        "the presence of a head with distinct ear openings",
+        "Presence of habitats like rocks or terrariums",
+        "Four legs with clawed toes",
+        "posture and body structure (lizards are typically squatter with legs splayed outward)",
+        "Ability to climb"
+    ],
+    "lobster": [
+        "Long antennae",
+        "Large claws",
+        "Antennae",
+        "large claws or pincers",
+        "Multiple legs (usually 10)"
+    ],
+    "man": [
+        "Facial hair ",
+        "Presence of arms and legs",
+        "Presence of accessories often worn by adults, such as a watch or glasses",
+        "Human figure",
+        "Waves"
+    ],
+    "maple_tree": [
+        "Branches with multiple offshoots",
+        "Overall shape and size of the tree canopy",
+        "Leaves (often with a distinct shape, generally lobed)",
+        "Smooth or slightly furrowed bark",
+        "palmate leaves with multiple pointed lobes"
+    ],
+    "motorcycle": [
+        "wheels",
+        "frame made of metal and other materials associated with vehicles",
+        "distinct color and branding",
+        "Absence of fur, ears, and tail",
+        "Exposed frame and engine "
+    ],
+    "mountain": [
+        "Geological features like cliffs, ridges, and valleys",
+        "Natural elements like clouds or skies in the background",
+        "treeline or zones of vegetation that change with altitude",
+        "Trails or paths",
+        "Natural rock and vegetation"
+    ],
+    "mouse": [
+        "Fur that covers more of the body, including the tail",
+        "a short, whiskered snout",
+        "Large, round ears",
+        "tiny paws",
+        "long, thin tail"
+    ],
+    "mushroom": [
+        "Absence of clothing",
+        "Single or grouped mushrooms",
+        "Stationary nature (does not move)",
+        "Central stalk (stem) that may be cylindrical or have variations in thickness",
+        "Color variation: Mushrooms can come in many colors, but their colors are usually more uniform and not as patterned as a snake's scales."
+    ],
+    "oak_tree": [
+        "bark texture (deeply fissured or rough)",
+        "White or pink flowers (apple tree)",
+        "Rugged bark (oak)",
+        "Canopy structure",
+        "natural, irregular shapes and forms"
+    ],
+    "orange": [
+        "Smooth, dimpled skin",
+        "absence of facial features",
+        "Presence of leaves or stem (optional)",
+        "stem remnants or small indent on one side",
+        "dimpled or textured skin"
+    ],
+    "orchid": [
+        "presence of multiple blooms on a single stalk",
+        "terrestrial environment",
+        "Petals and sepals forming unique shapes",
+        "Brightly colored flowers",
+        "Bright and varied colors"
+    ],
+    "otter": [
+        "Long, tapered tail",
+        "visible claws on feet",
+        "aquatic environment",
+        "presence of a tail (short and thick for otters, long and smooth for dolphins)",
+        "use of paws to hold food or tools"
+    ],
+    "palm_tree": [
+        "Tall, single, slender trunks",
+        "clustered growth pattern",
+        "Tropical or coastal setting",
+        "Thick, sturdy trunk",
+        "textured bark"
+    ],
+    "pear": [
+        "oval or pear-shaped fruit",
+        "presence of seeds inside",
+        "Tapered shape with a wider bottom and narrow top",
+        "Color: Pears are typically green, yellow, or brown, while mice are usually shades of gray or brown.",
+        "lack of any labeling or text"
+    ],
+    "pickup_truck": [
+        "a cargo bed",
+        "flatbed or open cargo area behind the cab",
+        "steering wheel",
+        "presence of a front grille and headlamps for highway driving",
+        "Presence of doors, windows, headlights, and a grille"
+    ],
+    "pine_tree": [
+        "Visible trunk of a solitary tree",
+        "Cooler or mountainous background settings",
+        "Pine cones",
+        "Dark green color of the needles",
+        "Conical shape"
+    ],
+    "plain": [
+        "Uniform vegetation spread over a large area",
+        "engines",
+        "vast, open space",
+        "Wide, unobstructed horizons",
+        "Lack of structures like buildings or roads"
+    ],
+    "plate": [
+        "Absence of facial features, hair, limbs, or clothing",
+        "No wheels or tracks",
+        "circular shape",
+        "Light weight and easy to handle",
+        "Human body shape (torso, arms, legs)"
+    ],
+    "poppy": [
+        "presence of leaves and foliage",
+        "petals and sepals",
+        "Central cluster of stamens",
+        "Large, showy flowers with delicate petals",
+        "central stamen"
+    ],
+    "porcupine": [
+        "small head with prominent teeth",
+        "Short limbs and small, rounded snout",
+        "Slow and lumbering movement",
+        "Rounder face with a shorter snout",
+        "sharp, protective quills covering the back and tail"
+    ],
+    "possum": [
+        "No distinctive white stripe(s) along the back",
+        "Coarser, grayish fur",
+        "Five-fingered paws with opposable thumbs on the hind feet",
+        "Teeth",
+        "short tail"
+    ],
+    "rabbit": [
+        "Short, fluffy tail",
+        "more elongated body shape",
+        "Soft, light fur",
+        "Natural, organic setting like grass or burrows",
+        "small size"
+    ],
+    "raccoon": [
+        "four legs with noticeable paws and claws",
+        "black \"mask\" around the eyes",
+        "ringed tail with alternating dark and light bands",
+        "Small, compact body size",
+        "Mask-like facial markings"
+    ],
+    "ray": [
+        "Presence of gills and spiracles for breathing",
+        "presence of gill slits on the underside",
+        "gills on the underside",
+        "absence of facial features common to humans (e.g., eyes, nose, mouth in a human face arrangement)",
+        "long, slender tail"
+    ],
+    "road": [
+        "consistent, flat surface",
+        "Paved or asphalt surface",
+        "road signs and traffic signals",
+        "Lane markings ",
+        "Paved shoulders or sidewalks"
+    ],
+    "rocket": [
+        "cylindrical body with a tapered end",
+        "fins or stabilizers at the base",
+        "metallic or synthetic exterior",
+        "elongated cylindrical shape",
+        "metallic or composite exterior"
+    ],
+    "rose": [
+        "fragrance",
+        "Uniform shape and often reflective",
+        "Bright, varied colors (e.g., red, pink, white, yellow)",
+        "Blooming flowers",
+        "Presence in a garden or bouquet"
+    ],
+    "sea": [
+        "Presence of boats, marine creatures, or beach elements",
+        "coastline or beach",
+        "expanse of water",
+        "coastal features (beaches, cliffs)",
+        "beach or rocky shoreline"
+    ],
+    "seal": [
+        "Absence of dorsal fin (seals lack the prominent dorsal fin that dolphins have)",
+        "Whiskers length and thickness",
+        "Body shape (seals have a more streamlined, torpedo-shaped body)",
+        "Presence of external ears (in some seal species)",
+        "Body shape: Seals have a more streamlined, elongated body shape, while turtles have a hard, rounded shell."
+    ],
+    "shark": [
+        "Mouth Position: A shark's mouth is typically located on the underside of its head, while a whale's mouth is located on the front of the head.",
+        "Presence of a dorsal fin",
+        "streamlined body",
+        "Eyes positioned on the sides of the head",
+        "Gill Slits: Sharks have multiple visible gill slits on the sides of their heads, typically five to seven, whereas whales have a single blowhole or pair of blowholes on top of their heads."
+    ],
+    "shrew": [
+        "Lack of a bushy tail",
+        "Small, furry body",
+        "Short limbs with claws",
+        "Smaller eyes",
+        "Visible ears"
+    ],
+    "skunk": [
+        "Smaller, more rounded body shape",
+        "Distinctive black and white coloration (typically a white stripe or V-shape pattern on black fur)",
+        "Shorter, less dexterous front paws",
+        "Typically a more compact and low-to-the-ground posture",
+        "bushy tail"
+    ],
+    "skyscraper": [
+        "extensive use of glass windows",
+        "rooftop antennas or helipads",
+        "Windows arranged in grid patterns",
+        "towering height",
+        "Urban cityscape in the background"
+    ],
+    "snail": [
+        "Shell shape: Snails typically have a spiral-shaped shell, while crabs have a more flattened, broad shell.",
+        "Slimy Trail: Snails leave a mucous trail as they move.",
+        "Long, slimy body",
+        "shell on its back",
+        "Shell: Snails have a noticeable external shell, while worms do not."
+    ],
+    "snake": [
+        "presence of ventral scales (on the belly)",
+        "serpentine, flexible movement",
+        "presence of a head with eyes and a forked tongue",
+        "lack of fins",
+        "visible eyes on the head"
+    ],
+    "spider": [
+        "multiple (usually eight) legs",
+        "Small size relative to snakes",
+        "Segmental body (with a cephalothorax and abdomen)",
+        "presence of silk or webbing",
+        "multiple eyes (often more than two)"
+    ],
+    "squirrel": [
+        "Climbing behavior, often seen in trees",
+        "a more upright posture (often seen standing on hind legs)",
+        "Small size",
+        "small, delicate paws",
+        "long ears"
+    ],
+    "streetcar": [
+        "a long, rectangular body",
+        "Windows",
+        "Boarding platforms or stops along the tracks",
+        "Overhead electric wires",
+        "streetcar vehicles"
+    ],
+    "sunflower": [
+        "Bright, yellow petals",
+        "Smaller, individual flowers within the disk",
+        "central disk composed of tiny florets",
+        "Large, round flower head",
+        "broad, rough leaves"
+    ],
+    "sweet_pepper": [
+        "Presence of a stem",
+        "Bright, solid colors (e.g., red, green, yellow, orange)",
+        "No facial features (eyes, nose, mouth)",
+        "no eyes or visible body segments",
+        "Larger size compared to rocket leaves "
+    ],
+    "table": [
+        "flat surface",
+        "various materials such as wood, metal, or glass ",
+        "Variety of shapes, such as rectangular, round, or square",
+        "typically smaller in size",
+        "does not contain rooms or walls"
+    ],
+    "tank": [
+        "Exhaust system and vents",
+        "Metal tracks",
+        "Station platforms or rail tracks",
+        "Usually larger size and extended length",
+        "Long, connected carriages or compartments"
+    ],
+    "telephone": [
+        "Buttons for functions such as redial, hold, or speaker (for modern telephones)",
+        "Keypad or dial",
+        "presence of buttons with numbers/letters or touchscreen icons",
+        "base unit with cradle for the handset",
+        "Antenna (for cordless or mobile phones)"
+    ],
+    "television": [
+        "buttons or ports on the frame",
+        "Lack of limbs (arms and legs)",
+        "Flat or slightly curved surface",
+        "power button",
+        "Displaying images or video content"
+    ],
+    "tiger": [
+        "Overall large, muscular body structure",
+        "Claw retraction (tigers have retractable claws)",
+        "Stripes on fur",
+        "Four legs with paws and claws",
+        "Larger paws"
+    ],
+    "tractor": [
+        "an enclosed passenger compartment",
+        "Distinctive large rear wheels (common in many tractors)",
+        "attachment points for farming implements",
+        "Open cab or driver's seat",
+        "Manufacturer emblem or model name typical of agricultural equipment brands (e.g., John Deere, Case IH)"
+    ],
+    "train": [
+        "overhead wires (for electric trains)",
+        "Multiple doors: Trains have multiple doors along the sides for passenger entry, compared to usually fewer on a bus.",
+        "Locomotive engine",
+        "tracks or railroads",
+        "locomotive"
+    ],
+    "trout": [
+        "presence of tail fin",
+        "Absence of claws",
+        "scales",
+        "water surroundings or aquatic habitat",
+        "noticeable head and tail sections"
+    ],
+    "tulip": [
+        "Colorful blooms",
+        "Smooth, elongated petals",
+        "Presence of leaves around the stem",
+        "Flowering structure ",
+        "Leaves"
+    ],
+    "turtle": [
+        "clear segmentation between body parts (head, shell, limbs)",
+        "elongated neck",
+        "Flippers or legs with claws",
+        "a generally rounded or oval body shape",
+        "Organic appearance and texture"
+    ],
+    "wardrobe": [
+        "Larger size",
+        "typically found inside rooms",
+        "typically situated in a bedroom or dressing room",
+        "Placement against a wall or as part of furniture setup",
+        "designed for storage of garments and accessories"
+    ],
+    "whale": [
+        "blowhole on top of the head",
+        "tail flukes (horizontal tail fin)",
+        "Smooth, streamlined body",
+        "blowholes on top of the head",
+        "Visible eyes and mouth"
+    ],
+    "willow_tree": [
+        "Extensive root system",
+        "Natural outdoor setting with soil, grass, or water around the base of the willow tree",
+        "Branches that form a graceful, curved shape",
+        "Often found near water",
+        "Absence of fruit (specifically apples) hanging from branches"
+    ],
+    "wolf": [
+        "Longer legs",
+        "Animal-like appearance and movement",
+        "Muzzle that is broader and shorter",
+        "Four legs",
+        "Canine-like face with a long muzzle"
+    ],
+    "woman": [
+        "Fuselage",
+        "Engaging in activities typical of adults (e.g., driving, working, conversing)",
+        "Adult clothing",
+        "Human figure",
+        "limbs (arms and legs)"
+    ],
+    "worm": [
+        "**Absence of Scales**: Worms have smooth, moist skin, whereas snakes have dry, scaly skin.",
+        "movement (if visible in a series of photos)",
+        "small, segmented appearance",
+        "presence of a mouthpart",
+        "absence of legs"
+    ]
+}

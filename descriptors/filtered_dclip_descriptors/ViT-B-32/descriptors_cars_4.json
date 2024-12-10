@@ -1,0 +1,1363 @@
+{
+    "AM General Hummer SUV 2000": [
+        "Wide and thick wheels with rugged tires",
+        "High ground clearance",
+        "Large side mirrors protruding from the body",
+        "Four doors with distinct, angular shapes",
+        "Boxy and robust body design"
+    ],
+    "Acura RL Sedan 2012": [
+        "sunroof (optional feature)",
+        "alloy wheels",
+        "sleek, aerodynamic body shape",
+        "side mirrors with integrated turn signals",
+        "dual exhaust tips"
+    ],
+    "Acura TL Sedan 2012": [
+        "alloy wheels",
+        "sleek, aerodynamic body shape",
+        "chrome accents around windows and on the grille",
+        "luxury interior features like leather seats and a high-tech dashboard",
+        "pronounced character lines on the sides"
+    ],
+    "Acura TL Type-S 2008": [
+        "four doors",
+        "sporty, alloy wheels",
+        "sunroof (often found in the Type-S trim)",
+        "midsize luxury sedan",
+        "leather-trimmed interior (if the interior is visible)"
+    ],
+    "Acura TSX Sedan 2012": [
+        "compact yet sporty appearance",
+        "sunroof (optional feature)",
+        "sleek and aerodynamic design",
+        "alloy wheels",
+        "smooth, curved body lines"
+    ],
+    "Acura Integra Type R 2001": [
+        "Front bumper with large air intakes",
+        "Compact, two-door coupe body style",
+        "Round or teardrop-shaped headlights",
+        "Characteristic C-pillar with a stylized window design",
+        "5-spoke alloy wheels"
+    ],
+    "Acura ZDX Hatchback 2012": [
+        "dual exhaust outlets",
+        "sculpted body panels with smooth curves",
+        "chrome accents on the exterior details",
+        "sleek, coupe-like roofline",
+        "sharp, angular headlights"
+    ],
+    "Aston Martin V8 Vantage Convertible 2012": [
+        "iconic \"V8 Vantage\" badging on the rear or sides",
+        "alloy wheels with a sporty design",
+        "pronounced rear fenders",
+        "two-door sports car",
+        "convertible soft-top roof"
+    ],
+    "Aston Martin V8 Vantage Coupe 2012": [
+        "distinctive Aston Martin logo on the hood and/or rear",
+        "sleek, low-profile sports car design",
+        "iconic Aston Martin grille with a distinct, wide \"V\" shape",
+        "stylish alloy wheels",
+        "twin exhaust outlets"
+    ],
+    "Aston Martin Virage Convertible 2012": [
+        "sporty, sleek convertible design",
+        "stylish, rounded headlamps",
+        "sculpted hood and side lines that enhance aerodynamics",
+        "two-door coupe with a soft-top convertible roof",
+        "integrated front air intakes and side vents"
+    ],
+    "Aston Martin Virage Coupe 2012": [
+        "sculpted rear end with integrated spoiler",
+        "sleek, aerodynamic body design",
+        "two-door coupe",
+        "luxury sports car",
+        "side vents behind the front wheels"
+    ],
+    "Audi RS 4 Convertible 2008": [
+        "convertible (soft top) roof, which can be up or down",
+        "two-door body style",
+        "sporty alloy wheels",
+        "side mirrors typically in aluminum-look finish",
+        "unique \"RS 4\" badging"
+    ],
+    "Audi A5 Coupe 2012": [
+        "compact luxury coupe",
+        "typically available in various metallic paint colors",
+        "alloy wheels",
+        "sharp, angular headlights (often with LED daytime running lights)",
+        "pronounced wheel arches"
+    ],
+    "Audi TTS Coupe 2012": [
+        "compact and sporty two-door coupe",
+        "typically available in vibrant, sporty colors",
+        "LED daytime running lights",
+        "sleek, aerodynamic design",
+        "dual exhaust outlets"
+    ],
+    "Audi R8 Coupe 2012": [
+        "LED daytime running lights with a distinctive \"eyeliner\" pattern",
+        "Sleek, low-profile sports car",
+        "Two-door coupe design",
+        "Audi logo with four intertwining rings on the front grille",
+        "Dual exhaust pipes at the rear"
+    ],
+    "Audi V8 Sedan 1994": [
+        "boxy and robust body shape",
+        "alloy wheels typical of the 1994 model",
+        "specific front and rear bumper designs of the time",
+        "rectangular headlights",
+        "trim line along the sides of the car"
+    ],
+    "Audi 100 Sedan 1994": [
+        "alloy wheels (common feature but may vary)",
+        "a range of available colors, often seen in darker shades or metallic finishes",
+        "rectangular headlights",
+        "distinctive Audi grille with four interlocked rings",
+        "four-door sedan design"
+    ],
+    "Audi 100 Wagon 1994": [
+        "traditional alloy wheels typical of the period",
+        "four doors",
+        "station wagon body style",
+        "color variations typical of the '90s (such as dark green, silver, navy blue)",
+        "boxy, aerodynamically designed body typical of early '90s cars"
+    ],
+    "Audi TT Hatchback 2011": [
+        "compact and sporty design",
+        "LED daytime running lights",
+        "2-door hatchback",
+        "Alloy wheels",
+        "Audi signature front grille"
+    ],
+    "Audi S6 Sedan 2011": [
+        "LED daytime running lights",
+        "chrome accents around the windows",
+        "signature Audi single-frame grille with four interlocking rings emblem",
+        "sleek, aerodynamic lines",
+        "dual exhaust pipes"
+    ],
+    "Audi S5 Convertible 2012": [
+        "Four-seater convertible with a soft top",
+        "Alloy wheels with a sporty design",
+        "Sleek, integrated side mirrors",
+        "Quad exhaust outlets in the rear",
+        "Leather interior visible with top down"
+    ],
+    "Audi S5 Coupe 2012": [
+        "LED daytime running lights",
+        "Large, distinctive aluminum alloy wheels",
+        "Dual exhaust outlets",
+        "Sleek, aerodynamic design with smooth lines",
+        "S5 badging on the grille and rear"
+    ],
+    "Audi S4 Sedan 2012": [
+        "sporty exterior styling",
+        "LED daytime running lights",
+        "polished and aggressive front bumper with fog lights",
+        "sleek, aerodynamic profile",
+        "quattro all-wheel-drive badge (often found on the rear)"
+    ],
+    "Audi S4 Sedan 2007": [
+        "Fog lights integrated into the front bumper",
+        "Xenon or LED headlights",
+        "Leather interior with sports seats",
+        "Sunroof (optional)",
+        "Lowered and sport-tuned suspension"
+    ],
+    "Audi TT RS Coupe 2012": [
+        "compact sports car",
+        "RS badging, typically located on the grille and the rear of the car",
+        "often seen in bold color options like red, blue, or white",
+        "low ground clearance",
+        "large alloy wheels with sporty rim designs"
+    ],
+    "BMW ActiveHybrid 5 Sedan 2012": [
+        "Sunroof or moonroof (may be optional but common in this model)",
+        "Sleek, aerodynamic body lines",
+        "Sharp, angular headlights with LED daytime running lights",
+        "4-door sedan body style",
+        "Alloy wheels with a multi-spoke design"
+    ],
+    "BMW 1 Series Convertible 2012": [
+        "chrome or shadowline exterior trim",
+        "sporty and compact appearance",
+        "convertible body style (soft-top roof that can be retracted)",
+        "sleek, aerodynamic design",
+        "model badge (often '1 Series' or '128i/135i' indicating specific version)"
+    ],
+    "BMW 1 Series Coupe 2012": [
+        "two-door configuration with a sleek, sporty profile",
+        "M badges (if it's an M Sport or M model)",
+        "sharp, angular headlights, often with halo rings",
+        "a dual exhaust system",
+        "compact coupe body style"
+    ],
+    "BMW 3 Series Sedan 2012": [
+        "Sleek, aerodynamic body lines",
+        "Four-door sedan",
+        "Dual exhaust pipes (typically one on each side for certain models)",
+        "Alloy wheels with BMW logo in the center",
+        "BMW kidney-shaped front grille "
+    ],
+    "BMW 3 Series Wagon 2012": [
+        "chrome or shadowline window trim",
+        "BMW roundel (logo) on the hood, trunk, and wheels",
+        "four-door configuration",
+        "dual exhaust pipes at the rear",
+        "iconic BMW kidney grille at the front"
+    ],
+    "BMW 6 Series Convertible 2007": [
+        "elongated, sleek body shape",
+        "soft-top roof, which can be retracted",
+        "two-door convertible body style",
+        "distinctive BMW roundel logo on the hood and trunk",
+        "BMW kidney grille at the front"
+    ],
+    "BMW X5 SUV 2007": [
+        "SUV body style",
+        "Quad round headlights with halo rings (angel eyes)",
+        "Dual exhaust pipes",
+        "Round BMW emblem on the hood",
+        "Pronounced front bumper with integrated fog lights"
+    ],
+    "BMW X6 SUV 2012": [
+        "four-door configuration with a sporty appearance",
+        "prominently displayed BMW logo on the hood and rear",
+        "elevated ride height typical of an SUV",
+        "pronounced wheel arches housing large alloy wheels",
+        "sleek, sloping roofline resembling a coupe"
+    ],
+    "BMW M3 Coupe 2012": [
+        "distinctive BMW roundel (logo) on the front and rear",
+        "sporty, two-door coupe body style",
+        "\"M3\" badging on the rear and side vents",
+        "sleek, aerodynamic design",
+        "signature BMW angel eye headlights"
+    ],
+    "BMW M5 Sedan 2010": [
+        "four-door sedan",
+        "signature BMW headlights with corona rings (angel eyes)",
+        "aggressive front bumper with large air intakes",
+        "sporty alloy wheels",
+        "aerodynamic side mirrors"
+    ],
+    "BMW M6 Convertible 2010": [
+        "sporty and luxurious two-door convertible car",
+        "convertible soft-top roof (can be either up or down)",
+        "well-crafted interior with leather seats and high-end materials",
+        "BMW logo on the front hood and rear trunk",
+        "sleek, aerodynamic design with smooth curves"
+    ],
+    "BMW X3 SUV 2012": [
+        "alloy wheels with a sophisticated, multi-spoke design",
+        "an overall sporty and premium SUV appearance",
+        "sculpted, sleek lines along the car body with a muscular stance",
+        "dual exhaust pipes for high-performance models",
+        "roof rails, often silver or black"
+    ],
+    "BMW Z4 Convertible 2012": [
+        "low, sporty stance",
+        "distinctive, elongated headlights",
+        "sleek, two-door roadster design",
+        "side mirrors with integrated turn signals",
+        "retractable hardtop convertible"
+    ],
+    "Bentley Continental Supersports Conv. Convertible 2012": [
+        "Convertible soft top roof",
+        "LED headlamps and tail lamps",
+        "\"Supersports\" badging on the body",
+        "Quad exhaust pipes",
+        "Ventilated hood with dual vents"
+    ],
+    "Bentley Arnage Sedan 2009": [
+        "sleek and elongated body shape",
+        "18-inch or 19-inch alloy wheels with Bentley logo in the center",
+        "distinctive luxury sedan design",
+        "dual exhausts",
+        "round headlights positioned on either side of the grille"
+    ],
+    "Bentley Mulsanne Sedan 2011": [
+        "Four round headlights in the front",
+        "Alloy wheels with the Bentley logo",
+        "Luxury car",
+        "Signature \"B\" motifs on wheel centers and possibly on sides",
+        "Distinctive Bentley emblem on the grille"
+    ],
+    "Bentley Continental GT Coupe 2012": [
+        "Bentley \u201cFlying B\u201d emblem on the hood",
+        "round, dual headlights on either side of the grille",
+        "luxury sports car",
+        "distinctive, large front grille with a mesh pattern",
+        "winged Bentley badges on the trunk and wheels"
+    ],
+    "Bentley Continental GT Coupe 2007": [
+        "large, alloy wheels",
+        "luxury sports car",
+        "sculpted side profile with a strong character line",
+        "two-door configuration",
+        "Bentley \"B\" emblem on the grille and rear"
+    ],
+    "Bentley Continental Flying Spur Sedan 2007": [
+        "large alloy wheels with a distinctive design",
+        "luxurious, four-door sedan",
+        "raised, sculpted hood with character lines",
+        "sleek, aerodynamic body lines",
+        "iconic Bentley \"B\" logo on the front grille"
+    ],
+    "Bugatti Veyron 16.4 Convertible 2009": [
+        "luxury sports car",
+        "sleek, aerodynamic design",
+        "convertible soft top",
+        "low-profile chassis",
+        "large, rounded headlights"
+    ],
+    "Bugatti Veyron 16.4 Coupe 2009": [
+        "two-door sports coupe",
+        "sleek and aerodynamic body design",
+        "Bugatti emblem/logo on the front grille and rear",
+        "large air intakes on the front and sides",
+        "large, centered headlights"
+    ],
+    "Buick Regal GS 2012": [
+        "sleek and sporty design",
+        "distinctive Buick grille with vertical slats and Buick emblem",
+        "four-door body style",
+        "sculpted body lines",
+        "Xenon HID headlights"
+    ],
+    "Buick Rainier SUV 2007": [
+        "alloy wheels",
+        "four doors",
+        "midsize SUV",
+        "possibly fog lights integrated into the front bumper",
+        "large, round headlights"
+    ],
+    "Buick Verano Sedan 2012": [
+        "sleek, sophisticated design with smooth body lines",
+        "available in various colors like white, black, silver, and red",
+        "17-inch multi-spoke alloy wheels (or optional 18-inch wheels)",
+        "chrome waterfall grille with the Buick emblem",
+        "dual exhaust outlets with chrome tips"
+    ],
+    "Buick Enclave SUV 2012": [
+        "alloy wheels with a multi-spoke design",
+        "four-wheeled vehicle",
+        "mid to full-size SUV",
+        "rounded and streamlined body shape",
+        "roof rails for storage or cargo"
+    ],
+    "Cadillac CTS-V Sedan 2012": [
+        "lower air intake with sporty design elements",
+        "sleek and aggressive design",
+        "alloy wheels, often with a sporty design",
+        "typically black or dark-tinted glass",
+        "four-door sedan body style"
+    ],
+    "Cadillac SRX SUV 2012": [
+        "",
+        "Mid-size luxury SUV",
+        "Angular, boxy design with sharp lines",
+        "Chrome accents around the windows and grille",
+        "Roof rails"
+    ],
+    "Cadillac Escalade EXT Crew Cab 2007": [
+        "Alloy wheels, often with a polished or chrome look",
+        "Short pickup bed with a stylish finish",
+        "High ground clearance",
+        "Side steps or running boards",
+        "Large, rectangular headlights with a sleek design"
+    ],
+    "Chevrolet Silverado 1500 Hybrid Crew Cab 2012": [
+        "pronounced wheel arches and rugged body design",
+        "likely equipped with alloy wheels",
+        "fog lights integrated into the front bumper",
+        "four doors (Crew Cab configuration)",
+        "elevated ride height, typical of pickup trucks"
+    ],
+    "Chevrolet Corvette Convertible 2012": [
+        "aggressive front and rear spoilers",
+        "quad exhaust pipes at the rear",
+        "large, sporty alloy wheels",
+        "dual circular taillights on each side",
+        "low-profile tires"
+    ],
+    "Chevrolet Corvette ZR1 2012": [
+        "bulging hood with a visible supercharger/intercooler",
+        "ZR1 badging on the sides and rear",
+        "distinctive Corvette crossed flags emblems",
+        "low-slung, sporty appearance",
+        "two-door coupe design with a removable targa roof"
+    ],
+    "Chevrolet Corvette Ron Fellows Edition Z06 2007": [
+        "alloy wheels with a specific design",
+        "white paint with red accents and specific trim detailing",
+        "signature \"Ron Fellows\" emblem or markings",
+        "distinct sports car design",
+        "aggressive front fascia with large air intakes"
+    ],
+    "Chevrolet Traverse SUV 2012": [
+        "Mid-size SUV",
+        "Alloy wheels",
+        "Four-door configuration",
+        "Rounded and slightly bulging wheel arches",
+        "Slightly sloped rear windshield"
+    ],
+    "Chevrolet Camaro Convertible 2012": [
+        "sleek, muscular body design",
+        "Camaro badge on the side or rear",
+        "convertible sports car",
+        "retractable soft top roof",
+        "two doors"
+    ],
+    "Chevrolet HHR SS 2010": [
+        "Retro-styled exterior resembling 1940s vehicles",
+        "Compact crossover SUV body design",
+        "Sporty front and rear bumpers compared to the standard HHR",
+        "Distinctive hood with a small air intake",
+        "Lowered suspension and larger, sportier wheels"
+    ],
+    "Chevrolet Impala Sedan 2007": [
+        "alloy or steel wheels",
+        "typically seen in colors like silver, white, black, and dark blue",
+        "four doors",
+        "mid-sized sedan",
+        "signature chrome trim along the body"
+    ],
+    "Chevrolet Tahoe Hybrid SUV 2012": [
+        "chrome or alloy wheel rims",
+        "four doors",
+        "roof rails",
+        "large, full-size SUV",
+        "rear hatch door with a rear window"
+    ],
+    "Chevrolet Sonic Sedan 2012": [
+        "Available in multiple colors, commonly seen in black, white, silver, red, and blue.",
+        "Rounded and smooth body shape",
+        "Four-door compact sedan",
+        "15-inch or optional 16-inch wheels",
+        "Aggressive, angular headlights with a distinct split design"
+    ],
+    "Chevrolet Express Cargo Van 2007": [
+        "two large side mirrors",
+        "sliding or swinging rear cargo doors",
+        "rectangular headlights",
+        "often painted in solid colors (white is common for cargo vans)",
+        "no rear side windows (or few depending on configuration)"
+    ],
+    "Chevrolet Avalanche Crew Cab 2012": [
+        "side steps or running boards",
+        "overall robust and sturdy build typical of pickup trucks",
+        "hard cover over the truck bed or midgate system",
+        "four-door crew cab configuration",
+        "roof racks (optional)"
+    ],
+    "Chevrolet Cobalt SS 2010": [
+        "sporty alloy wheels ",
+        "compact sedan or coupe body style",
+        "hood scoop or functional air intake (in some variants)",
+        "distinctive SS (Super Sport) badging",
+        "dual exhaust outlets"
+    ],
+    "Chevrolet Malibu Hybrid Sedan 2010": [
+        "alloy wheels",
+        "slightly curved roofline for a sleek look",
+        "body-colored side mirrors and door handles",
+        "Chevrolet bowtie emblem on the front grille and rear",
+        "hybrid badge typically on the rear or front fender"
+    ],
+    "Chevrolet TrailBlazer SS 2009": [
+        "20-inch aluminum wheels",
+        "6.0-liter V8 engine visible if the hood is open",
+        "Front grille with chrome accents",
+        "SUV body style",
+        "Dual exhaust outlets"
+    ],
+    "Chevrolet Silverado 2500HD Regular Cab 2012": [
+        "pronounced wheel arches",
+        "dual driver-side and passenger-side mirrors",
+        "bed liner or open bed at the back",
+        "extended hood with slight contours",
+        "available towing equipment like a hitch receiver"
+    ],
+    "Chevrolet Silverado 1500 Classic Extended Cab 2007": [
+        "available alloy or steel wheels",
+        "pronounced wheel arches",
+        "rugged body lines",
+        "chrome or body-colored bumpers",
+        "full-size pickup truck"
+    ],
+    "Chevrolet Express Van 2007": [
+        "typically white or commercially used color",
+        "combination of sliding or swing-out side doors",
+        "high roof or standard roof options",
+        "multiple windows or sometimes panel van configuration with no side windows",
+        "rear double doors"
+    ],
+    "Chevrolet Monte Carlo Coupe 2007": [
+        "elongated front hood",
+        "two-door coupe body style",
+        "dual exhaust pipes (depending on the trim level)",
+        "alloy wheels with a unique design specific to the model",
+        "sport-style rear spoiler (optional)"
+    ],
+    "Chevrolet Malibu Sedan 2007": [
+        "four doors",
+        "side mirrors attached to the doors",
+        "mid-size sedan body style",
+        "multi-spoke alloy wheels",
+        "front grille with a Chevrolet bowtie emblem"
+    ],
+    "Chevrolet Silverado 1500 Extended Cab 2012": [
+        "four large wheels and tires",
+        "wide, sturdy body",
+        "pronounced wheel arches",
+        "full-size pickup truck",
+        "extended cab with smaller, rear-hinged back doors"
+    ],
+    "Chevrolet Silverado 1500 Regular Cab 2012": [
+        "short bed (generally around 6.5 feet)",
+        "standard alloy or steel wheels",
+        "relatively high ground clearance",
+        "full-size pickup truck",
+        "robust and muscular body styling"
+    ],
+    "Chrysler Aspen SUV 2009": [
+        "sometimes features running boards or side steps",
+        "squared-off, boxy shape",
+        "possibly a sunroof or roof rack",
+        "mid-size SUV",
+        "four doors"
+    ],
+    "Chrysler Sebring Convertible 2010": [
+        "alloy wheels",
+        "retractable soft top or hardtop roof",
+        "signature crosshair front grille",
+        "Chrysler badge/emblem on the grille and rear",
+        "two-door convertible body style"
+    ],
+    "Chrysler Town and Country Minivan 2012": [
+        "Minivan body style with a sleek and rounded shape",
+        "Stow 'n Go seating system (visible if interior is seen)",
+        "Multiple windows with rear privacy glass",
+        "Alloy wheels",
+        "Chrome-finished front grille with horizontal slats"
+    ],
+    "Chrysler 300 SRT-8 2010": [
+        "Typically available in colors like black, silver, white, or red",
+        "Four-door configuration",
+        "Distinctive Chrysler winged emblem",
+        "\u201cSRT-8\u201d badging ",
+        "Large, bold front grille with a mesh pattern"
+    ],
+    "Chrysler Crossfire Convertible 2008": [
+        "sleek, aerodynamic side profile with pronounced curves",
+        "retractable soft top convertible roof",
+        "low-profile sports car body",
+        "two-door configuration",
+        "five or six-spoke alloy wheels"
+    ],
+    "Chrysler PT Cruiser Convertible 2008": [
+        "alloy wheels with a distinctive design",
+        "distinctive front grille with horizontal chrome slats",
+        "two-door convertible body style",
+        "soft top convertible roof",
+        "short and sporty rear end"
+    ],
+    "Daewoo Nubira Wagon 2002": [
+        "four doors with body-colored handles",
+        "rectangular headlights with clear lenses",
+        "alloy or steel wheels with a multi-spoke design",
+        "often available in various colors, typically with a metallic finish",
+        "rear window wiper"
+    ],
+    "Dodge Caliber Wagon 2012": [
+        "various available colors, often seen in red, black, silver, or white",
+        "alloy wheels",
+        "four-door body style",
+        "rounded, SUV-like profile",
+        "headlights with a rectangular shape"
+    ],
+    "Dodge Caliber Wagon 2007": [
+        "Compact, hatchback body style",
+        "Available in various colors, including silver, red, blue, black, and white",
+        "Four doors with a rear hatch",
+        "Angular headlights and taillights",
+        "Raised seating position and crossover-like stance"
+    ],
+    "Dodge Caravan Minivan 1997": [
+        "rounded front end with a sloping hood",
+        "minivan body style",
+        "alloy wheels with distinctive design (depending on trim level)",
+        "signature crosshair grille (typical for Dodge vehicles)",
+        "external mirrors mounted on the front doors"
+    ],
+    "Dodge Ram Pickup 3500 Crew Cab 2010": [
+        "diesel or gasoline engine options",
+        "possible chrome trims and accents",
+        "side mirrors that may be extendable for towing",
+        "dual rear wheels (DRW) on some models",
+        "chrome or black front and rear bumpers"
+    ],
+    "Dodge Ram Pickup 3500 Quad Cab 2009": [
+        "Chrome or blacked-out trim (depending on the trim level)",
+        "High ground clearance",
+        "Side mirrors with optional tow mirror extenders",
+        "Dual rear wheels option (for dually models)",
+        "Large, heavy-duty pickup truck"
+    ],
+    "Dodge Sprinter Cargo Van 2009": [
+        "sliding side door(s) for cargo access",
+        "long wheelbase and extended rear overhang (for longer models)",
+        "black side mirrors usually plastic-cased",
+        "large van body",
+        "white or commonly fleet colors, though can be in other colors as well"
+    ],
+    "Dodge Journey SUV 2012": [
+        "distinct, boxy shape with a somewhat rugged look",
+        "midsize crossover SUV ",
+        "dual exhaust outlets",
+        "rectangular headlights with rounded edges",
+        "sculpted lines along the side panels"
+    ],
+    "Dodge Dakota Crew Cab 2010": [
+        "angular, boxy headlamps",
+        "mid-size pickup truck",
+        "pronounced front grille with crosshair design",
+        "alloy or steel wheels",
+        "four-door crew cab configuration"
+    ],
+    "Dodge Dakota Club Cab 2007": [
+        "mid-size pickup truck",
+        "available in various colors",
+        "pronounced wheel arches",
+        "typically equipped with 16 to 18-inch wheels",
+        "bed length approximately 6.5 feet"
+    ],
+    "Dodge Magnum Wagon 2008": [
+        "muscular and aggressive stance",
+        "elongated, sporty wagon body style",
+        "sculpted hood and fender lines",
+        "four-door configuration with large, accessible rear cargo space",
+        "multi-spoke alloy wheels"
+    ],
+    "Dodge Challenger SRT8 2011": [
+        "iconic muscle car design",
+        "available in various striking colors, often with racing stripes",
+        "distinctive dual front air inlets on the hood",
+        "\"SRT8\" badging",
+        "typically a two-door coupe"
+    ],
+    "Dodge Durango SUV 2012": [
+        "midsize SUV",
+        "chrome or body-colored door handles",
+        "prominent front bumper with fog lights",
+        "wide, muscular stance",
+        "alloy wheels with distinct design"
+    ],
+    "Dodge Durango SUV 2007": [
+        "mid-size SUV",
+        "four doors",
+        "body-on-frame construction",
+        "V6 or V8 engine options",
+        "angular, boxy design"
+    ],
+    "Dodge Charger Sedan 2012": [
+        "available in various colors, typically sporty or classic hues",
+        "muscular, aggressive stance",
+        "bold character lines along the sides",
+        "dual exhaust outlets",
+        "wide rear end with racetrack tail lights"
+    ],
+    "Dodge Charger SRT-8 2009": [
+        "muscular and wide stance",
+        "four-door sedan",
+        "20-inch alloy wheels",
+        "prominent hood scoop",
+        "aggressive front grille with crosshair design"
+    ],
+    "Eagle Talon Hatchback 1998": [
+        "distinct front bumper with integrated fog lights",
+        "alloy wheels often seen with multiple spokes",
+        "sporty two-door design",
+        "sleek, aerodynamic body style",
+        "pop-up headlights (found in earlier models but might still be a visual cue)"
+    ],
+    "FIAT 500 Abarth 2012": [
+        "distinctive red stripes or accents (optional)",
+        "compact, hatchback design",
+        "scorpion logo, often on the front grille and wheels",
+        "dual chrome exhaust tips",
+        "small, compact body size typical of the Fiat 500 series"
+    ],
+    "FIAT 500 Convertible 2012": [
+        "Chrome accents, particularly on the door handles and mirrors",
+        "Compact, two-door car",
+        "Small, rounded rear end with a slight upward curve",
+        "Unique taillight shape with a white central element",
+        "16-inch alloy wheels (optional, with variations in design)"
+    ],
+    "Ferrari FF Coupe 2012": [
+        "typically in vibrant colors like red, yellow, or black",
+        "sleek, sporty, coupe design",
+        "two doors",
+        "rounded headlights",
+        "front grille with a prancing horse logo"
+    ],
+    "Ferrari California Convertible 2012": [
+        "a sculpted hood with subtle lines",
+        "typically found in colors like red, black, or yellow",
+        "iconic Ferrari badge",
+        "low, sleek sports car design",
+        "convertible (can be seen with a roof or without)"
+    ],
+    "Ferrari 458 Italia Convertible 2012": [
+        "retractable hardtop convertible roof",
+        "sleek, aerodynamic body",
+        "Scuderia Ferrari shields on the front fenders",
+        "distinct Ferrari prancing horse logo on the front grille",
+        "low, wide stance with sculpted sides"
+    ],
+    "Ferrari 458 Italia Coupe 2012": [
+        "signature Ferrari red color, although it may come in other colors",
+        "two-door coupe",
+        "low-profile sports car",
+        "LED headlamps",
+        "sleek, aerodynamic design"
+    ],
+    "Fisker Karma Sedan 2012": [
+        "distinctive front grille with dual \"mustache\" design",
+        "sleek, low-profile design",
+        "four-door layout",
+        "dual exhaust outlets in the rear",
+        "chrome accents along the sides"
+    ],
+    "Ford F-450 Super Duty Crew Cab 2012": [
+        "Super Duty badging on the sides",
+        "robust and heavy-duty appearance",
+        "high ground clearance",
+        "large pickup truck",
+        "dual rear wheels (dually configuration)"
+    ],
+    "Ford Mustang Convertible 2007": [
+        "\"Mustang\" or \"GT\" badging on the rear and sides",
+        "sleek and sporty appearance",
+        "specific color options prevalent for that model year (often seen in red, black, white, or blue)",
+        "elongated hood",
+        "high stance with relatively large tires and rims"
+    ],
+    "Ford Freestar Minivan 2007": [
+        "roof rails (possible)",
+        "multi-spoke alloy wheels (varies with trim level)",
+        "four-door minivan",
+        "rounded and spacious body design",
+        "front grille with horizontal bars and Ford logo in the center"
+    ],
+    "Ford Expedition EL SUV 2009": [
+        "typically comes in a variety of colors such as black, white, silver, blue, or red",
+        "running boards along the sides",
+        "large, full-size SUV",
+        "multi-spoke alloy wheels",
+        "extended wheelbase (longer body for extra cargo space)"
+    ],
+    "Ford Edge SUV 2012": [
+        "four doors",
+        "dual exhaust pipes",
+        "large side mirrors",
+        "sharp, defined lines along the body",
+        "mid-size crossover SUV"
+    ],
+    "Ford Ranger SuperCab 2011": [
+        "Compact pickup truck",
+        "Alloy or steel wheels (depending on trim level)",
+        "Tailgate with \"Ford\" embossed or badged",
+        "Short to mid-length truck bed",
+        "Side mirrors mounted on the doors"
+    ],
+    "Ford GT Coupe 2006": [
+        "distinct horizontal racing stripe (often seen on the hood and body)",
+        "side mirrors mounted on thin stalks",
+        "two doors",
+        "rear mid-engine layout",
+        "large, round headlights"
+    ],
+    "Ford F-150 Regular Cab 2012": [
+        "possibly \"F-150\" and \"Ford\" badging on the tailgate and sides",
+        "pickup truck body style",
+        "two doors",
+        "distinctive front and rear bumpers",
+        "factory standard wheels"
+    ],
+    "Ford F-150 Regular Cab 2007": [
+        "a hood with a slightly elevated center",
+        "a boxy, robust body style",
+        "\"F-150\" and \"Ford\" badging on the side or rear",
+        "two doors (regular cab model)",
+        "a full-size pickup truck"
+    ],
+    "Ford Focus Sedan 2007": [
+        "compact four-door vehicle",
+        "typically available in various colors: white, black, silver, blue, red",
+        "alloy wheel designs specific to the 2007 model",
+        "relatively small rear windshield",
+        "side mirrors placed on the doors"
+    ],
+    "Ford E-Series Wagon Van 2012": [
+        "high roof option available for extra headroom or cargo space",
+        "typically white, but available in various colors",
+        "\"E-Series\" or \"Econoline\" badge, typically on the front grille or back",
+        "steel or alloy wheels",
+        "rectangular front grille with horizontal bars"
+    ],
+    "Ford Fiesta Sedan 2012": [
+        "alloy or steel wheels (depending on the trim level)",
+        "distinctive front grille with chrome accents",
+        "smooth, aerodynamic body lines",
+        "medium-sized, rounded, and slightly bulging fenders",
+        "body-colored side mirrors"
+    ],
+    "GMC Terrain SUV 2012": [
+        "four doors",
+        "alloy wheels",
+        "bold, squared-off design",
+        "pronounced wheel arches",
+        "prominent front grille with chrome accents"
+    ],
+    "GMC Savana Van 2012": [
+        "Usually available in white or other neutral colors",
+        "Sliding side door(s)",
+        "Boxy and utilitarian body shape",
+        "Rectangular headlights",
+        "Black plastic trim around the windows and lower body"
+    ],
+    "GMC Yukon Hybrid SUV 2012": [
+        "four doors",
+        "alloy wheels",
+        "blacked-out or chrome exterior trim",
+        "full-size SUV",
+        "large front grille with the GMC emblem"
+    ],
+    "GMC Acadia SUV 2012": [
+        "chrome trim around windows and other exterior parts",
+        "midsize SUV ",
+        "wide stance and relatively low ground clearance",
+        "rounded body shape",
+        "usually available in various colors, often with metallic finishes"
+    ],
+    "GMC Canyon Extended Cab 2012": [
+        "alloy wheels or steel rims",
+        "side mirrors protruding from the doors",
+        "mid-sized pickup truck",
+        "elongated cargo bed",
+        "tailgate with 'Canyon' or 'GMC' badging"
+    ],
+    "Geo Metro Convertible 1993": [
+        "two doors",
+        "small, narrow tires",
+        "typically seen in bright colors like red, blue, white, or green",
+        "compact car",
+        "rounded, aerodynamic body shape"
+    ],
+    "HUMMER H3T Crew Cab 2010": [
+        "alloy wheels and all-terrain tires",
+        "pronounced, muscular fenders",
+        "midsize truck with a robust and rugged design",
+        "boxy, angular shape",
+        "large, squared-off wheel arches"
+    ],
+    "HUMMER H2 SUT Crew Cab 2009": [
+        "sizable, distinct rear cargo area (pickup truck bed)",
+        "a squared-off body design",
+        "aggressive, wide stance",
+        "large off-road tires",
+        "distinctive HUMMER badging"
+    ],
+    "Honda Odyssey Minivan 2012": [
+        "large windows",
+        "roof rails or luggage rack (optional)",
+        "alloy wheels",
+        "sliding rear doors",
+        "minivan body style"
+    ],
+    "Honda Odyssey Minivan 2007": [
+        "minivan body shape",
+        "Honda emblem/logo on the front grille",
+        "roof rails (sometimes present)",
+        "multi-spoke alloy wheels",
+        "rounded edges and overall aerodynamic design"
+    ],
+    "Honda Accord Coupe 2012": [
+        "defined character line running along the sides",
+        "sculpted hood lines",
+        "sleek and aerodynamic body shape",
+        "sunroof (available in some trims)",
+        "alloy wheels"
+    ],
+    "Honda Accord Sedan 2012": [
+        "alloy wheels with a distinct design that was specific to the 2012 model",
+        "horizontally-aligned, narrow headlamps",
+        "four-door sedan layout",
+        "sleek, aerodynamic body design"
+    ],
+    "Hyundai Veloster Hatchback 2012": [
+        "distinctive front grille with hexagonal design",
+        "sloped roofline",
+        "pronounced character lines running along the sides",
+        "compact hatchback design",
+        "sporty alloy wheels"
+    ],
+    "Hyundai Santa Fe SUV 2012": [
+        "Four-door midsize SUV",
+        "Rear Hyundai emblem and \"Santa Fe\" badging",
+        "Alloy wheels with a typical SUV stance",
+        "Sleek, curved body design",
+        "Roof rails"
+    ],
+    "Hyundai Tucson SUV 2012": [
+        "sharp, angular headlight design",
+        "four doors and a rear hatch",
+        "alloy wheels (often)",
+        "compact SUV body style",
+        "limited chrome detailing around windows and grille"
+    ],
+    "Hyundai Veracruz SUV 2012": [
+        "dual exhaust outlets on the rear bumper",
+        "high ground clearance",
+        "mid-size crossover SUV",
+        "smooth lines extending from the front to the back, giving a cohesive look",
+        "large, multi-spoked alloy wheels"
+    ],
+    "Hyundai Sonata Hybrid Sedan 2012": [
+        "LED headlights and fog lights"
+    ],
+    "Hyundai Elantra Sedan 2007": [
+        "compact car angle and proportions",
+        "alloy wheels or standard steel rims",
+        "roof antenna (either short or whip-style)",
+        "smooth, curving body lines ",
+        "gas tank cap on the left side"
+    ],
+    "Hyundai Accent Sedan 2012": [
+        "sleek, aerodynamic body lines",
+        "alloy wheels or steel wheels with hubcaps",
+        "compact car design",
+        "signature cascading grille",
+        "side mirrors with turn signal indicators (on some models)"
+    ],
+    "Hyundai Genesis Sedan 2012": [
+        "Sleek, streamlined body design",
+        "Dual exhaust outlets",
+        "Smooth roofline tapering towards the rear",
+        "Hyundai badge/logo on front and rear",
+        "Upswept headlamp design"
+    ],
+    "Hyundai Sonata Sedan 2012": [
+        "four doors with chrome accents",
+        "alloy wheels",
+        "sleek, aerodynamic body design",
+        "midsize sedan",
+        "flowing, coupe-like roofline"
+    ],
+    "Hyundai Elantra Touring Hatchback 2012": [],
+    "Hyundai Azera Sedan 2012": [
+        "sunroof (optional feature)",
+        "smooth lines and curves along the body sides",
+        "sleek and aerodynamic body design",
+        "touchscreen infotainment system (interior feature)",
+        "spacious interior with leather seats (premium models)"
+    ],
+    "Infiniti G Coupe IPL 2012": [
+        "sleek, 2-door coupe body style",
+        "low, sporty stance",
+        "aggressive front bumper design",
+        "dual exhaust outlets",
+        "distinctive headlight and taillight design"
+    ],
+    "Infiniti QX56 SUV 2011": [
+        "side steps for easier cabin entry",
+        "bold and distinctive front grille with the Infiniti logo",
+        "pronounced, muscular fender flares",
+        "large, luxury SUV",
+        "dual exhaust outlets"
+    ],
+    "Isuzu Ascender SUV 2008": [
+        "alloy or steel wheels",
+        "mid-sized SUV",
+        "four doors with angular rear windows",
+        "visible body cladding or trim along the lower sides",
+        "rectangular headlights with turn signals integrated"
+    ],
+    "Jaguar XK XKR 2012": [
+        "dual exhaust pipes",
+        "visible rear spoiler (especially on the XKR model)",
+        "sporty front bumper with air intakes",
+        "sleek, low-profile coupe body style",
+        "large alloy wheels with performance tires"
+    ],
+    "Jeep Patriot SUV 2012": [
+        "boxy and rugged design",
+        "tough, utilitarian appearance with minimalist styling cues",
+        "factory alloy wheels or steel rims",
+        "compact SUV body shape",
+        "four-door configuration"
+    ],
+    "Jeep Wrangler SUV 2012": [
+        "two-door or four-door model options",
+        "high ground clearance",
+        "distinctive boxy shape",
+        "Jeep badge and Wrangler emblem on the body",
+        "flared fenders"
+    ],
+    "Jeep Liberty SUV 2012": [
+        "possibly a sunroof (optional feature)",
+        "boxy, rugged design",
+        "four doors",
+        "alloy wheels",
+        "compact SUV"
+    ],
+    "Jeep Grand Cherokee SUV 2012": [
+        "muscular, boxy shape",
+        "chrome detailing accents (sometimes)",
+        "available in various colors",
+        "high ground clearance",
+        "alloy wheels"
+    ],
+    "Jeep Compass SUV 2012": [
+        "angular, rugged exterior",
+        "compact SUV",
+        "high ground clearance",
+        "alloy wheels",
+        "five-door configuration"
+    ],
+    "Lamborghini Reventon Coupe 2008": [
+        "matte grey or dark grey exterior color",
+        "large air intakes on the front bumper",
+        "low-profile, aerodynamic body design",
+        "Y-shaped LED daytime running lights",
+        "Lamborghini emblem on the hood and rear"
+    ],
+    "Lamborghini Aventador Coupe 2012": [
+        "Lamborghini emblem (bull logo) on the front and rear",
+        "two doors (coupe style)",
+        "sleek and low-profile sports car",
+        "scissor doors (also known as \"Lambo doors\")",
+        "aerodynamic body design with sharp edges"
+    ],
+    "Lamborghini Gallardo LP 570-4 Superleggera 2012": [
+        "two-door coupe with deep side air intakes",
+        "aggressive and aerodynamic body lines",
+        "pronounced front bumper with large air intakes",
+        "Superleggera branding along the sides or rear",
+        "fixed rear wing for enhanced downforce"
+    ],
+    "Lamborghini Diablo Coupe 2001": [
+        "typically available in vibrant colors like yellow, red, or orange",
+        "wide, low-profile tires with large alloy wheels",
+        "large rear wing or spoiler",
+        "prominent Lamborghini bull logo on the front and rear",
+        "prominent air intakes and vents"
+    ],
+    "Land Rover Range Rover SUV 2012": [
+        "signature side vents on the front fenders",
+        "high ground clearance",
+        "large and boxy SUV shape",
+        "multiple alloy wheel designs, typically with a robust style",
+        "pronounced wheel arches"
+    ],
+    "Land Rover LR2 SUV 2012": [
+        "alloy wheels with a stylish, robust design",
+        "compact SUV",
+        "high ground clearance",
+        "roof rails (often silver or black)",
+        "side vent on the front fender"
+    ],
+    "Lincoln Town Car Sedan 2011": [
+        "alloy wheels",
+        "four doors",
+        "elongated body shape",
+        "signature town car badging on the side fenders",
+        "chrome accents on the exterior"
+    ],
+    "MINI Cooper Roadster Convertible 2012": [
+        "compact, sporty two-seater design",
+        "sleek, aerodynamic body lines",
+        "dual exhaust pipes",
+        "MINI badge on the front grille and rear",
+        "prominent wheel arches"
+    ],
+    "Maybach Landaulet Convertible 2012": [
+        "long, sleek body",
+        "elongated rear doors with rear windows that can be lowered",
+        "large, stylish alloy wheels",
+        "retractable soft top or hardtop roof",
+        "luxury convertible design"
+    ],
+    "Mazda Tribute SUV 2011": [
+        "pronounced fender flares",
+        "four-door compact SUV",
+        "alloy wheels with a specific design pattern",
+        "body-colored side mirrors and door handles",
+        "slightly contoured body lines along the sides"
+    ],
+    "McLaren MP4-12C Coupe 2012": [
+        "butterfly doors (also known as dihedral doors)",
+        "low ground clearance",
+        "distinct McLaren logo on the front and rear",
+        "sculpted rear with dual exhausts",
+        "two-door coupe configuration"
+    ],
+    "Mercedes-Benz 300-Class Convertible 1993": [
+        "soft or hard convertible top",
+        "alloy wheels with a classic design",
+        "sleek, low-profile convertible body",
+        "model-specific badging (e.g., \"300-Class\" or \"300CE\")",
+        "clear and defined body lines"
+    ],
+    "Mercedes-Benz C-Class Sedan 2012": [
+        "dual exhaust outlets (in some models)",
+        "stylish alloy wheels",
+        "sleek, rounded body design",
+        "four-door vehicle",
+        "LED daytime running lights"
+    ],
+    "Mercedes-Benz SL-Class Coupe 2009": [
+        "sporty, two-door coupe body style",
+        "dual exhaust pipes at the rear",
+        "sleek, aerodynamic shape",
+        "alloy wheels with Mercedes-Benz logo in the center",
+        "elongated hood"
+    ],
+    "Mercedes-Benz E-Class Sedan 2012": [
+        "dual exhaust outlets at the rear",
+        "four-door luxury sedan body style",
+        "sleek and aerodynamic body design",
+        "sculpted hood and sharp character lines along the side",
+        "stylish taillights with LED technology"
+    ],
+    "Mercedes-Benz S-Class Sedan 2012": [
+        "sharp, stylish headlights with LED accents",
+        "sleek, elongated body design",
+        "alloy wheels with multi-spoke design",
+        "luxury sedan",
+        "four doors"
+    ],
+    "Mercedes-Benz Sprinter Van 2012": [
+        "high roof option available",
+        "sliding side door",
+        "standard white or other common fleet colors",
+        "prominent hood with contours",
+        "large, boxy van shape"
+    ],
+    "Mitsubishi Lancer Sedan 2012": [
+        "Four doors",
+        "Distinctive trapezoidal front grille",
+        "Fog lights (available in higher trims)",
+        "Sharp, angular headlights",
+        "Side mirrors with turn signal indicators (in some trims)"
+    ],
+    "Nissan Leaf Hatchback 2012": [
+        "\"Leaf\" and \"Zero Emission\" badges typically placed on the rear",
+        "blue accents around the Nissan logo",
+        "smooth aerodynamic lines",
+        "compact five-door hatchback design",
+        "absence of a traditional exhaust pipe, indicating its electric nature"
+    ],
+    "Nissan NV Passenger Van 2012": [
+        "large side windows for passenger visibility",
+        "high roof option (providing ample headroom)",
+        "large van body with a boxy shape",
+        "front-engine, rear-wheel-drive layout",
+        "available in various colors, typically seen in white, black, silver, and gray"
+    ],
+    "Nissan Juke Hatchback 2012": [
+        "compact crossover SUV",
+        "distinctive, bulging fenders",
+        "alloy wheels (commonly found in many models)",
+        "sloping roofline",
+        "available in various colors, often seen in vibrant shades"
+    ],
+    "Nissan 240SX Coupe 1998": [
+        "Compact sports car",
+        "Distinctive front grille with Nissan emblem",
+        "Pop-up headlights (common in earlier models, flush headlights in 1998 model)",
+        "Specific color options typical of the period, such as red, white, black, and metallic shades",
+        "Two-door coupe body style"
+    ],
+    "Plymouth Neon Coupe 1999": [
+        "compact car",
+        "alloy or steel wheels with hubcaps",
+        "distinct \"bubble\" headlights",
+        "typically available in various colors like silver, red, blue, and white",
+        "relatively small side mirrors"
+    ],
+    "Porsche Panamera Sedan 2012": [
+        "sculpted hood",
+        "stylish alloy wheels",
+        "sleek, aerodynamic design",
+        "smooth, flowing roofline that slopes to the rear",
+        "dual exhaust pipes"
+    ],
+    "Ram C/V Cargo Van Minivan 2012": [
+        "relatively low ground clearance for a van",
+        "steel wheels (often with hubcaps)",
+        "\"C/V\" or \"Cargo Van\" badging usually on the rear or side",
+        "large sliding door on the side for cargo access",
+        "horizontal front grille with chrome accents"
+    ],
+    "Rolls-Royce Phantom Drophead Coupe Convertible 2012": [
+        "retractable fabric or soft-top roof",
+        "two-door body style",
+        "Spirit of Ecstasy hood ornament",
+        "sleek, elongated body design",
+        "round headlights with LED accents"
+    ],
+    "Rolls-Royce Ghost Sedan 2012": [
+        "wide, pronounced front bumper",
+        "large alloy wheels",
+        "rectangular LED headlights",
+        "4-door configuration",
+        "rectangular, polished metal front grille"
+    ],
+    "Rolls-Royce Phantom Sedan 2012": [
+        "rear-hinged \"suicide\" doors",
+        "luxurious, large sedan",
+        "long wheelbase",
+        "rectangular, full LED headlights",
+        "high-quality, plush leather interior"
+    ],
+    "Scion xD Hatchback 2012": [
+        "relatively boxy and upright design",
+        "compact, 5-door hatchback body style",
+        "relatively high roofline for a compact car",
+        "triangular rear quarter window",
+        "vertical tail lights at the rear corners of the vehicle"
+    ],
+    "Spyker C8 Convertible 2009": [
+        "aluminum body panels",
+        "sports car stance with low profile tires",
+        "sleek, aerodynamic body lines",
+        "luxury sports car",
+        "convertable soft top roof"
+    ],
+    "Spyker C8 Coupe 2009": [
+        "aerodynamically sculpted body",
+        "scissor doors (also known as vertical doors)",
+        "low, sleek sports car design",
+        "distinctive Spyker emblem on the front grille",
+        "pronounced front splitter and rear diffuser"
+    ],
+    "Suzuki Aerio Sedan 2007": [
+        "standard color options such as silver, blue, gray, black, or white",
+        "alloy or steel wheels",
+        "chrome accents (may vary by trim level)",
+        "compact sedan body shape",
+        "four doors"
+    ],
+    "Suzuki Kizashi Sedan 2012": [
+        "four doors",
+        "alloy wheels with distinct design",
+        "dual exhaust outlets",
+        "chrome detailing, especially around windows and front grille",
+        "sleek, mid-size sedan body style"
+    ],
+    "Suzuki SX4 Hatchback 2012": [
+        "relatively high ground clearance for a compact car",
+        "compact hatchback design",
+        "alloy wheels (often multi-spoke design)",
+        "often has a two-tone interior with a clean, functional dashboard design",
+        "roof rails"
+    ],
+    "Suzuki SX4 Sedan 2012": [
+        "four doors",
+        "chrome accents around the windows and grille",
+        "compact sedan body style",
+        "distinctive alloy wheel design",
+        "headlamps that are slightly curved and taper towards the edges"
+    ],
+    "Tesla Model S Sedan 2012": [
+        "minimalist interior design with premium materials",
+        "flush door handles that extend when touched",
+        "Tesla logo on the front and rear of the car",
+        "sleek, aerodynamic body design",
+        "panoramic glass roof option"
+    ],
+    "Toyota Sequoia SUV 2012": [
+        "available in various colors, including metallic finishes",
+        "chrome or body-colored door handles and side mirrors",
+        "boxy and substantial body shape",
+        "full-size SUV",
+        "multiple passenger windows including a rear-quarter window"
+    ],
+    "Toyota Camry Sedan 2012": [
+        "sleek, aerodynamic exterior design",
+        "alloy wheels (typically 16 to 18 inches)",
+        "chrome accents around the windows on higher trims",
+        "relatively conservative and clean lines",
+        "dual exhaust tips on certain trims (like the Camry SE model)"
+    ],
+    "Toyota Corolla Sedan 2012": [
+        "available in various colors like white, black, silver, blue, and red",
+        "four doors with chrome or body-colored handles",
+        "alloy or steel wheels (depending on trim level)",
+        "sleek, aerodynamic shape",
+        "distinct front headlights with a rounded, somewhat teardrop shape"
+    ],
+    "Toyota 4Runner SUV 2012": [
+        "muscular, boxy appearance",
+        "high ground clearance",
+        "pronounced wheel arches",
+        "alloy wheels",
+        "mid-size SUV"
+    ],
+    "Volkswagen Golf Hatchback 2012": [
+        "compact car",
+        "sleeker, more angular headlights",
+        "clean, simple rear design with minimal badging",
+        "alloy wheels",
+        "body-colored side mirrors and door handles"
+    ],
+    "Volkswagen Golf Hatchback 1991": [
+        "typically available in various colors, often seen in red, blue, white, and black",
+        "boxy shape with straight lines",
+        "round headlights",
+        "three or five-door layout",
+        "compact hatchback car"
+    ],
+    "Volkswagen Beetle Hatchback 2012": [
+        "often available in vibrant colors and various finishes",
+        "alloy wheels with a classic design",
+        "rounded front hood",
+        "compact and round body shape",
+        "two-door configuration"
+    ],
+    "Volvo C30 Hatchback 2012": [
+        "compact hatchback design",
+        "two-door configuration",
+        "alloy wheels",
+        "interior features could include a floating center console with a minimalistic design",
+        "clean, aerodynamic body lines"
+    ],
+    "Volvo 240 Sedan 1993": [
+        "frame-mounted side mirrors",
+        "large round or rectangular headlights",
+        "chrome or black trim",
+        "4 doors (sedan body style)",
+        "distinctive rectangular front grille"
+    ],
+    "Volvo XC90 SUV 2007": [
+        "SUV body style",
+        "Alloy wheels with a Volvo logo",
+        "Five or seven seating configuration",
+        "\"XC90\" badging on the rear and sides of the vehicle",
+        "Wide, rectangular headlights"
+    ],
+    "smart fortwo Convertible 2012": [
+        "Distinctive short length and tall profile",
+        "Two doors with large windows",
+        "Small wheels and short overhangs",
+        "Compact, two-seater design",
+        "Convertible roof, typically fabric and retractable"
+    ]
+}

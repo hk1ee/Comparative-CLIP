@@ -1,0 +1,327 @@
+{
+    "banded": [
+        "straight lines (bands)",
+        "Consistent repetition of the pattern",
+        "Regular, parallel lines or stripes",
+        "Linear or wavy patterns",
+        "consistent width across bands"
+    ],
+    "blotchy": [
+        "Organic, non-linear shapes",
+        "Consistent linearity",
+        "variations in intensity within patches",
+        "Lack of three-dimensional texture",
+        "irregular, uneven patterns "
+    ],
+    "braided": [
+        "Strands that usually follow a repetitive over-under pattern",
+        "a repetitive over-and-under pattern",
+        "Simpler, more uniform pattern",
+        "A textured, three-dimensional appearance",
+        "interlacing strands"
+    ],
+    "bubbly": [
+        "Foam or small bubbles forming on the surface",
+        "Presence of visible pores or holes",
+        "Bubbly surface:",
+        "uniform spheres",
+        "clear edges"
+    ],
+    "bumpy": [
+        "textured appearance",
+        "distinct edges of elevated areas",
+        "Varied heights and textures",
+        "**Tactile Impression**: While this is more perceptual, imagining the tactile sensation can help; bumps would feel uneven and rough, whereas grooves would feel ribbed or lined.",
+        "Lack of smooth, continuous patterns"
+    ],
+    "chequered": [
+        "Often seen in contexts such as chessboards or racing flags",
+        "No overlapping lines or shading",
+        "High contrast between the alternating colors (often black and white)",
+        "Alternating colors (typically black and white)",
+        "Alternating squares (typically two colors)"
+    ],
+    "cobwebbed": [
+        "Random, intersecting web strands",
+        "**Fine, thread-like structures:** Cobwebs consist of fine, thread-like strands.",
+        "Irregular patterns",
+        "Irregular, web-like patterns (for cobwebs)",
+        "**Lack of distinct structure:** Unlike cobwebs, smears do not have an organized pattern."
+    ],
+    "cracked": [
+        "Visible depth variations",
+        "Depth variation: Cracks can vary in depth along their length.",
+        "Irregular lines or fissures",
+        "Long, narrow lines or fissures on the surface",
+        "Random patterns: Cracks tend to form in irregular, unpredictable patterns."
+    ],
+    "crosshatched": [
+        "Indicates texture or shadow in drawings",
+        "Material can be metal, fabric, or plastic",
+        "detailed shading",
+        "uniform texture",
+        "Simpler, less textured appearance compared to crosshatching"
+    ],
+    "crystalline": [
+        "geometric shapes",
+        "Regular geometric shapes",
+        "natural crystal faces or facets",
+        "sharp facets",
+        "Presence of water or debris in the depressions"
+    ],
+    "dotted": [
+        "typically seen on fabric or paper for design",
+        "Consistent dot size throughout the pattern",
+        "Context of use (dotted patterns might be found in different contexts, like technical drawings or textures, while polka dots are more common in clothing and design)",
+        "Uniform pattern of separation between dots",
+        "uniform size and shape of dots"
+    ],
+    "fibrous": [
+        "Material composition: Fibrous surfaces are usually found in materials like wood, fabric, or plants that naturally have fibers. Grooved surfaces are more likely to be found in engineered materials like metal, plastic, or some kinds of processed wood.",
+        "can show variation in thickness of individual fibers",
+        "Texture resembling fibers or threads",
+        "distinctive fibers",
+        "Fiber direction: Fibrous surfaces will show strands or fibers that may run in various directions, unlike the straight and parallel lines typically found in grooved surfaces."
+    ],
+    "flecked": [
+        "No clear lines or breaks in the surface",
+        "No distinct spots or specks",
+        "Specks or dots uniformly scattered",
+        "Defined edges on each fleck",
+        "Irregular patterns"
+    ],
+    "freckled": [
+        "Natural skin tone showing through",
+        "Marks blending into the skin",
+        "natural appearance",
+        "concentrated in specific areas",
+        "Natural skin color or pigmentation"
+    ],
+    "frilly": [
+        "intricate details",
+        "Often associated with fabrics or natural elements like flowers",
+        "Clean Edges",
+        "Structured Shape",
+        "Minimal or No Decorative Elements"
+    ],
+    "gauzy": [
+        "Light, sheer texture",
+        "Tangled or clumped layers",
+        "light, airy texture",
+        "sheer texture",
+        "Sheer texture"
+    ],
+    "grid": [
+        "Typically found on roads or pathways",
+        "absence of deep depressions or channels",
+        "Intended geometric design",
+        "cross-hatching",
+        "Clear, distinct gaps between lines"
+    ],
+    "grooved": [
+        "Consistent and uniform spacing between grooves",
+        "Uniformity in spacing and direction of grooves",
+        "parallel lines or pattern of the grooves",
+        "Horizontal or vertical alignment of grooves",
+        "Smooth transitions between grooves"
+    ],
+    "honeycombed": [
+        "hexagonal cells or patterns",
+        "hexagonal patterns",
+        "Hexagonal patterns",
+        "Hexagonal cells",
+        "uniform honeycomb grid without interwoven strands"
+    ],
+    "interlaced": [
+        "crisscross design",
+        "intertwined elements",
+        "overlap pattern",
+        "Smooth transitions between elements",
+        "Repeated V-shapes "
+    ],
+    "knitted": [
+        "absence of irregular smudges or streaks",
+        "uniform texture",
+        "Complex textures like cables or lace",
+        "Visible knit stitches (often V-shaped)",
+        "distinct stitch patterns"
+    ],
+    "lacelike": [
+        "Intricate, delicate patterns resembling lace",
+        "\"Lacelike\" may describe something with an intricate, delicate, and detailed pattern resembling lace.",
+        "Delicate and intricate pattern",
+        "intricate, delicate patterns",
+        "floral or geometric designs"
+    ],
+    "lined": [
+        "consistent spacing between the horizontal lines",
+        "uniform spacing between lines (for lined)",
+        "uniform lines",
+        "straight lines",
+        "smooth transitions between lines"
+    ],
+    "marbled": [
+        "no structural damage or gaps",
+        "Appearance of depth",
+        "Organic, irregular shapes without sharp angles",
+        "Appearance of veins or streaks, resembling natural marble",
+        "organic, irregular patterns"
+    ],
+    "matted": [
+        "Presence of parallel or patterned indentations",
+        "compacted and dense look (for matted hair/fibers)",
+        "tangled or clumped appearance (for matted hair/fibers)",
+        "smooth, uniform texture",
+        "Uniform, even texture"
+    ],
+    "meshed": [
+        "Used in fences, screens, or sieves",
+        "Often used for nets or screens",
+        "Textured surface with intersecting lines",
+        "Edge Definition: The edges of holes in perforated materials are well-defined and often sharp, while mesh edges are softer and more blended into the overall pattern.",
+        "Structured and uniform texture"
+    ],
+    "paisley": [
+        "Smooth, continuous design without dimensional texture",
+        "Generally has a structured, repeating design",
+        "Lightweight and airy appearance",
+        "Generally solid or with minimal pattern",
+        "Dense, repeating design"
+    ],
+    "perforated": [
+        "Holes evenly spaced",
+        "Consistent pattern or alignment of holes",
+        "Uniform, evenly spaced holes",
+        "Uniform pattern of holes",
+        "Visible symmetry or specific design in the arrangement of holes"
+    ],
+    "pitted": [
+        "Surface appearance looks like repeated tiny indentations",
+        "Presence of irregular, small holes or indentations",
+        "Often found on metal or stone surfaces",
+        "Random pattern of depressions",
+        "Smaller indentations"
+    ],
+    "pleated": [
+        "Fabric texture",
+        "Structured appearance: Pleating often gives a more structured and formal look compared to the flat, untextured surface of matted items.",
+        "Uniform pleats",
+        "three-dimensional texture",
+        "Less uniformity and symmetry compared to pleated structures"
+    ],
+    "polka-dotted": [
+        "Repetitive dot pattern in various sizes",
+        "Usually covers the entire surface or fabric",
+        "absence of linear or vertical lines",
+        "High contrast between dots and background",
+        "flat pattern (polka-dots)"
+    ],
+    "porous": [
+        "Uneven surface texture",
+        "matting",
+        "Smooth underlying surface with irregular patterns or marks",
+        "rough surface",
+        "Surface texture appears rough but uniform"
+    ],
+    "potholed": [
+        "Irregular, deep indentations or holes in the road surface (potholed)",
+        "Gaping holes or depressions in the road surface",
+        "Shallower depressions",
+        "Irregular shapes and sizes",
+        "Depth variation within the depression"
+    ],
+    "scaly": [
+        "overlapping, plate-like patterns",
+        "Smooth, overlapping texture",
+        "overlapping patterns",
+        "Reflective sheen due to scale texture",
+        "irregular texture"
+    ],
+    "smeared": [
+        "random and chaotic appearance",
+        "inconsistent texture",
+        "Areas of varying opacity",
+        "Visible brush strokes or finger marks"
+    ],
+    "spiralled": [
+        "Clear starting point, usually in the center",
+        "Uniform spiral width and spacing",
+        "Gradual, unbroken progression",
+        "Spiral shape",
+        "Regular, repeated curves"
+    ],
+    "sprinkled": [
+        "no smearing or spreading seen around the particles",
+        "varying sizes and shapes of particles",
+        "varying sizes of particles",
+        "clear distinction between the sprinkled particles and the surface they are on",
+        "Even distribution of small particles (sprinkled)"
+    ],
+    "stained": [
+        "Blotchy appearance",
+        "Presence of a spill or residue",
+        "Spread or blotchy pattern",
+        "Spreading pattern, often irregular or blotchy",
+        "Distinct, pinpoint marks"
+    ],
+    "stratified": [
+        "chaotic or irregular patterns of rock or sediment",
+        "Sedimentary appearance",
+        "distinct layers",
+        "mixed and disordered distribution of rock or sediment types",
+        "**Smooth and aligned erosion patterns:** Stratified rocks may show smooth, linear erosion patterns following the layers, whereas potholes have rounded, irregular shapes."
+    ],
+    "striped": [
+        "Varying widths among stripes",
+        "Often contrasting colors between lines"
+    ],
+    "studded": [
+        "Often on objects like belts, clothing, or accessories which typically use studs or rivets",
+        "3D texture from the studs.",
+        "Even distribution over a fabric or material",
+        "Shiny or metallic studs",
+        "a more structured and less random overall appearance"
+    ],
+    "swirly": [
+        "Uniform spacing",
+        "Consistent line thickness",
+        "Variable line thickness",
+        "uniform and consistent spacing throughout the curves",
+        "Soft, continuous motions"
+    ],
+    "veined": [
+        "Intricate line patterns",
+        "Typically found in materials like marble or leaves",
+        "Fine, thread-like lines",
+        "Consistency in pattern",
+        "**Distinct Lines**: Veined patterns typically have clear, well-defined lines or streaks running through them, resembling the veins in leaves or blood vessels."
+    ],
+    "waffled": [
+        "Grid-like indentations",
+        "raised, grid-like texture",
+        "Grid-like pattern",
+        "grid-like pattern",
+        "consistent texture"
+    ],
+    "woven": [
+        "Smooth, regular surfaces",
+        "Smooth texture without raised areas",
+        "Irregular or non-uniform pattern",
+        "Generally less stretchy material",
+        "Often shows patterns like plaid or herringbone more distinctly"
+    ],
+    "wrinkled": [
+        "often associated with fabric or skin",
+        "patterns akin to crumpled fabric or skin",
+        "variable depth ",
+        "Lines and creases",
+        "random texture"
+    ],
+    "zigzagged": [
+        "Continuous wavy or jagged pattern",
+        "Lack of patterns",
+        "Repeated V or W shapes",
+        "Repeating V or W shapes",
+        "defined and structured patterns"
+    ]
+}

@@ -1,0 +1,689 @@
+{
+    "apple": [
+        "Absence of facial features",
+        "Round or slightly oval shape",
+        "Lack of human features (eyes, nose, mouth, etc.)",
+        "Lack of facial features or limbs",
+        "Small, round shape"
+    ],
+    "aquarium_fish": [
+        "Absence of human facial features or body shape",
+        "Lateral line along the sides",
+        "Lack of large, prominent teeth",
+        "distinct eyes",
+        "lack of a dorsal blowhole"
+    ],
+    "baby": [
+        "potential presence of baby items (toys, bottles, blankets)",
+        "lack of full head of hair (or sparse hair)",
+        "often seen with items like pacifiers, bottles, or toys",
+        "absence of or very little hair",
+        "a generally rounded body shape"
+    ],
+    "bear": [
+        "large, rounded shape ",
+        "Paw prints with five toes and claws",
+        "Absence of clothing",
+        "Four legs and a hunched posture",
+        "Bear-specific gait (lumbering walk)"
+    ],
+    "beaver": [
+        "small ears that are less noticeable",
+        "prominent incisors",
+        "Prominent, large front teeth (incisors)",
+        "large, prominent front teeth (incisors)",
+        "Visible, large front claws suitable for gnawing wood"
+    ],
+    "bed": [
+        "absence of human features (e.g., limbs, face, clothing)",
+        "generally does not have human characteristics or features such as limbs, hair, or facial features",
+        "a static, rectangular shape",
+        "headboard and possibly footboard",
+        "a rectangular structure"
+    ],
+    "bee": [
+        "movement (if captured in the photo)",
+        "Fuzzy body with distinct segmentation",
+        "hexagonal honeycombs (if visible)",
+        "Small size",
+        "overall body shape (more streamlined and less segmented than most beetles)"
+    ],
+    "beetle": [
+        "Usually smaller and more rounded or oval-shaped compared to the elongated body of a worm",
+        "absence of visible hair (bees often have more visible hair)",
+        "typically shorter legs",
+        "lack of a visible shell on the back",
+        "absence of a stinger"
+    ],
+    "bicycle": [
+        "Absence of human facial features and limbs",
+        "human facial features (eyes, nose, mouth)",
+        "Absence of exhaust pipes",
+        "Lighter frame",
+        "Absence of an engine"
+    ],
+    "bottle": [
+        "lack of facial features",
+        "neck (narrow top portion)",
+        "Presence of a neck and opening/cap",
+        "Narrow neck",
+        "narrow neck"
+    ],
+    "bowl": [
+        "Absence of facial features such as eyes, nose, or mouth",
+        "Absence of facial features (eyes, nose, mouth)",
+        "Lack of facial features, limbs, or clothing",
+        "Circular or oval shape",
+        "No hair, clothing, or human-like appendages"
+    ],
+    "boy": [
+        "Less developed facial features",
+        "a human body shape",
+        "Human facial features (eyes, nose, mouth)",
+        "human facial features (eyes, nose, mouth)",
+        "human form"
+    ],
+    "bridge": [
+        "Absence of human features (e.g., eyes, mouth, hair)",
+        "absence of human features like facial characteristics or limbs",
+        "Lack of walls or turrets",
+        "Arched or straight spans",
+        "Absence of wheels"
+    ],
+    "bus": [
+        "often seen on roads or at bus stops",
+        "distinct bus shape or structure",
+        "absence of turret and cannon",
+        "lack of heavy armor",
+        "large, rectangular shape"
+    ],
+    "butterfly": [
+        "a slender, segmented body"
+    ],
+    "camel": [
+        "Presence of a tail with a tuft at the end",
+        "Presence of a long neck",
+        "humps on the back",
+        "Humps on the back",
+        "presence of a saddle or reins (sometimes)"
+    ],
+    "can": [
+        "absence of facial features, limbs, or human attributes",
+        "Lack of human features (e.g., arms, legs, face, hair)",
+        "No limbs, head, or facial features",
+        "absence of human characteristics such as limbs, face, and clothing",
+        "Absence of turret or gun (which are present in tanks)"
+    ],
+    "castle": [
+        "Turrets or towers",
+        "turrets or towers",
+        "Turrets",
+        "towers or turrets",
+        "Towers or turrets"
+    ],
+    "caterpillar": [
+        "Presence of setae (tiny hair-like structures) on its body",
+        "Absence of clothing or accessories",
+        "potential for setae (bristle-like structures) on the body",
+        "lack of clothing",
+        "absence of a tail (or having a short tail)"
+    ],
+    "cattle": [
+        "Absence of clothing and human facial features",
+        "Visible horns or ears",
+        "Presence of eyes and other facial features",
+        "presence of legs and hooves",
+        "Possible movement or grazing behavior"
+    ],
+    "chair": [
+        "Absence of a head and facial features",
+        "No facial features or limbs",
+        "Does not exhibit movement or human-like postures",
+        "Absence of clothing and human-like gestures",
+        "presence of legs"
+    ],
+    "chimpanzee": [
+        "Lack of clothing",
+        "Hands with fingers and/or opposable thumbs",
+        "a visible head, torso, and limbs combination",
+        "opposable thumbs",
+        "Opposable thumbs"
+    ],
+    "clock": [
+        "absence of human facial features such as eyes, nose, and mouth",
+        "Absence of human features such as eyes, nose, mouth, and hair",
+        "Absence of human features (eyes, mouth, etc.)",
+        "circular or rectangular face",
+        "Presence of a frame or casing around the face"
+    ],
+    "cloud": [
+        "lacks distinct human features like arms, legs, or a face",
+        "No distinct facial features or limbs",
+        "lack of distinct facial features",
+        "lack of clothing or human accessories",
+        "no discernible facial features"
+    ],
+    "cockroach": [
+        "elongated, oval-shaped body",
+        "No visible stinger",
+        "No human facial features or limbs",
+        "Long, flat body",
+        "Small size (typically a few centimeters)"
+    ],
+    "couch": [
+        "Located indoors (likely in a living room or similar setting)",
+        "a rectangular or sectional shape",
+        "visible legs or base structure",
+        "generally rectangular shape",
+        "typically larger and bulkier"
+    ],
+    "crab": [
+        "Eyes: Crabs usually have stalked eyes that are set further apart, while beetles have compound eyes that are typically closer together.",
+        "More rounded or oval shape",
+        "visible claws (chelae)",
+        "absence of a single spiral shell",
+        "Body shape: Crabs have a broader, flatter body shape, whereas beetles tend to have more elongated and rounded bodies."
+    ],
+    "crocodile": [
+        "elongated, reptilian body",
+        "a long, flattened snout",
+        "visible eyes and nostrils on the top of the head",
+        "elongated, V-shaped snout",
+        "Upright or slightly hunched body profile"
+    ],
+    "cup": [
+        "Absence of human facial features, limbs, or body structure",
+        "lack of facial features such as eyes, nose, and mouth",
+        "lack of facial features or limbs",
+        "no facial features",
+        "Human facial features (eyes, nose, mouth)"
+    ],
+    "dinosaur": [
+        "absence of clothing",
+        "Presence of a tail",
+        "presence of a tail",
+        "Possible depiction of features like crests, horns, or frills",
+        "presence of claws"
+    ],
+    "dolphin": [
+        "Typically grayish color\u0440\u0430\u043d\u0437\u0430\u043a The name \"dolphin\" will be indicated by size, movement, and sea-related context.",
+        "absence of clothing",
+        "no visible legs",
+        "Horizontal tail fluke: Dolphins have a horizontal tail fluke that moves up and down, whereas sharks have a vertical tail fin that moves side to side.",
+        "Curved dorsal fin: Dolphin dorsal fins usually have a more hooked or curved shape compared to the straight or triangular fin of a shark."
+    ],
+    "elephant": [
+        "Absence of scales, feathers, or other prehistoric features",
+        "Presence of a long, curved back",
+        "small tail with a tuft of hair at the end",
+        "Small tail with a tuft of hair at the end",
+        "Presence of legs"
+    ],
+    "flatfish": [
+        "absence of fur",
+        "presence of fins and absence of ears",
+        "Absence of a streamlined, torpedo-shaped body",
+        "Absence of fur",
+        "lack of visible limbs or legs"
+    ],
+    "forest": [
+        "No distinct human features such as eyes, nose, and mouth",
+        "Absence of human characteristics (e.g., clothing, facial features, limbs)",
+        "Absence of distinct animal features like fur, eyes, or a snout",
+        "Absence of distinct animal features such as fur, claws, eyes, and snouts",
+        "Lack of human features"
+    ],
+    "fox": [
+        "Pointed ears",
+        "pointed ears",
+        "Tendency to appear in an alert or curious pose",
+        "erect, triangular ears",
+        "pointed snout"
+    ],
+    "girl": [
+        "Presence of eyes, nose, and mouth",
+        "facial features (eyes, nose, mouth)",
+        "Facial features (eyes, nose, mouth)",
+        "shorter stature",
+        "Human body structure (arms, legs, torso)"
+    ],
+    "hamster": [
+        "**Body size and shape**: Hamsters are generally more robust and stouter with a shorter, stockier body compared to the slimmer and longer body of mice.",
+        "Small, round body shape",
+        "Lack of prominent front teeth",
+        "Distinct head and body separation",
+        "Absence of aquatic environment or dams"
+    ],
+    "house": [
+        "Front door with a handle or knob",
+        "Fixed location"
+    ],
+    "kangaroo": [
+        "Long, pointed ears",
+        "Pouch (if visible, especially on females)",
+        "Flat, broad feet",
+        "Modern, naturalistic environment (if visible)",
+        "large size "
+    ],
+    "keyboard": [
+        "Lack of human features like skin, eyes, hair, and limbs",
+        "black and white keys",
+        "rows of black and white keys",
+        "brand logo or model name",
+        "Rectangular shape"
+    ],
+    "lamp": [
+        "absence of human features like arms, legs, face, and clothes",
+        "absence of legs or body segments",
+        "absence of antennae",
+        "absence of wings",
+        "consistent shape or material usually made from metal, glass, or fabric"
+    ],
+    "lawn_mower": [
+        "Lack of human facial features and limbs",
+        "Facial features (eyes, nose, mouth)",
+        "Presence of limbs (arms and legs)",
+        "Push handle",
+        "Starter cord"
+    ],
+    "leopard": [
+        "Rosette-like spots on the coat",
+        "spotted coat pattern",
+        "Visible ears positioned on the sides of the head",
+        "Mammalian body structure",
+        "Long tail with a tapered end"
+    ],
+    "lion": [
+        "Face: broad with a short muzzle",
+        "Facial features such as a nose, eyes, and mouth",
+        "absence of clothing or human accessories",
+        "Eyes and ears positioned on a mammalian face",
+        "Long tail with a tuft at the end"
+    ],
+    "lizard": [
+        "Absence of clothing or diapers",
+        "a more complex body structure with discernible torso",
+        "Typically elongated body shape",
+        "Elongated body shape",
+        "visible habitat (modern settings for lizards, possibly ancient-looking for dinosaurs)"
+    ],
+    "lobster": [
+        "presence of swimmerets (small appendages on the underside of the tail)",
+        "tail fan (composed of uropods and telson)",
+        "Lack of visible scales",
+        "Claws (chelae)",
+        "claws (chelae)"
+    ],
+    "man": [
+        "Presence of human body structure (torso, head)",
+        "Lack of antennae",
+        "Human facial features (eyes, nose, mouth, etc.)",
+        "Facial features (eyes, nose, mouth)",
+        "Facial features (e.g., eyes, nose, mouth)"
+    ],
+    "maple_tree": [
+        "Branches that extend outward and horizontally",
+        "Presence of maple syrup taps or buckets (if visible)",
+        "tree shape ",
+        "Absence of fur"
+    ],
+    "motorcycle": [
+        "Absence of human-like features such as eyes, nose, and limbs",
+        "absence of tracks",
+        "human rider or helmet",
+        "visible engine",
+        "exposed frame"
+    ],
+    "mountain": [
+        "Absence of human features (eyes, nose, mouth)",
+        "Absence of human features (e.g., eyes, nose, mouth)",
+        "lack of human features such as eyes, nose, mouth, and limbs",
+        "Horizon often obscured by the mountain itself",
+        "Jagged or uneven horizon line"
+    ],
+    "mouse": [
+        "pointed ears",
+        "pointed snout",
+        "Pointed snout",
+        "more pointed snout",
+        "elongated snout"
+    ],
+    "mushroom": [
+        "Lack of identifiable head, tail, or body segments: Mushrooms do not have a distinguishable head or tail, unlike snakes that have a continuous body with a head and tail.",
+        "Lack of facial features",
+        "Lack of clothing or accessories commonly associated with humans ",
+        "Presence of a ring or skirt (annulus)",
+        "No facial features (eyes, nose, mouth) or limbs"
+    ],
+    "oak_tree": [
+        "isolated tree rather than a dense collection of trees",
+        "Rounded or spreading crown",
+        "natural, irregular shapes and forms",
+        "Branches that extend outward and upward in a sturdy, structured manner",
+        "branches"
+    ],
+    "orange": [
+        "absence of facial features",
+        "No eyes or facial features",
+        "stationary object (not moving)",
+        "round, spherical shape",
+        "Round, spherical shape"
+    ],
+    "orchid": [
+        "Absence of human facial features (eyes, nose, mouth)",
+        "Absence of legs or body segments",
+        "Labellum (lip): Orchids typically have a specialized petal called a labellum, which is often larger and different in shape compared to the other petals.",
+        "absence of wings",
+        "flower shape"
+    ],
+    "otter": [
+        "presence of a flattened, rudder-like tail ",
+        "visible ears (small and rounded)",
+        "long, slender body",
+        "elongated body",
+        "Flat, broad tail"
+    ],
+    "palm_tree": [
+        "Lack of human features like eyes, nose, mouth, arms, and legs",
+        "Typically located in warmer climates, often near coastal areas",
+        "Crown of large, fan-shaped or feather-like fronds at the top",
+        "tropical/Caribbean background",
+        "lack of branches along the trunk"
+    ],
+    "pear": [
+        "lack of facial features",
+        "pear shape (noticeable taper towards the top)",
+        "Pear shape (a rounded bottom with a narrower top)",
+        "Possibly a slight dimple or indentation at the bottom",
+        "Shape: Pears have a bulbous bottom tapering to a smaller top, while mice have a rounded body."
+    ],
+    "pickup_truck": [
+        "Absence of heavy armor and weaponry",
+        "defined shape with straight lines and flat surfaces",
+        "visible manufacturer logos or emblems",
+        "typically found on roads and highways",
+        "Four or more wheels in contact with the ground"
+    ],
+    "pine_tree": [
+        "Lack of clear, individual tree identification",
+        "Single, identifiable tree",
+        "Visible trunk of a solitary tree",
+        "Branches that start lower on the trunk and continue up in a uniform manner"
+    ],
+    "plain": [
+        "distant horizon",
+        "Lack of structures like buildings or roads",
+        "horizon line",
+        "**No movement (static landscape)** vs. **visible movement (crawling or wriggling)**",
+        "Absence of human features"
+    ],
+    "plate": [
+        "absence of facial features",
+        "Circular or oval shape",
+        "circular or oval shape",
+        "absence of human features (eyes, nose, mouth, hair, etc.)",
+        "Circular, oval, or sometimes square shape"
+    ],
+    "poppy": [
+        "absence of facial features",
+        "Lack of human features (e.g., eyes, nose, mouth, limbs)",
+        "lack of human facial features",
+        "Absence of facial features or human anatomy",
+        "Presence of eyes, nose, and mouth"
+    ],
+    "porcupine": [
+        "small face and nose",
+        "often seen in more upright and active postures",
+        "rodent-like face",
+        "presence of hands and feet with fingers and toes",
+        "Slow and lumbering movement"
+    ],
+    "possum": [
+        "pointed snout",
+        "Pointed snout",
+        "pointed ears",
+        "No distinctive white stripe(s) along the back",
+        "Snout with visible nose"
+    ],
+    "rabbit": [
+        "Hopping motion (if motion is perceptible)",
+        "Distinctive face shape with a small nose and mouth",
+        "Rounded, stout body",
+        "Absence of a bushy tail",
+        "Small, round nose"
+    ],
+    "raccoon": [
+        "pointed snout",
+        "Pointed snout",
+        "Mask-like black markings around the eyes",
+        "distinct facial mask with black markings around the eyes",
+        "Distinctive black mask around the eyes"
+    ],
+    "ray": [
+        "absence of facial features common to humans (e.g., eyes, nose, mouth in a human face arrangement)",
+        "Absence of a typical container structure (handle, base, opening)",
+        "Eyes usually located on the top of the body",
+        "eyes located on the top of the head",
+        "eyes located on the top of the body"
+    ],
+    "road": [
+        "absence of human-like features (e.g., eyes, nose, mouth, hair)",
+        "absence of human features (arms, legs, head)",
+        "Absence of human features like a face, arms, or legs",
+        "uniform, elongated shape",
+        "Smooth, elongated surface"
+    ],
+    "rocket": [
+        "pointed tip or nose cone",
+        "Visible countdown or launch sequence signaling",
+        "absence of human features like arms and legs",
+        "often seen on a launch pad or in a vertical position",
+        "No facial features, limbs, or clothing"
+    ],
+    "rose": [
+        "Lack of facial features, limbs, or human clothing",
+        "Flower shape: Roses have a distinctive, layered flower shape.",
+        "Printed labels or brand markings",
+        "Smooth surface with no petals or thorns",
+        "Absence of fur and limbs"
+    ],
+    "sea": [
+        "absence of a distinct shape",
+        "absence of human features",
+        "absence of human-like form or silhouette",
+        "Small human figure",
+        "Horizon line"
+    ],
+    "seal": [
+        "Lack of uniform geometric shape",
+        "Pointed ears",
+        "Rounded body shape",
+        "Presence of a tail fin/flat tail",
+        "Absence of a prominent tail"
+    ],
+    "shark": [
+        "gill slits: Sharks have visible gill slits on the sides of their heads, while dolphins do not have gill slits and instead have a blowhole on top of their heads.",
+        "Dorsal Fin Shape: Shark dorsal fins are generally more pointed and erect compared to the more rounded or falcate (sickle-shaped) dorsal fins of many whales.",
+        "Gill Slits: Sharks have multiple visible gill slits on the sides of their heads, typically five to seven, whereas whales have a single blowhole or pair of blowholes on top of their heads.",
+        "presence of a snout with a nose and small ears",
+        "dorsal fin shape: Sharks typically have a triangular dorsal fin, while dolphins have a more curved or hooked dorsal fin."
+    ],
+    "shrew": [
+        "Insectivorous diet (if visible context is present)",
+        "Often includes a wide horizon",
+        "Pointed snout",
+        "Lack of human-like facial features and clothing",
+        "Long, pointed snout"
+    ],
+    "skunk": [
+        "Cannon or large gun turret",
+        "Snout that is often pointed downward",
+        "Lack of pointed ears",
+        "Large, armored vehicle",
+        "presence of facial features like eyes, nose, and mouth"
+    ],
+    "skyscraper": [
+        "no human facial features or limbs",
+        "Lack of human features like limbs and face",
+        "lack of clock face or visible clock hands",
+        "Uniform height and alignment",
+        "Rectangular or geometric shapes"
+    ],
+    "snail": [
+        "Segmentation: Worms usually have a segmented body, while snails have a smooth, unsegmented body aside from their shell.",
+        "slow movement",
+        "Slow movement",
+        "absence of fur",
+        "Lack of visible legs"
+    ],
+    "snake": [
+        "rounded, organic curves rather than cylindrical shape",
+        "absence of tentacles or antennae",
+        "absence of sharp edges or metallic surfaces",
+        "presence of a head with eyes and a forked tongue",
+        "absence of limbs"
+    ],
+    "spider": [
+        "Absence of human facial features such as eyes, nose, and mouth",
+        "Presence of eyes (usually multiple)",
+        "Hair or setae on body and legs",
+        "No human facial features (e.g., nose, mouth, ears)",
+        "Lack of elongated, cylindrical body"
+    ],
+    "squirrel": [
+        "absence of a mask-like facial pattern",
+        "pointed face",
+        "Presence of external ears (pinnae)",
+        "Facial structure tends to be broader and less pointed than that of a mouse",
+        "Pointed ears"
+    ],
+    "streetcar": [
+        "a long, rectangular body",
+        "Fixed routes, typically following predefined tracks",
+        "Tracks or rail lines",
+        "Wheels visible at the bottom",
+        "Tracks or rails"
+    ],
+    "sunflower": [
+        "Lack of human features such as eyes, nose, and mouth",
+        "Absence of eyes, nose, and mouth",
+        "large, round flower head with a central disk",
+        "absence of thorns",
+        "seeds visible in the central disk"
+    ],
+    "sweet_pepper": [
+        "no eyes or visible body segments",
+        "No human features like eyes, nose, mouth, or hair",
+        "No facial features (eyes, nose, mouth)",
+        "Lack of facial features",
+        "A long barrel gun or cannon"
+    ],
+    "table": [
+        "Typically has a rectangular, square, or round shape",
+        "Usually found in dining rooms, kitchens, or offices",
+        "Absence of a backrest",
+        "does not contain rooms or walls",
+        "Legs or supporting structure"
+    ],
+    "tank": [
+        "military insignia or markings",
+        "Lack of human facial features and limbs",
+        "Rectangular or geometric shape",
+        "Large, visible turret or cannon",
+        "Specific front locomotive engine shape, distinct from a tank"
+    ],
+    "telephone": [
+        "Absence of human features like eyes, nose, mouth, and hair",
+        "Absence of human features such as eyes, nose, mouth, hair, and limbs",
+        "no facial features or limbs",
+        "telephone-specific symbols (e.g., phone icon, numbers)",
+        "Presence of a base unit (on some models)"
+    ],
+    "television": [
+        "Lack of facial features (eyes, nose, mouth) or clothing",
+        "Absence of human facial features",
+        "Lack of human facial features",
+        "Lack of limbs (arms and legs)",
+        "human facial features"
+    ],
+    "tiger": [
+        "Shape of the head",
+        "presence of a tail with a tuft at the end",
+        "visible claws",
+        "Cat-like facial features",
+        "White patches around the eyes, ears, and muzzle"
+    ],
+    "tractor": [
+        "Absence of armament or weapons",
+        "typically found in a rural or agricultural setting",
+        "Agricultural implements or attachments (e.g., plow, harrow)",
+        "exhaust stack or vertical exhaust pipe",
+        "Exhaust pipe"
+    ],
+    "train": [
+        "motion blur from moving parts",
+        "Railroad signals and crossings: Indications of railway infrastructure would be present around a train.",
+        "Locomotive: Trains often have a separate locomotive unit either at the front or throughout, whereas buses do not.",
+        "long, segmented body",
+        "Engine car: Trains often have a distinct engine or locomotive car at the front."
+    ],
+    "trout": [
+        "adipose fin",
+        "presence of a lateral line",
+        "presence of lateral line",
+        "absence of large, prominent dorsal fin as seen in sharks",
+        "presence of pectoral and pelvic fins not in a ventral position as seen in sharks"
+    ],
+    "tulip": [
+        "Absence of facial features",
+        "Lack of facial features and limbs",
+        "Fixed, non-moving position",
+        "Lack of limbs and facial features",
+        "absence of limbs or shell"
+    ],
+    "turtle": [
+        "a generally rounded or oval body shape",
+        "lacking elongated, limbless body",
+        "absence of external ears",
+        "lack of segmented body",
+        "slow movement"
+    ],
+    "wardrobe": [
+        "Absence of human features like face, arms, legs",
+        "Absence of human features such as eyes, nose, mouth, and limbs",
+        "No facial features or limbs",
+        "Often rectangular or boxy shape",
+        "Stationary and does not move on its own"
+    ],
+    "whale": [
+        "Blunt or rounded head shape",
+        "Absence of human facial features and limbs",
+        "absence of legs and paws",
+        "Absence of legs and paws",
+        "Lack of legs"
+    ],
+    "willow_tree": [
+        "Presence of a significantly larger structure (tree) compared to a human"
+    ],
+    "wolf": [
+        "Pointed ears",
+        "pointed ears",
+        "Typically seen in packs",
+        "upright, pointed ears",
+        "Upright, pointed ears"
+    ],
+    "woman": [
+        "absence of human features",
+        "Contextual clues (e.g., presence in an adult workspace or environment)",
+        "Presence of body parts like hands and feet",
+        "Presence of limbs (arms and legs)",
+        "Developed physical features (e.g., longer limbs, defined body shape)"
+    ],
+    "worm": [
+        "movement (if visible in a series of photos)",
+        "absence of visible propulsion mechanisms (e.g., treads or wheels)",
+        "absence of facial features (eyes, nose, mouth)",
+        "no discernible facial features like eyes or snout",
+        "presence of a mouthpart"
+    ]
+}

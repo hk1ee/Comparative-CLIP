@@ -1,0 +1,261 @@
+{
+    "Abyssinian": [
+        "almond-shaped eyes, usually green or gold",
+        "short, fine coat with a distinctive \"ticked\" pattern",
+        "medium-sized cat",
+        "expressive face with a slightly concave profile.",
+        "colors include ruddy, red, blue, or fawn"
+    ],
+    "Bengal": [
+        "medium to large size",
+        "tail with dark rings or a solid dark tip",
+        "sleek, muscular body",
+        "coat colors often in shades of brown, gold, or snow (white)",
+        "short coat with distinctive spotted or marbled patterns"
+    ],
+    "Birman": [
+        "Blue, round eyes",
+        "Fluffy tail",
+        "Long, silky fur",
+        "Slightly rounded nose",
+        "Stocky build with a broad head"
+    ],
+    "Bombay": [
+        "short, sleek black coat",
+        "rounded head",
+        "rounded ears",
+        "overall panther-like appearance",
+        "proportionate tail"
+    ],
+    "British Shorthair": [
+        "Thick, medium-length tail",
+        "Short, straight nose",
+        "Dense, plush coat",
+        "Sturdy, muscular body",
+        "Large, round eyes, often copper or gold in color"
+    ],
+    "Egyptian Mau": [
+        "medium-sized cat",
+        "large, almond-shaped green eyes",
+        "large, pointed ears",
+        "graceful and muscular body",
+        "hind legs longer than the front legs, giving a \"tippy-toe\" appearance"
+    ],
+    "Maine Coon": [
+        "Long, fluffy coat",
+        "Wide-set eyes, often with a piercing look",
+        "Large, tufted ears ",
+        "Prominent ruff of fur around the neck",
+        "Bushy tail"
+    ],
+    "Persian": [
+        "Large, round eyes",
+        "Short, flat, and broad face",
+        "Bushed, plumed tail",
+        "Small, rounded ears",
+        "Short legs"
+    ],
+    "Ragdoll": [
+        "V-shaped or an inverted \"V\" marking on the forehead",
+        "Rounded body with a broad chest",
+        "Floppy and relaxed posture when held",
+        "Medium to large size cat",
+        "Semi-longhaired coat"
+    ],
+    "Russian Blue": [
+        "slightly upturned mouth giving a subtle smile appearance",
+        "solid blue-grey coat",
+        "short, dense, and plush fur",
+        "medium-sized domestic cat",
+        "triangular-shaped head"
+    ],
+    "Siamese": [
+        "wedge-shaped head",
+        "color points on ears, face, paws, and tail (usually in shades of seal, chocolate, blue, or lilac)",
+        "long, slender tail",
+        "short coat",
+        "slender, muscular body"
+    ],
+    "Sphynx": [
+        "Wrinkled skin",
+        "Hairless appearance",
+        "Large, bat-like ears",
+        "Muscular body",
+        "Whip-like tail"
+    ],
+    "american bulldog": [
+        "Wide, square muzzle",
+        "Strong, broad jaws",
+        "Typically white or white with patches of brindle, brown, or black",
+        "Short, strong neck",
+        "Short coat"
+    ],
+    "american pit bull terrier": [
+        "thick, tapering tail",
+        "strong, straight forelimbs",
+        "wide, deep chest",
+        "medium-sized, muscular dog",
+        "ears that can be cropped or natural (half-prick or rose-shaped)"
+    ],
+    "basset hound": [
+        "large paws",
+        "pronounced dewlap (extra skin around the neck)",
+        "smooth, short hair",
+        "tricolor coat (typically black, white, and brown)",
+        "short, stocky legs"
+    ],
+    "beagle": [
+        "white-tipped tail (carried high)",
+        "short, smooth coat",
+        "large, expressive brown or hazel eyes",
+        "muscular and solid build",
+        "distinctive vocalizations like howling and baying"
+    ],
+    "boxer": [
+        "typically appears sweaty or intense",
+        "wearing athletic shorts",
+        "possibly wearing headgear (in some training or amateur contexts)",
+        "wearing boxing gloves",
+        "often spotted in a boxing ring"
+    ],
+    "chihuahua": [
+        "generally weighing between 2 to 6 pounds",
+        "short snout",
+        "small, thin legs",
+        "alert and expressive facial expression",
+        "smooth or long coat, often in various colors (fawn, black, white, chocolate, cream, etc.)"
+    ],
+    "english cocker spaniel": [
+        "Broad, square-shaped muzzle",
+        "Big, expressive eyes (often dark in color)",
+        "Long, floppy ears",
+        "Medium-sized dog",
+        "Wavy or slightly curly fur"
+    ],
+    "english setter": [
+        "medium to large size dog",
+        "well-proportioned body with a lean, athletic build",
+        "deep chest and slender waist",
+        "coat colors typically white with speckles of black, blue, lemon, orange, or brown",
+        "silky, feathered coat"
+    ],
+    "german shorthaired": [
+        "Dense and water-repellent fur",
+        "Deep chest",
+        "Strong, straight legs",
+        "Almond-shaped, dark eyes",
+        "Short coat"
+    ],
+    "great pyrenees": [
+        "Black nose",
+        "Strong, muscular legs adapted for working and guarding livestock",
+        "Dense, weather-resistant double coat",
+        "Primarily white fur, though may have gray, badger, reddish-brown, or tan markings",
+        "Dark, expressive eyes"
+    ],
+    "havanese": [
+        "long, wavy or curly coat",
+        "small breed dog",
+        "floppy ears",
+        "sturdy body with a height ranging from 8.5 to 11.5 inches",
+        "plume-like tail that curls over the back"
+    ],
+    "japanese chin": [
+        "Distinctive flat face with a short, broad muzzle",
+        "Black and white or red and white coat",
+        "Small, toy dog",
+        "Short and compact body",
+        "Silky, long fur"
+    ],
+    "keeshond": [
+        "fur often in shades of grey, black, and cream",
+        "dense mane of fur around the neck and shoulders",
+        "compact and sturdy body structure",
+        "plush, double-layered coat",
+        "fox-like expression with pointed ears"
+    ],
+    "leonberger": [
+        "strong and broad head with a slightly domed forehead",
+        "black mask around the face",
+        "medium-length ears that hang close to the head",
+        "friendly and expressive face",
+        "thick, double coat of fur"
+    ],
+    "miniature pinscher": [
+        "docked tail (in some regions)",
+        "dark, oval-shaped eyes",
+        "colors typically include black, chocolate, red, or rust",
+        "straight, sturdy legs",
+        "wedge-shaped head"
+    ],
+    "newfoundland": [
+        "Deep, wide muzzle",
+        "Large, muscular build",
+        "Drooping ears, relatively small and shaped like a triangle",
+        "Gentle and calm expression",
+        "Broad head with a strong and rounded skull"
+    ],
+    "pomeranian": [
+        "Fox-like face",
+        "Fluffy and thick double coat",
+        "Small size",
+        "Pointed ears",
+        "A plumed tail that curls over the back"
+    ],
+    "pug": [
+        "short, stocky body",
+        "small-sized dog",
+        "smooth, short coat, typically fawn or black",
+        "wrinkled, short-muzzled face",
+        "distinctive facial expressions"
+    ],
+    "saint bernard": [
+        "Large, droopy eyes",
+        "Dense, double coat that can be short or long",
+        "Broad head with a pronounced stop",
+        "Floppy ears",
+        "Large and muscular build"
+    ],
+    "samoyed": [
+        "a smiling expression, often referred to as the \"Sammy smile\"",
+        "a black or brown nose",
+        "dark, almond-shaped eyes",
+        "strong, muscular build",
+        "erect, triangular ears"
+    ],
+    "scottish terrier": [
+        "Short legs",
+        "Small, sturdy body",
+        "Erect, pointed ears",
+        "Deep chest",
+        "Dark, almond-shaped eyes with a keen expression"
+    ],
+    "shiba inu": [
+        "medium-sized dog",
+        "distinct coat colors, typically red, black and tan, or sesame (red with black-tipped hairs)",
+        "sturdy and muscular build",
+        "fox-like face",
+        "erect, triangular ears"
+    ],
+    "staffordshire bull terrier": [
+        "Broad head with pronounced cheek muscles",
+        "Strong, straight front legs and well-muscled hindquarters",
+        "Distinct stop (where the forehead and the muzzle meet)",
+        "Round, dark eyes",
+        "Tail that is low set and tapers to a point, often described as \"pump handle\" in shape"
+    ],
+    "wheaten terrier": [
+        "floppy ears that hang close to the head",
+        "a rectangular body shape",
+        "black nose",
+        "a tail that is typically held upright or slightly curved",
+        "medium-sized dog"
+    ],
+    "yorkshire terrier": [
+        "dark, expressive eyes",
+        "small-sized dog",
+        "silky, long coat",
+        "typically tan and steel blue-colored fur",
+        "often has a topknot or hair tied up on the head"
+    ]
+}

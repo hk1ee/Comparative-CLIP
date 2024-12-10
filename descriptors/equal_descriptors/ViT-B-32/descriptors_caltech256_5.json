@@ -1,0 +1,1801 @@
+{
+    "ak47": [
+        "Iconic, recognizable silhouette ",
+        "lack of defined, man-made structure",
+        "firearm shape",
+        "distinctive rifle shape",
+        "pistol grip"
+    ],
+    "american-flag": [
+        "Presence of a flagpole or other method of display",
+        "waving or hanging fabric",
+        "Typically displayed on a flagpole or hung up, often seen fluttering in the wind",
+        "patriotic symbols or imagery",
+        "Often shown on a flagpole"
+    ],
+    "backpack": [
+        "Rectangular or cylindrical shape",
+        "Rectangular or rounded shape",
+        "Absence of a face, horns, or legs",
+        "Multiple compartments or pockets",
+        "multiple compartments or pockets"
+    ],
+    "baseball-bat": [
+        "often seen with sports equipment",
+        "Often associated with sports equipment like gloves or a baseball",
+        "Long and cylindrical shape",
+        "Long, cylindrical shape",
+        "long, cylindrical shape"
+    ],
+    "baseball-glove": [
+        "larger, padded area for catching",
+        "large, open pocket for catching a ball",
+        "Large, open pocket for catching balls",
+        "Pocket for catching the ball",
+        "Open fingers design"
+    ],
+    "basketball-hoop": [
+        "Attached net hanging from the rim",
+        "rectangular or square shape of the backboard",
+        "Black and white pentagon/hexagon pattern (classic design)",
+        "Often found in a gymnasium or outdoor court setting",
+        "Absence of legs, head, tail, and body shape associated with animals"
+    ],
+    "bat": [
+        "Lack of humanoid features like a cape, suit, or emblem",
+        "Presence of echolocation characteristics (if the photo has sound elements)",
+        "Generally nocturnal and often seen hanging upside down",
+        "Presence of ears with distinct shapes (e.g., long and pointed in some species)",
+        "Hanging posture, often upside down"
+    ],
+    "bathtub": [
+        "often placed in a bathroom setting",
+        "Rectangular or oval basin shape",
+        "typically white or light-colored",
+        "Typically white or light-colored",
+        "usually white or light-colored"
+    ],
+    "bear": [
+        "prominent and curved claws",
+        "large, rounded head",
+        "Brown, black, or white coloration depending on the species",
+        "Large size",
+        "Larger overall size"
+    ],
+    "beer-mug": [
+        "Thick glass or stein material",
+        "transparent glass (often, but not always)",
+        "Handle: A beer mug typically has a handle, while toasters do not.",
+        "thick glass to keep the beer cold",
+        "transparent or translucent glass"
+    ],
+    "billiards": [
+        "rectangular table",
+        "pool table",
+        "Rectangular table with shorter legs",
+        "Rectangular table with a large surface area",
+        "Black or white color (commonly)"
+    ],
+    "binoculars": [
+        "compact, handheld design",
+        "typically a compact and handheld design",
+        "compact and portable design",
+        "typically black or dark-colored body",
+        "strap or attachment points for a strap"
+    ],
+    "birdbath": [
+        "pedestal or stand",
+        "Elevated on a pedestal or stand",
+        "Elevated pedestal or stand",
+        "Presence of a pedestal or base",
+        "Raised pedestal or stand"
+    ],
+    "blimp": [
+        "typically used for advertising or surveillance purposes",
+        "often seen floating in the sky",
+        "Large, typically filled with gas to provide buoyancy",
+        "suspended gondola or cabin beneath the blimp",
+        "Elongated, cigar-shaped structure"
+    ],
+    "bonsai-101": [
+        "Depiction of a human-like figure",
+        "miniature tree",
+        "miniature tree structure",
+        "Miniature tree structure",
+        "small-sized tree or shrub"
+    ],
+    "boom-box": [
+        "Prominent speakers built into the device",
+        "Portable speakers",
+        "Handle for portability",
+        "handle for portability",
+        "rectangular shape with speakers"
+    ],
+    "bowling-ball": [
+        "Standardized size and weight (for bowling balls)",
+        "heavier weight",
+        "Heavier weight",
+        "Typically found in bowling alleys",
+        "Hard, dense material (usually plastic or urethane)"
+    ],
+    "bowling-pin": [
+        "Typically displayed with other bowling pins in a set or on a bowling lane",
+        "often found in sets",
+        "Rounded or bulbous bottom portion",
+        "Not designed for swinging or hitting objects",
+        "lack of a neck or cork"
+    ],
+    "boxing-glove": [
+        "Thumb enclosure or attachment to the body of the glove",
+        "designed for hand protection and impact absorption",
+        "Secured with straps or laces around the wrist",
+        "padded glove",
+        "Closure straps"
+    ],
+    "brain-101": [
+        "Absence of a trigger and barrel",
+        "Presence of two hemispheres",
+        "Minute and hour hands (possibly also a second hand)",
+        "Absence of facial features",
+        "Presence of gyri (ridges) and sulci (grooves)"
+    ],
+    "breadmaker": [
+        "loaf shape imprints or icons",
+        "Rectangular or cubic shape",
+        "compact size",
+        "Often located on a countertop",
+        "metallic or plastic exterior"
+    ],
+    "buddha-101": [
+        "Meditative or specific mudra (hand gesture) poses",
+        "Seated or standing posture typically associated with meditation or spiritual tranquility",
+        "Meditation pose",
+        "Usually depicted with specific hand gestures (mudras)",
+        "Meditation posture"
+    ],
+    "bulldozer": [
+        "Blade or scoop at the front",
+        "large front blade for pushing material",
+        "front blade for pushing materials",
+        "large front blade",
+        "rear ripper (optional attachment)"
+    ],
+    "butterfly": [
+        "wings held vertically over the back when at rest",
+        "Resting position with wings closed upright or spread flat",
+        "Usually perched on flowers or foliage",
+        "Presence of flowers (if shown feeding)",
+        "Distinct wing patterns or markings"
+    ],
+    "cactus": [
+        "Areoles (small, cushion-like structures from which spines emerge)",
+        "Often found in arid environments",
+        "Presence of areoles (small, round, cushion-like structures from which spines and flowers may grow)",
+        "presence of spines or thorns",
+        "Lack of human or facial features"
+    ],
+    "cake": [
+        "round, rectangular, or themed shapes",
+        "cake shape (round, square, or custom shapes)",
+        "Plates or utensils nearby",
+        "presence of a cake stand or serving plate",
+        "Wavy or uneven surfaces from frosting application"
+    ],
+    "calculator": [
+        "portable design",
+        "Lightweight design",
+        "small size and portable",
+        "absence of a multi-functional screen displaying complex graphics or applications",
+        "basic arithmetic function buttons (addition, subtraction, multiplication, division)"
+    ],
+    "camel": [
+        "Humped back (one hump for dromedary, two for Bactrian)",
+        "Hump or humps on the back",
+        "Humps on the back ",
+        "Humps on the back",
+        "Lack of prominent claws"
+    ],
+    "cannon": [
+        "often historical appearance or design",
+        "Often stationed or placed on the ground",
+        "often displayed in historical or military settings",
+        "absence of human features such as limbs, face, or body",
+        "sometimes found in historic or military settings"
+    ],
+    "canoe": [
+        "elongated, hollow vessel",
+        "often used on water (river, lake)",
+        "paddles or oars (often visible with the canoe)",
+        "presence of paddles or oars nearby",
+        "typically made of wood, fiberglass, or aluminum"
+    ],
+    "car-tire": [
+        "primarily viewed individually rather than as part of a larger vehicle",
+        "typically found on the exterior of the vehicle ",
+        "branded sidewall with size and specification markings (e.g., P235/75R15)",
+        "sidewall with tire specifications",
+        "Tread pattern designed for road traction"
+    ],
+    "cartman": [
+        "Often depicted with round body and short stature",
+        "Typically has a round face and body",
+        "Often depicted with exaggerated features like a large head and small body",
+        "Animated appearance",
+        "Cartoonish appearance"
+    ],
+    "cd": [
+        "Often accompanied by a CD player or drive in the photo",
+        "Presence of labels or markings related to music, data, or media content",
+        "presence of printed label or artwork (on one side)",
+        "absence of any human figure",
+        "Presence of text or logos on one or both sides"
+    ],
+    "centipede": [
+        "presence of a head and tail",
+        "absence of visible ears or external limbs beyond the legs",
+        "movement",
+        "numerous legs, typically one pair per body segment",
+        "Presence of natural environment (like soil, leaves, or wood)"
+    ],
+    "cereal-box": [
+        "often found on shelves with other boxed items",
+        "Often found on kitchen shelves or in pantries",
+        "Imagery associated with biblical scenes or settings",
+        "catchy slogans or marketing text",
+        "images of cereal or associated characters"
+    ],
+    "chandelier-101": [
+        "Often symmetric and ornate styling",
+        "Bulb sockets or light bulbs (chandelier)",
+        "Light bulbs or candles on the arms",
+        "metal frame or arms",
+        "Small, handheld size (revolver)"
+    ],
+    "chess-board": [
+        "Alternating black and white (or light and dark) squares",
+        "Often found indoors, such as on a table or a dedicated chessboard stand",
+        "often set on a table or flat surface",
+        "flat and rectangular shape",
+        "Flat and rectangular shape"
+    ],
+    "chimp": [
+        "pronounced brow ridge",
+        "potentially interacting with other chimps or animals",
+        "darker, usually black or brown fur",
+        "Dark or light brown fur (not black or white)",
+        "Black, dark brown, or sometimes grayish fur"
+    ],
+    "chopsticks": [
+        "pointed or blunt tips",
+        "often feature decorative designs or engravings",
+        "typically comes in pairs",
+        "Cylindrical or slightly flattened profile",
+        "elongated and tapered design"
+    ],
+    "cockroach": [
+        "presence of cerci (pair of appendages on the rear)",
+        "Presence of a segmented body without numerous pairs of legs",
+        "lacks fur or visible ears",
+        "Small size, typically a few centimeters long",
+        "movement potential"
+    ],
+    "coffee-mug": [
+        "often ceramic or glass, sometimes with printed designs or logos  ",
+        "Potential presence of a logo, design, or text on the exterior",
+        "Can have designs or logos printed on the surface",
+        "Often found on a table or desk",
+        "absence of facial features"
+    ],
+    "coffin": [
+        "Often seen in a solemn or funeral context",
+        "Handles: Coffins usually have handles on the sides for carrying, which coins do not have.",
+        "often found indoors or in a hearse",
+        "Closed lid",
+        "usually presented in a solemn or somber context"
+    ],
+    "coin": [
+        "engraved patterns or images",
+        "engraved designs",
+        "Engraved or stamped images and text on both sides",
+        "Consistency in size and detail reflective of currency",
+        "embossed or engraved designs"
+    ],
+    "comet": [
+        "Often appears with a bright head followed by a fainter tail",
+        "Absence of engravings or inscriptions",
+        "a visible tail or coma",
+        "Lack of uniform shape or metal surface",
+        "motion blur, indicating movement"
+    ],
+    "computer-keyboard": [
+        "Separate peripheral device",
+        "Rectangular shape",
+        "rectangular shape with rows and columns of keys",
+        "Tends to have more key travel and tactile feedback",
+        "often connected to a computer or integrated into a laptop"
+    ],
+    "computer-monitor": [
+        "absence of facial features",
+        "usually placed on a desk or mounted on a wall",
+        "Rectangular shape with a bezel around the edges",
+        "typically placed on a desk or mounted on a stand",
+        "absence of limbs"
+    ],
+    "computer-mouse": [
+        "generally has a smooth, rounded shape",
+        "Smooth, curved shape",
+        "Smooth, ergonomic shape designed for manipulation by hand",
+        "Ergonomic shape",
+        "Smooth, curved body"
+    ],
+    "conch": [
+        "presence of operculum (trapdoor structure)",
+        "Presence of operculum (a small door-like structure) on the opening of the shell",
+        "presence of an opening where the animal would reside",
+        "Natural, irregular shape",
+        "long, pointed operculum (trapdoor) on the foot"
+    ],
+    "cormorant": [
+        "Often found near water bodies",
+        "Often seen near water sources like lakes, rivers, and coasts",
+        "presence of water or marine environment",
+        "Typically seen near water bodies",
+        "aquatic habitat (presence of water in the background)"
+    ],
+    "covered-wagon": [
+        "A canvas cover or canopy over the frame",
+        "A large, canvas cover or wagon canopy",
+        "lack of legs or hooves",
+        "Historical context (pioneers, trails)",
+        "canvas top"
+    ],
+    "cowboy-hat": [
+        "Located on a head or a surface, not moving or coiled",
+        "Material (e.g., felt or straw)  ",
+        "Structured shape",
+        "Creased top (often with a distinctive shape)",
+        "Wide-brimmed shape"
+    ],
+    "crab-101": [
+        "Claws: Crabs have pincers or claws, whereas cars do not have any similar appendages.",
+        "Typically found near water (e.g., ocean, river, etc.)",
+        "Typically found near or in water",
+        "large hind legs",
+        "Lack of a distinct head"
+    ],
+    "desk-globe": [
+        "mounted on a stand or base",
+        "stand or base to support the globe",
+        "Circular latitude and longitude lines",
+        "spherical shape with a world map",
+        "Geographical details such as continents, countries, and oceans"
+    ],
+    "diamond-ring": [
+        "delicate design with decorative elements such as prongs, settings, or engravings",
+        "intricate design or engravings",
+        "jewelry box or display setting",
+        "prongs or settings holding the gemstone",
+        "intricate design details"
+    ],
+    "dice": [
+        "Often displayed in pairs or groups in game settings",
+        "absence of a head and tail",
+        "six faces with dots (pips) indicating numbers",
+        "Lack of facial features, limbs, or body parts",
+        "Numbered sides ranging from 1 to 6"
+    ],
+    "dog": [
+        "Potential presence of a collar or leash (if a pet)",
+        "Variation in size, shape, and breed characteristics",
+        "common poses (dogs often sit or lie in ways that horses cannot)",
+        "presence of a collar (dogs often wear collars)",
+        "Barking or playful behavior"
+    ],
+    "dolphin-101": [
+        "Pinkish-gray or off-white color",
+        "Crescent-shaped dorsal fin",
+        "Long, curved beak",
+        "dorsal fin",
+        "Dorsal fin"
+    ],
+    "doorknob": [
+        "Often has a plate or rosette around it",
+        "Handle for turning or gripping",
+        "Typically attached to a door",
+        "presence of a keyhole or lock mechanism",
+        "Presence of a keyhole or lock mechanism"
+    ],
+    "drinking-straw": [
+        "Typically no markings or textures associated with electronics or machinery",
+        "Absence of a sharp edge or handle",
+        "typically made of plastic, paper, or metal",
+        "Often found in drinks or next to cups",
+        "absence of a plunger or needle"
+    ],
+    "duck": [
+        "Contextual elements such as religious settings or scenes",
+        "Presence of a body of water (e.g., pond or lake) where ducks are commonly found",
+        "Religious symbols (e.g., cross)",
+        "Often seen in groups or pairs",
+        "presence of a tail, often short and stiff"
+    ],
+    "dumb-bell": [
+        "A dumb-bell is a piece of exercise equipment used for resistance training, typically consisting of a short bar with weights at each end.",
+        "Designed for use in strength training exercises",
+        "Designed for lifting and resistance exercises",
+        "dumbbell:",
+        "Central grip bar"
+    ],
+    "eiffel-tower": [
+        "Made of reinforced concrete and soapstone.",
+        "No figure or statue-like appearance.",
+        "typically displayed on a flagpole or building",
+        "Large statue of Jesus Christ.",
+        "Location context (e.g., Paris cityscape) If visible"
+    ],
+    "electric-guitar-101": [
+        "body of guitar is larger and typically flat",
+        "Shape resembling common guitar contours (e.g., Stratocaster, Les Paul)",
+        "Body with a pickguard",
+        "Headstock: The top part of the guitar where the tuning pegs are located.",
+        "wings"
+    ],
+    "elephant-101": [
+        "Small tail with a tuft at the end",
+        "Large size",
+        "large size",
+        "A large, gray body",
+        "Presence of a tail"
+    ],
+    "elk": [
+        "Typically found in forested or mountainous areas",
+        "Large, broad body shape",
+        "Outdoor, forested or meadow habitat",
+        "large body size with four legs",
+        "Large antlers (in males)"
+    ],
+    "ewer-101": [
+        "Decorative designs or patterns",
+        "Decorative design or patterns (often found on ewers)",
+        "Ornate design (often more decorative than teapots)",
+        "ornamental or plain design",
+        "Ornate or decorative design (common in many ewers)"
+    ],
+    "eyeglasses": [
+        "Lightweight and portable \ub514\uc790\uc778",
+        "absence of a head and tail",
+        "Eyeglasses:",
+        "frames",
+        "Frames"
+    ],
+    "fern": [
+        "Lack of inscriptions, logos, or images featured on coins",
+        "No visible facial features",
+        "Absence of a central nervous system",
+        "Absence of metal or sharp edges",
+        "Fronds"
+    ],
+    "fighter-jet": [
+        "Landing gear (wheels or skids)",
+        "Wings and tail fins",
+        "tail fins",
+        "aerodynamic shape with wings and tail fins",
+        "absence of legs or hooves"
+    ],
+    "fire-extinguisher": [
+        "Typically found indoors or within vehicles",
+        "typically found mounted on walls or in accessible areas for emergency use",
+        "Wall bracket or mounting unit",
+        "Carrying handle and trigger",
+        "handle and trigger mechanism"
+    ],
+    "fire-hydrant": [
+        "Situated outdoors, typically on sidewalks or streets",
+        "located near streets or sidewalks",
+        "Fixed position typically outdoor",
+        "absence of a blade",
+        "May have a reflective marker or post nearby"
+    ],
+    "fire-truck": [
+        "water pump equipment",
+        "Water tanks and pumps",
+        "multiple axles and large wheels",
+        "large size",
+        "large vehicle with multiple compartments"
+    ],
+    "fireworks": [
+        "Often accompanied by sound (though not visible, visible cues can imply presence of noise)",
+        "Usually observed in an outdoor night sky setting",
+        "Bright, transient illumination",
+        "bright or decorative elements",
+        "Nighttime or dark background"
+    ],
+    "flashlight": [
+        "absence of human facial features and limbs",
+        "handheld design",
+        "often a handle or grip",
+        "non-bladed design",
+        "handle or grip section"
+    ],
+    "floppy-disk": [
+        "typically black or opaque plastic casing",
+        "Size suitability for office use ",
+        "Larger, rectangular shape",
+        "Usually has a sliding lock or write-protection tab",
+        "small size, typically around 3.5 inches square"
+    ],
+    "football-helmet": [
+        "Straps or buckles",
+        "Chin strap",
+        "chin strap",
+        "usually a team logo or colors",
+        "Faceguard (facemask)"
+    ],
+    "french-horn": [
+        "Multiple loops",
+        "Bell (flaring end)",
+        "Brass instrument",
+        "Curved brass tubing",
+        "Flared bell"
+    ],
+    "fried-egg": [
+        "Cooking surface (e.g., skillet or plate)",
+        "Frying pan or plate typically used for serving",
+        "Presence of a skillet or cooking utensil",
+        "possible presence of oil or butter",
+        "Oil or butter typically visible in the frying process"
+    ],
+    "frisbee": [
+        "lightweight",
+        "lightweight appearance",
+        "Absence of handle",
+        "Absence of limbs and facial features",
+        "beveled edge for easy throwing"
+    ],
+    "frog": [
+        "Presence of a visible tympanum (eardrum)",
+        "presence of a visible tympanum (eardrum)",
+        "Visible tympanum (external eardrum)",
+        "absence of segmented body",
+        "Typically found in or near water or wet environments"
+    ],
+    "frying-pan": [
+        "circular, often black or silver in color",
+        "often black or dark in color",
+        "often black or metallic color",
+        "often found with kitchen utensils",
+        "Low, shallow sides"
+    ],
+    "galaxy": [
+        "Lack of human-like features or figures",
+        "spiral or elliptical shape",
+        "Spiral or elliptical shape",
+        "Dark outer background (space)",
+        "spiral or elliptical shapes"
+    ],
+    "gas-pump": [
+        "Station canopy or shelter over the pumps",
+        "typically found at a fueling station",
+        "Concrete or rubber mats around the base for spills (often at gas stations)",
+        "rectangular or cylindrical shape",
+        "digital or analog meters"
+    ],
+    "giraffe": [
+        "Taller and lankier appearance",
+        "Tall stature",
+        "Distinctive coat pattern with irregular patches or spots",
+        "Spotted coat pattern",
+        "Taller overall height"
+    ],
+    "goat": [
+        "Tail shape (short and usually pointing up)",
+        "Straight or curved horns",
+        "Sound production capability (bleating, which would be inferred from a photo if context allows)",
+        "Crucifixion markings (in certain depictions)",
+        "shorter, tufted tail"
+    ],
+    "golden-gate-bridge": [
+        "Towers/pylons",
+        "Tall towers with cables",
+        "Recognizable as a major landmark in San Francisco",
+        "Bridge span over water (typically San Francisco Bay)",
+        "Location over a body of water (San Francisco Bay)"
+    ],
+    "goldfish": [
+        "absence of feathers",
+        "Found in aquariums or ponds, not on lakes or large bodies of water",
+        "Absence of feathers",
+        "Habitat in water (ponds, aquariums, etc.)",
+        "entirely aquatic behavior"
+    ],
+    "golf-ball": [
+        "Absence of complex, irregular patterns ",
+        "lacks straps or padding",
+        "Holes: Golf balls have no finger holes, while bowling balls have three finger holes.",
+        "Lack of visible panels",
+        "Weight: Golf balls are significantly lighter compared to bowling balls."
+    ],
+    "goose": [
+        "presence of water or ground-based activities often associated with geese",
+        "long neck (relative to body size)",
+        "wedge-shaped head",
+        "a distinctive honking sound (if audio is available)",
+        "prominent tail feathers"
+    ],
+    "gorilla": [
+        "Pronounced brow ridge",
+        "Barrel-chested body with broad shoulders",
+        "Large size",
+        "generally found in a natural habitat like forests or jungles",
+        "Upright posture or sitting position"
+    ],
+    "grand-piano-101": [
+        "keys in black and white",
+        "Black or dark-colored finish",
+        "Black or dark finish",
+        "Typically situated on three legs",
+        "Grand piano: three legs with caster wheels"
+    ],
+    "grapes": [
+        "clustered formations",
+        "Typically found on vines or in bunches",
+        "typically found in bunches or clusters",
+        "varying sizes within the cluster",
+        "clustered together on a vine"
+    ],
+    "grasshopper": [
+        "Less prominent, shorter forelegs",
+        "visible segmentation in body",
+        "elongated, slender body",
+        "long antennae",
+        "elongated body"
+    ],
+    "guitar-pick": [
+        "May have brand logos or text indicating it's a guitar accessory",
+        "absence of detailed engravings or inscriptions",
+        "sometimes has brand names or thickness measurements printed on it",
+        "potential brand logo or text specific to musical instruments",
+        "Often has brand and thickness marked on it"
+    ],
+    "hamburger": [
+        "Depictions in robes or ancient attire",
+        "Bun (top and bottom pieces)",
+        "Absence of fur and limbs",
+        "Bun (top and bottom)",
+        "Context of Christian narratives (Nativity, Crucifixion, etc.)"
+    ],
+    "hammock": [
+        "often used for lounging or napping",
+        "Typically used for relaxation or lounging",
+        "often seen with straps or ropes for hanging",
+        "typically found in outdoor settings like between trees or on a stand",
+        "Often attached with ropes or straps"
+    ],
+    "harmonica": [
+        "markings or engravings indicating musical notes or a brand",
+        "Sometimes has engravings or a brand name",
+        "usually silver or black color",
+        "elongated, rectangular shape",
+        "elongated rectangular shape"
+    ],
+    "harp": [
+        "Often seated next to and played with both hands",
+        "The curved or triangular frame",
+        "Large, curved frame",
+        "A large, triangular frame",
+        "Curved or triangular frame"
+    ],
+    "harpsichord": [
+        "visible keyboard with black and white keys arranged in musical scale sequence",
+        "Keyboard with black and white keys",
+        "keyboard with black and white keys",
+        "Typically a rectangular or winged shape (resembling a small grand piano)",
+        "Large, triangular or rectangular shape"
+    ],
+    "hawksbill-101": [
+        "Turtle-like shell or body",
+        "Marine environment",
+        "Presence of a head and tail",
+        "Marine environment background",
+        "Shell for the turtle vs fur for the leopard"
+    ],
+    "head-phones": [
+        "fabric and material differences (e.g., mesh, leather) specific to footwear",
+        "controls or buttons on the ear cups or inline on the cable",
+        "Cushioned earpads",
+        "Over-ear or on-ear cups",
+        "Ear cups or ear pads"
+    ],
+    "helicopter-101": [
+        "cylinder with chambers for bullets",
+        "Landing skids or wheels",
+        "landing skids or wheels",
+        "barrel",
+        "No conventional wheels used for driving"
+    ],
+    "hibiscus": [
+        "fixed position (not capable of movement)",
+        "funnel-shaped or trumpet-shaped bloom",
+        "smooth, round or slightly oblong shape",
+        "leaves with serrated edges",
+        "blooms that are larger and more open compared to irises"
+    ],
+    "homer-simpson": [
+        "White collared shirt",
+        "Cartoon style",
+        "Typically seen with his family or in the context of Springfield (e.g., at home, at Moe's Tavern)",
+        "White short-sleeve shirt",
+        "Often depicted with a donut or beer"
+    ],
+    "horse": [
+        "Presence of a saddle or bridle (if domesticated)",
+        "Presence of a saddle or bridle (if equipped for riding)",
+        "common equine behaviors and postures",
+        "Larger size",
+        "presence in ordinary environments (farms, fields) rather than fantasy settings"
+    ],
+    "horseshoe-crab": [
+        "Long, pointed tail (telson)",
+        "long, thin tail spine (telson)",
+        "Long, pointed tail spine (telson)",
+        "long, pointed tail spine (telson)",
+        "Tail spine (telson)"
+    ],
+    "hot-air-balloon": [
+        "Basket or gondola hanging beneath the balloon",
+        "Basket or gondola beneath the balloon",
+        "basket or gondola hanging below the envelope",
+        "Vertical lines of panels or gores on the envelope",
+        "presence of a basket or gondola"
+    ],
+    "hot-dog": [
+        "presence of paper or a tray around the hot dog",
+        "presence of packaging or serving plate",
+        "absence of frosting, icing, or decorative elements typically found on cakes",
+        "compact, handheld size",
+        "lack of scales or rough texture"
+    ],
+    "hot-tub": [
+        "Often located in a stationary position such as a backyard or deck",
+        "Often located indoors or in a designated outdoor area",
+        "Mainly used in a stationary setting",
+        "Rectangular or rounded shape",
+        "Outdoor setting (often)"
+    ],
+    "hourglass": [
+        "timer function",
+        "Static object",
+        "Transparent material to see the sand movement",
+        "Measurement markings or time intervals",
+        "glass enclosure "
+    ],
+    "house-fly": [
+        "Dark gray or black body color",
+        "predilection for landing on various surfaces",
+        "typically greyish-black coloration",
+        "ability to fly",
+        "Wings"
+    ],
+    "human-skeleton": [
+        "Absence of a tailbone extending outward",
+        "Absence of wings",
+        "Presence of multiple bones and joints versus buttons and electronic screen",
+        "Rigid posture, consistent with skeletal structure",
+        "Absence of expression or facial features"
+    ],
+    "hummingbird": [
+        "Presence of a natural environment (e.g., flowers, trees)",
+        "Presence of flowers or natural surroundings",
+        "Slender body",
+        "presence of flowers (often seen feeding)",
+        "Small, elongated beak"
+    ],
+    "ibis-101": [
+        "elongated beak (ibis)",
+        "slender, long legs",
+        "typically found in wetland environments",
+        "Multiple legs (typically 10, including claws) (Crab)",
+        "slender legs"
+    ],
+    "ice-cream-cone": [
+        "visible napkin or holder sometimes",
+        "handheld size and appearance",
+        "shape: conical for ice-cream cone",
+        "function: edible and meant for consumption for an ice-cream cone",
+        "Conical shape"
+    ],
+    "iguana": [
+        "a terrestrial habitat",
+        "Herbivorous diet (evidenced by types of food around it)",
+        "Spiny crest along the back",
+        "Spikes or crests along the back",
+        "Crest: Many iguanas have a spiny crest or ridge along their back and neck, which snakes do not have."
+    ],
+    "ipod": [
+        "Digital display showing playlists, artists, or album artwork.",
+        "earphone jack and portable music player interface",
+        "Playlist menu",
+        "Earphone jack",
+        "presence of a music player or media control icons"
+    ],
+    "iris": [
+        "intricate patterns or markings on petals",
+        "Presence of multiple layers or patterns on petals",
+        "Petals or sepals",
+        "Natural, irregular shapes and textures",
+        "absence of wings or any flying structures"
+    ],
+    "jesus-christ": [
+        "Depicted in a scene or background with historical or religious elements",
+        "Often depicted in religious or historical settings",
+        "Human posture and gestures (standing, sitting, arms outstretched)",
+        "Presence of hands and feet",
+        "Dots or numbers on the faces"
+    ],
+    "joy-stick": [
+        "control stick",
+        "Control stick with additional switches or triggers",
+        "a control stick with buttons",
+        "Used as a control device in video games or simulations",
+        "a cable or wireless connection to a gaming console or computer"
+    ],
+    "kangaroo-101": [
+        "Stance (bipedal and upright)",
+        "Hopping motion (if in action)",
+        "Large hind legs",
+        "Typically found within the context of anatomical or biological imagery",
+        "Large, muscular hind legs"
+    ],
+    "kayak": [
+        "common presence of foot braces and back support",
+        "absence of trigger mechanism",
+        "often seen on water or shoreline",
+        "often designed for single or tandem paddlers",
+        "Often seen on water bodies like lakes, rivers, or seas"
+    ],
+    "ketch-101": [
+        "**Sails**: Typically, it has a mainsail and a smaller mizzen sail.",
+        "Sails, including a mainsail and a smaller mizzen sail",
+        "**Deck and hull**: Clearly visible deck with rigging and hull design.",
+        "Sails on both masts",
+        "Usually made from materials like plastic, wood, or metal"
+    ],
+    "killer-whale": [
+        "black and white coloring pattern",
+        "black and white coloring",
+        "black and white coloration",
+        "Black and white coloration",
+        "Distinct black and white coloring"
+    ],
+    "knife": [
+        "smaller sheath or lack of sheath integration into a larger outfit",
+        "Handle: Knives have handles for gripping, which are often made of wood, plastic, or metal.",
+        "handle without folding mechanisms",
+        "handle (often larger and more contoured)",
+        "absence of multiple tools"
+    ],
+    "ladder": [
+        "typically found leaning against something or standing independently",
+        "absence of facial features (eyes, mouth, etc.)",
+        "Typically has rubber feet for stability at the base",
+        "Presence of feet or stabilizers at the bottom",
+        "stabilizing feet or base"
+    ],
+    "laptop-101": [
+        "Integrated webcam (often at the top of the screen)",
+        "rectangular electronic device",
+        "Compact and portable design",
+        "Screen/display attached",
+        "Screen display"
+    ],
+    "lathe": [
+        "feed mechanism for controlled movement",
+        "workbench or machine stand",
+        "control dials and levers for adjusting the tool position",
+        "presence of tool rests and tool posts",
+        "cutting or shaping tool"
+    ],
+    "leopards-101": [
+        "Spotted coat pattern",
+        "Dorsal fin",
+        "Fur coat with spots",
+        "Land-based habitat",
+        "spotted fur coat"
+    ],
+    "license-plate": [
+        "Representation of a human figure, often with a beard",
+        "may include state or country identification",
+        "Series of letters and numbers",
+        "Often mounted on a vehicle",
+        "State or country identification"
+    ],
+    "lightbulb": [
+        "specific shape (often more elongated or round with a neck)",
+        "Designed primarily for indoor use or for fitting into fixtures",
+        "typically emits light when powered",
+        "lack of limbs or facial features",
+        "Typically lacks an exterior handle or grip"
+    ],
+    "light-house": [
+        "Markings or stripes for visibility (often black and white or red and white)",
+        "Often located near coastlines or on rocky outcrops",
+        "Typically located near coastlines or on islands",
+        "maritime location (near coastlines)",
+        "Light source or beacon at the top"
+    ],
+    "lightning": [
+        "Absence of a filament or bulb shape",
+        "sudden and ephemeral appearance",
+        "absence of solid, defined edges or handles",
+        "zigzag or branching pattern of light",
+        "Jagged, branching streaks"
+    ],
+    "llama-101": [
+        "Fur-covered body versus typically depicted in robes or human clothing",
+        "Fur or wool coat",
+        "Often depicted with a gentle and domesticated appearance",
+        "Smaller and more slender body",
+        "Presence of a woolly coat"
+    ],
+    "mailbox": [
+        "No facial features, limbs, or clothing",
+        "typically upright and often mounted on a post or stand",
+        "Typically located near homes or on properties",
+        "No distinct facial features, legs, or tail",
+        "Usually found along the side of the road or in front of a house or building"
+    ],
+    "mandolin": [
+        "Musical instrument design",
+        "Stringed instrument with a rounded body",
+        "soundhole or soundboard",
+        "Sound hole or pick guard",
+        "No pickups or electric components"
+    ],
+    "mars": [
+        "Thin or non-visible atmosphere (Mars)",
+        "Clouds or weather patterns (rarely seen but possible on Mars)",
+        "celestial body (Mars)",
+        "Background of space, potentially including other celestial bodies versus a plain or human-made background",
+        "Lack of artificial markings on Mars as opposed to the detailed imprints found on coins"
+    ],
+    "mattress": [
+        "presence of bedding (sheets, pillows)",
+        "Bedding, such as sheets or pillows, may be visible",
+        "Rectangular, flat shape",
+        "Rectangular shape with cushioning",
+        "Presence of stitching or tufting"
+    ],
+    "megaphone": [
+        "Typically used by person speaking or announcing",
+        "sometimes includes a trigger or button for amplification",
+        "Lightweight appearance",
+        "Handle with a trigger or button",
+        "Handle/Grip: Megaphones often have a handle or grip for holding, which cannons do not."
+    ],
+    "menorah-101": [
+        "multiple branches or arms (usually eight or nine)",
+        "Multiple branches or arms for candles",
+        "Straight or branched arms",
+        "Grey or greyish-brown skin",
+        "Stationary object used for ceremonial or decorative purposes"
+    ],
+    "microscope": [
+        "stage (where samples are placed)",
+        "Usually compact design suitable for laboratory or classroom use",
+        "stage (platform for specimens)",
+        "generally a single-user device",
+        "stage for specimen placement"
+    ],
+    "microwave": [
+        "Often found on countertops or mounted above stoves",
+        "absence of kneading paddles or baking tin",
+        "a larger rectangular shape",
+        "rectangular box-like shape",
+        "rectangular shape"
+    ],
+    "minaret": [
+        "Top portion or spire, which may have a crescent moon or other religious symbol",
+        "Crescent moon and star symbols",
+        "Often topped with a crescent moon or decorative finial.",
+        "Presence of a crescent moon symbol or Islamic motifs",
+        "pointed or onion-shaped top"
+    ],
+    "minotaur": [
+        "Typically holding weapons like axes or clubs",
+        "anthropomorphic characteristics (arms, hands with fingers)",
+        "Weapon (commonly seen with a weapon like an axe or club)",
+        "Aggressive or confrontational pose",
+        "Mythological theme"
+    ],
+    "motorbikes-101": [
+        "Visible engine block",
+        "Engine and exhaust pipes",
+        "Sleeker, lightweight frame",
+        "Absence of mechanical components",
+        "Heavier frame"
+    ],
+    "mountain-bike": [
+        "Absence of human anatomical features (head, torso, limbs)",
+        "Absence of an engine or exhaust",
+        "usually adult-sized dimensions",
+        "Lighter frame typically made of materials like aluminum or carbon fiber",
+        "flat or slightly curved handlebars"
+    ],
+    "mushroom": [
+        "Lack of brim or hatband",
+        "Often found in clusters or with other natural elements like soil or leaves",
+        "Spores (often a powdery deposit found around or under the mushroom)",
+        "stationary position (typically attached to the ground or another surface)",
+        "Typically found in clusters or groups in nature"
+    ],
+    "mussels": [
+        "Irregular shapes",
+        "Grouped together",
+        "clusters or groups attached to substrates such as rocks or other hard surfaces",
+        "clustered or piled arrangement",
+        "Shells: Mussels have hard, bivalve shells, whereas ducks have feathers."
+    ],
+    "necktie": [
+        "associated with formal or business attire",
+        "Can be seen draped over shirts or suits",
+        "traditionally black or dark-colored",
+        "Available in various patterns and colors",
+        "often seen with formal attire"
+    ],
+    "octopus": [
+        "Typically found in marine environments (if the setting is visible)",
+        "Underwater habitat",
+        "Marine environment",
+        "absence of external skeleton (exoskeleton)",
+        "no visible segmentation in the body"
+    ],
+    "ostrich": [
+        "Often seen in a serene or holy posture (e.g., praying or blessing)",
+        "Setting may include religious elements such as crosses or churches",
+        "Typically found in a natural or savanna setting",
+        "Large, flightless bird appearance",
+        "large size and tall stature"
+    ],
+    "owl": [
+        "nocturnal behavior indications (like being photographed in a dim setting or at night)",
+        "nocturnal activity (often indicated by large eyes adapted for low light)",
+        "nocturnal activity",
+        "nocturnal or crepuscular setting",
+        "Nocturnal setting (although not always applicable)"
+    ],
+    "palm-pilot": [
+        "Monochrome Screen: Earlier models of PalmPilots feature monochrome displays.",
+        "Portable design",
+        "Compact, rectangular design",
+        "Usually displayable handheld applications",
+        "Graffiti Input Area: A dedicated area for handwriting recognition called Graffiti is a trademark of PalmPilot devices."
+    ],
+    "palm-tree": [
+        "Absence of limbs or clothing",
+        "natural, irregular shapes/forms",
+        "Small, rectangular shape",
+        "large, fan-shaped or feather-like leaves",
+        "Fan-shaped or feather-like fronds"
+    ],
+    "paperclip": [
+        "Simple, utilitarian design",
+        "metal construction, typically steel or plastic-coated",
+        "absence of facial features",
+        "Typically used to bind papers together",
+        "relatively lightweight and thin"
+    ],
+    "paper-shredder": [
+        "Shredded paper bin or wastebasket",
+        "often located near desks or waste bins",
+        "collection bin or wastebasket",
+        "bin or container for shredded paper",
+        "boxy or rectangular shape"
+    ],
+    "pci-card": [
+        "presence of a metal bracket or shield for mounting in a computer case",
+        "lack of barrel, stock, trigger, or other firearm components",
+        "simple, flat paper or plastic material",
+        "Mounting brackets or screws for installation in a computer",
+        "Smaller, rectangular shape"
+    ],
+    "penguin": [
+        "Black and white plumage",
+        "black and white plumage",
+        "black and white coloring",
+        "Distinct black and white plumage",
+        "Absence of fur; presence of feathers"
+    ],
+    "people": [
+        "Movement or dynamic posture (if visible)",
+        "Smaller size",
+        "clothing worn by individuals",
+        "clothing",
+        "Clothing"
+    ],
+    "pez-dispenser": [
+        "Character head or design on top",
+        "usually features a character's head on top",
+        "Character head/top",
+        "character or themed head design",
+        "Character head on top"
+    ],
+    "photocopier": [
+        "Large, flat surface or platen for placing documents",
+        "A lid or feeder for placing documents to be copied",
+        "presence of printed or copied paper stacks",
+        "multiple paper trays",
+        "Multiple paper trays"
+    ],
+    "picnic-table": [
+        "Often located outdoors (parks, backyards) ",
+        "situated outdoors, often in parks or picnic areas",
+        "rectangular or square shape",
+        "rectangular or round shape",
+        "rectangular or elongated shape"
+    ],
+    "playing-card": [
+        "face cards (kings, queens, jacks)",
+        "Card back designs",
+        "Printed designs or illustrations on the front side",
+        "Typically held in hands or arranged in a deck",
+        "numbers or face cards (e.g., King, Queen, Jack)"
+    ],
+    "porcupine": [
+        "presence of quill patterns on closer inspection",
+        "Slow, deliberate movements",
+        "a smaller, more pointed face",
+        "Presence of fur in addition to quills",
+        "different walking or climbing behavior"
+    ],
+    "pram": [
+        "Enclosed area or basket for carrying an infant",
+        "Four wheels, usually smaller in the front and larger in the back",
+        "Wheeled structure",
+        "lack of fur or hooves",
+        "Compact and lightweight frame"
+    ],
+    "praying-mantis": [
+        "prominent, grasping forelegs (raptorial legs)",
+        "Raptorial front legs (designed for grasping prey)",
+        "Slow, deliberate movements",
+        "forelegs modified into raptorial (grasping) legs",
+        "Folded front legs (raptorial legs)"
+    ],
+    "pyramid": [
+        "Lack of fine sculpting details",
+        "Rectangular or square shape",
+        "Triangular shape (three sides)",
+        "Triangular or conical shape",
+        "Large, broad base"
+    ],
+    "raccoon": [
+        "mask-like black markings around the eyes",
+        "ringed tail with alternating black and white bands ",
+        "primarily terrestrial setting",
+        "Mask-like facial markings",
+        "Mask-like face markings"
+    ],
+    "radio-telescope": [
+        "large parabolic dish or array of dishes",
+        "Located in areas with minimal radio interference",
+        "may have additional equipment such as receivers or transmitters attached",
+        "lack of net",
+        "Large dish-shaped antenna"
+    ],
+    "rainbow": [
+        "typically seen during daylight with a light source behind the observer",
+        "often seen after rain or near a water source in sunlight",
+        "Greyish-pinkish convoluted structure",
+        "Semi-circular or arched shape",
+        "often against a backdrop of clouds or a clear sky"
+    ],
+    "refrigerator": [
+        "Located commonly in kitchen, side-by-side with other large appliances",
+        "Presence of a freezer compartment (often at the top or bottom)",
+        "large, rectangular appliance",
+        "large, upright appliance",
+        "often placed in the kitchen against a wall or in a cabinet space"
+    ],
+    "revolver-101": [
+        "Grip designed for hand use",
+        "Grip or handle",
+        "hand grip",
+        "handle with grips",
+        "Handgrip"
+    ],
+    "rifle": [
+        "Typically includes a sight or scope",
+        "More elongated body",
+        "Long barrel",
+        "long barrel",
+        "presence of a barrel"
+    ],
+    "rotary-phone": [
+        "often made of heavier, more solid materials like bakelite or metal",
+        "Rotary dial",
+        "rectangular or curved base",
+        "Mechanical parts such as the ringer bell",
+        "rotary dial with numbers in a circle"
+    ],
+    "roulette-wheel": [
+        "Numbered pockets or slots around the perimeter",
+        "presence of a croupier (roulette dealer)",
+        "numbered pockets or slots",
+        "numbered pockets",
+        "Numbered pockets"
+    ],
+    "saddle": [
+        "Stirrup irons",
+        "Raised rear cantle",
+        "often placed on a horse's back",
+        "Saddle horn (if present)",
+        "presence of stirrups"
+    ],
+    "saturn": [
+        "Multiple moons visible in photos",
+        "substantial size, occupying a significant portion of the image",
+        "Prominent ring system",
+        "space background",
+        "Few, well-defined moons or satellites"
+    ],
+    "school-bus": [
+        "single or double rear wheels",
+        "Flashing red lights",
+        "Wheels for terrestrial movement",
+        "Large wheels with visible wheel wells",
+        "no sirens or emergency lights"
+    ],
+    "scorpion-101": [
+        "fewer, prominent segments in the body",
+        "usually found in dry, arid environments",
+        "presence of eight legs",
+        "four pairs of legs plus two additional pedipalps (pincers)",
+        "pair of claws (pedipalps)"
+    ],
+    "screwdriver": [
+        "typically a single-piece or detachable bits for different screw heads",
+        "Single solid piece or modular design with interchangeable heads",
+        "designed for tightening or loosening screws",
+        "typically used for manual tasks involving screws",
+        "handle designed for gripping"
+    ],
+    "segway": [
+        "Absence of pedals and seats typically found on a tricycle",
+        "Two large wheels",
+        "two parallel wheels",
+        "Wheels",
+        "often seen in urban or paved environments"
+    ],
+    "self-propelled-lawn-mower": [
+        "typically found outdoors or in a garage",
+        "a grass collection bag",
+        "compact, low to the ground body",
+        "grass collection bag or chute",
+        "Lawn or yard setting"
+    ],
+    "sextant": [
+        "generally compact and designed for handheld use",
+        "a vernier scale or micrometer drum for precise measurements",
+        "Adjustable micrometer drum or Vernier scale",
+        "an adjustable arm (also known as an index arm)",
+        "a frame with an arc marked with degrees"
+    ],
+    "sheet-music": [
+        "Rectangular shape",
+        "Paper material with typically white background",
+        "Typically rectangular paper format",
+        "paper with printed notes and symbols",
+        "pages with lyrics or musical instructions"
+    ],
+    "skateboard": [
+        "Trucks and axles connecting the wheels to the board",
+        "Presence of trucks connecting wheels to the deck",
+        "typically a low-cut or mid-cut shape around the ankle",
+        "graphics or designs on the underside of the deck",
+        "presence of a rider or feet"
+    ],
+    "skunk": [
+        "Bushy tail, often with black and white fur",
+        "Characteristic black and white stripe pattern on the body",
+        "Black and white fur pattern",
+        "black and white fur pattern",
+        "Distinct black and white fur pattern"
+    ],
+    "skyscraper": [
+        "Lack of human features such as limbs and a recognizable face",
+        "Rectangular or square shape",
+        "Rectangular or other geometric shapes ",
+        "rectangular or multiple-sided structure",
+        "Rectangular or boxy shape"
+    ],
+    "smokestack": [
+        "lack of human shapes and features like limbs or facial expressions",
+        "no fur or animal features (e.g., ears, eyes, horns)",
+        "often situated in an industrial or factory setting",
+        "Tall and often found on industrial buildings or ships",
+        "presence of smoke or steam emission"
+    ],
+    "snail": [
+        "Presence of a foot for locomotion",
+        "terrestrial or aquatic environment close to the ground",
+        "Shelled body",
+        "Movement trail or slime trail",
+        "Tentacles or eye stalks"
+    ],
+    "snake": [
+        "linear movement pattern",
+        "presence of a narrow, pointed head",
+        "slithering movement",
+        "absence of limbs",
+        "Absence of solid, rigid structure"
+    ],
+    "sneaker": [
+        "Padding and support: Tennis shoes often have additional padding and support around the ankles and arches, designed for the activity.",
+        "lack of human facial features, limbs, or body shape",
+        "Individual shoe shape designed to fit a foot",
+        "Arch support",
+        "Athletic design"
+    ],
+    "snowmobile": [
+        "Snowmobile helmet and gear (if visible)",
+        "handlebars on snowmobiles are often adorned with padding or heating elements",
+        "typically monochromatic or brightly colored with simple designs",
+        "handlebar steering",
+        "Handlebar steering"
+    ],
+    "soccer-ball": [
+        "contrast in black and white colors (traditional)",
+        "Often black and white, but can come in various colors and patterns",
+        "black and white (or colored) patches",
+        "Hexagonal and pentagonal black and white patterns",
+        "black and white pentagon and hexagon pattern (traditional soccer ball)"
+    ],
+    "socks": [
+        "pairs meant for wearing on feet",
+        "Can be worn inside shoes for added comfort and warmth",
+        "Often seen worn inside shoes or snugly on feet",
+        "Foot-shaped design",
+        "Close-fitting around the foot and ankle"
+    ],
+    "soda-can": [
+        "typically smaller and lighter in size",
+        "general absence of foam or head commonly associated with beer",
+        "often with a uniform diameter from top to bottom",
+        "Consistent size (approximately 12 fluid ounces for standard cans)",
+        "Taller and narrower profile"
+    ],
+    "spaghetti": [
+        "Often labeled with text or graphics",
+        "Appears as food item",
+        "bowl or plate presentation",
+        "often accompanied by sauce or other food items",
+        "can be seen in a bowl or on a plate"
+    ],
+    "speed-boat": [
+        "absence of limbs (arms, legs)",
+        "Visible engine or motor",
+        "Propeller or outboard motor",
+        "Often seen on water",
+        "Passengers or pilot"
+    ],
+    "spider": [
+        "Typically found on webs, ground, or vegetative structures",
+        "lack of mammalian features (fur, hooves, horns)",
+        "Generally terrestrial habitat",
+        "Presence of webbing or silk structures",
+        "Multiple legs (usually eight)"
+    ],
+    "spoon": [
+        "designed for scooping and holding liquids or solids",
+        "absence of facial features or limbs",
+        "Designed for scooping or holding liquids",
+        "bowl-shaped head",
+        "Often found in sets with forks, not typically paired directly with knives"
+    ],
+    "stained-glass": [
+        "often found in windows of churches or historic buildings",
+        "large, flat panels or sections",
+        "Fixed within a window frame or panel",
+        "presence of glass sections",
+        "fixed location (e.g., in windows)"
+    ],
+    "starfish-101": [
+        "Five arms or arms extending from a central disc",
+        "Absence of mechanical parts like rotors or blades",
+        "No visible legs or claws",
+        "central disc",
+        "No hanging lights or bulbs"
+    ],
+    "steering-wheel": [
+        "central hub (often with a logo or horn)",
+        "Circular shape",
+        "circular shape",
+        "Circular, rim-like shape",
+        "circular shape with a central column or hub"
+    ],
+    "stirrups": [
+        "Often associated with other horse tack or equestrian gear in the photo.",
+        "Designed to carry an infant or small child",
+        "designed for attaching to a saddle",
+        "Metal loops or hoops",
+        "Has a loop or ring shape designed to accommodate a rider's foot."
+    ],
+    "sunflower-101": [
+        "Central disk (flower head)",
+        "Central round disk (center) which is typically brown or dark",
+        "Absence of large grey body",
+        "Absence of timekeeping elements (e.g., clock face, hands, numbers)",
+        "No presence of trunks or tusks"
+    ],
+    "superman": [
+        "Human figure",
+        "Use of X-ray vision, heat vision, or other superpowers",
+        "human-like figure",
+        "Human-like figure",
+        "Superhero costume (usually blue with a red cape and a large 'S' emblem on the chest)"
+    ],
+    "sushi": [
+        "arranged in rolls or individual pieces",
+        "Cylindrical or oval shapes",
+        "Rolled shape or pieces with toppings",
+        "presence of sushi rolls or nigiri",
+        "Irregular shape (compared to a perfect cube for dice)"
+    ],
+    "swan": [
+        "absence of clothing or human facial features",
+        "large size",
+        "white or sometimes black plumage",
+        "presence of water (often seen in swan photos)",
+        "Presence of water or aquatic environment"
+    ],
+    "swiss-army-knife": [
+        "Multiple tools (e.g., knife blades, scissors, screwdrivers, bottle opener)",
+        "Variety of tool types (knife, scissors, bottle opener, etc.)",
+        "Various tool options visible (e.g., scissors, screwdrivers, can openers, etc.)",
+        "Compact and portable design",
+        "Cross and shield emblem (the Victorinox logo)"
+    ],
+    "sword": [
+        "designed for use with two hands (in many cases)",
+        "guard or cross-guard",
+        "Guard or crossguard",
+        "hilt with a guard, grip, and pommel",
+        "Sheath or scabbard (if present)"
+    ],
+    "syringe": [
+        "typically transparent or semi-transparent material",
+        "medical setting or context (if present)",
+        "absence of scales or skin pattern",
+        "absence of a bottle neck and label",
+        "graduated markings"
+    ],
+    "tambourine": [
+        "Transparent or solid drum membrane",
+        "circular frame with or without a head",
+        "Frame with jingles or small cymbals",
+        "Often has a drumhead or skin on one side",
+        "Rows of small metal jingles (often called zills)"
+    ],
+    "teapot": [
+        "often has decorative designs",
+        "often a decorative design ",
+        "often made of porcelain, ceramic, or metal",
+        "typically made of porcelain, metal, or ceramic",
+        "Design patterns typical of teapots (e.g., floral or traditional designs)"
+    ],
+    "teddy-bear": [
+        "Clothing or accessories (e.g., bow tie, dress)",
+        "Often holding or dressed in playful attire such as ribbons or bows",
+        "Often dressed in clothing or accessories such as bows or hats",
+        "Presence of a bow tie or other decorative clothing (common in teddy bears)",
+        "Presence of clothes or accessories (sometimes)"
+    ],
+    "teepee": [
+        "Stationary and set on ground ",
+        "larger in size, often used as a shelter or dwelling",
+        "usually placed on a flat ground or field",
+        "Human shape (head, torso, arms, legs)",
+        "Made of wooden poles and animal hides or canvas"
+    ],
+    "telephone-box": [
+        "Telegraph or telephone symbol",
+        "Rectangular shape",
+        "rectangular shape",
+        "usually made of metal or wood",
+        "Often found on street corners or public areas"
+    ],
+    "tennis-ball": [
+        "Absence of human features (e.g., arms, legs, face)",
+        "lightweight appearance",
+        "Small, spherical shape",
+        "Typically held or shown on a tennis court",
+        "Small, round shape"
+    ],
+    "tennis-court": [
+        "Presence of tennis players with rackets",
+        "net in the center",
+        "net across the center of the court",
+        "Net in the middle of the court",
+        "Presence of tennis equipment such as rackets and balls"
+    ],
+    "tennis-racket": [
+        "Oval or round head with string mesh",
+        "absence of facial features and limbs",
+        "Oval-shaped head with strings",
+        "oval or round head with strings",
+        "a stringed oval or round head"
+    ],
+    "theodolite": [
+        "Non-barrel-based design, often with adjustable angles",
+        "Rotating angles measuring axis",
+        "graduated circles or dials for measuring angles",
+        "Angled measuring scales or circles",
+        "Absence of human features (e.g., limbs, head, skin, clothing)"
+    ],
+    "toaster": [
+        "lever or push-down handle",
+        "Visible heating elements (sometimes)",
+        "Metallic or plastic exterior",
+        "Heating elements",
+        "heating elements"
+    ],
+    "tomato": [
+        "Depiction in robes or historical clothing",
+        "Contextual religious elements, such as a background setting of biblical scenes or sacred objects",
+        "no engravings or mint markings",
+        "Typically found among other fruits or vegetables",
+        "absence of strings and mechanical parts"
+    ],
+    "tombstone": [
+        "Engravings or inscriptions (names, dates, epitaphs) typically found on tombstones",
+        "Rectangular or rounded shapes typically found in cemeteries",
+        "Typically found in graveyards or cemeteries ",
+        "Typically found in a graveyard or cemetery setting",
+        "Often found in cemeteries or graveyards"
+    ],
+    "top-hat": [
+        "Black or dark color typically",
+        "typically made of felt or silk",
+        "flat brim",
+        "Flat brim",
+        "narrow brim"
+    ],
+    "touring-bike": [
+        "absence of facial features or limbs (distinctive human characteristics)",
+        "Rear rack or panniers for carrying gear",
+        "Panniers or racks for carrying gear (optional but common in touring bikes)",
+        "panniers or racks (often found on touring bikes)",
+        "Chain and gears without an engine"
+    ],
+    "tower-pisa": [
+        "Complex, irregular folds and grooves",
+        "Noticeable tilt or lean to one side",
+        "Marble material and ornate architectural design",
+        "Leaning structure with a noticeable tilt",
+        "Leaning structure"
+    ],
+    "traffic-light": [
+        "Located at intersections or pedestrian crossings",
+        "Lack of human features such as limbs, torso, or face",
+        "pedestrian or vehicle control signals",
+        "Designed to control traffic flow",
+        "Visible at intersections or roadways"
+    ],
+    "treadmill": [
+        "Compact, rectangular shape",
+        "wide belt for running or walking",
+        "incline adjustment mechanism",
+        "incline/decline feature",
+        "incline adjustment features"
+    ],
+    "triceratops": [
+        "Biped stance: Minotaurs generally stand and walk on two legs.",
+        "Frilled bony shield on head",
+        "Three facial horns (one on the nose, two above the eyes)",
+        "Three facial horns (one on the nose and two above the eyes)",
+        "Quadruped stance: Triceratops walk on four sturdy legs whereas minotaurs are often depicted as bipedal."
+    ],
+    "tricycle": [
+        "often child-sized",
+        "Smaller in size, especially proportionate to a child",
+        "Small size, typically designed for children",
+        "Child-sized frame",
+        "sometimes includes a handle for an adult to push"
+    ],
+    "trilobite-101": [
+        "crescent-shaped head shield (cephalon)",
+        "oval or elongated body shape",
+        "segmented body",
+        "Elongated, oval body",
+        "Presence of a head (cephalon), body (thorax), and tail (pygidium)"
+    ],
+    "tripod": [
+        "Central mounting platform or head",
+        "Absence of facial features or limbs",
+        "No distinct facial features or human-like posture",
+        "Adjustable legs with telescoping sections",
+        "Three-legged support structure"
+    ],
+    "t-shirt": [
+        "rectangular body shape",
+        "possible logos or designs on the front or back",
+        "typically displayed flat or worn on a person",
+        "short sleeves or no sleeves",
+        "ability to be worn on the upper body"
+    ],
+    "tuning-fork": [
+        "No additional tools or attachments",
+        "Lacks any folding or movable parts",
+        "Small or pocket-sized",
+        "Lack of a sharp or flat tip",
+        "Presence of a base or handle for holding"
+    ],
+    "tweezer": [
+        "pointed, flat, or slanted tips",
+        "narrow, pointed tips",
+        "flat or pointed tips",
+        "Material (tweezers are typically made of stainless steel or metal alloys, swords can be made of steel, iron, or other strong metals)",
+        "Shape (tweezers have two narrow limbs that taper to a point or flat tip, swords have a long blade with a handle)"
+    ],
+    "umbrella-101": [
+        "typically used for protection against rain or sun",
+        "Lack of facial features",
+        "Canopy or fabric cover spread out for use",
+        "Canopy: The umbrella has a fabric canopy to provide shade or protection from rain.",
+        "canopy or fabric cover"
+    ],
+    "unicorn": [
+        "mythical and often depicted in magical or ethereal settings",
+        "mythical or fantasy appearance",
+        "depicted in artwork rather than realistic photography",
+        "Mythical or fantasy setting",
+        "mythical or fantasy setting"
+    ],
+    "vcr": [
+        "Often depicted with a halo or aura around the head",
+        "rectangular shape with front panel buttons or a display",
+        "control buttons such as play, stop, rewind, and fast forward",
+        "LCD or LED time display",
+        "displays (either digital or analog) on the front panel"
+    ],
+    "video-projector": [
+        "ventilation grilles or fans",
+        "cooling vents or fans",
+        "ventilation grills or cooling fans",
+        "ventilation grilles",
+        "a smaller and more compact design"
+    ],
+    "washing-machine": [
+        "laundry-related items nearby (e.g., laundry baskets, detergent bottles)",
+        "Often found in laundry rooms or basements rather than kitchen countertops",
+        "Smaller, more compact shape designed for laundry areas",
+        "Detergent compartment",
+        "Rectangular or cylindrical shape"
+    ],
+    "watch-101": [
+        "Straps or bracelet",
+        "often worn on the wrist",
+        "Strap or bracelet",
+        "strap or bracelet",
+        "Round or rectangular face with numbers or markings"
+    ],
+    "waterfall": [
+        "absence of a solid animal form",
+        "Absence of clothing or human features",
+        "Cascading movement",
+        "Lack of manufactured materials (metal, plastic, etc.)",
+        "Varying water patterns and irregular shapes"
+    ],
+    "watermelon": [
+        "Striped pattern on the rind",
+        "Presence of black or white seeds inside the flesh",
+        "presence of seeds (if the watermelon is cut open)",
+        "oblong or round shape",
+        "Contrast between the solid rind and the soft inner flesh"
+    ],
+    "welding-mask": [
+        "Often rectangular or boxy in shape",
+        "often rectangular or oblong shape",
+        "Often features a rectangular or square viewing window",
+        "a completely enclosed face shield",
+        "Compact and typically handheld or worn on the head"
+    ],
+    "wheelbarrow": [
+        "deep, shallow basin for carrying loads",
+        "Often seen in gardens, construction sites, or farms",
+        "Designed for manual use rather than motorized operation",
+        "smaller size",
+        "Shallow, open basin for carrying materials"
+    ],
+    "windmill": [
+        "Usually located in rural or agricultural settings",
+        "Located outdoors, often in open areas or fields",
+        "Absence of gambling elements (no ball, betting areas)",
+        "situated in an outdoor environment, often seen in a field or near farms",
+        "Often situated in fields or rural areas"
+    ],
+    "wine-bottle": [
+        "Label with information on the type of wine, vineyard, vintage year, etc.",
+        "absence of limbs",
+        "Context: Wine bottles are usually found in settings like kitchens, dining rooms, or bars, while representations of Jesus Christ are more likely found in religious or home decor contexts.",
+        "Contents: Wine bottles contain liquid, specifically wine, while representations of Jesus Christ do not contain anything.",
+        "absence of handle"
+    ],
+    "xylophone": [
+        "mallets or sticks for striking the bars",
+        "struck with mallets",
+        "mallets or beaters",
+        "Mallets or beaters",
+        "set of bars (usually wooden or metal) arranged in order of pitch"
+    ],
+    "yarmulke": [
+        "Small, round cap typically covering the crown of the head",
+        "Usually depicted in medical or anatomical imagery",
+        "rests on the crown of the head without straps or padding",
+        "Covering the top or crown of the head",
+        "Typically seen in the context of traditional Jewish attire or religious settings"
+    ],
+    "yo-yo": [
+        "May have designs or patterns on the sides",
+        "yo-yo-specific patterns or designs (such as logos or brand names on the yo-yo)",
+        "plastic or metal material for yo-yo",
+        "simple, handheld design without a base",
+        "Potential branding or logos from yo-yo manufacturers"
+    ],
+    "zebra": [
+        "Black and white striped coat",
+        "black and white stripes",
+        "Black and white stripes",
+        "Distinct black and white stripes covering the body",
+        "Distinct black and white stripes"
+    ],
+    "airplanes-101": [
+        "Often larger in size with multiple windows on the fuselage",
+        "Jet engines or propellers typically mounted on the wings or fuselage",
+        "Landing gear consisting of wheels or skis",
+        "Jet engines or propellers",
+        "jet engines or propellers"
+    ],
+    "car-side-101": [
+        "Shape: Circular, square, or rectangular face.",
+        "Presence of wheels: Cars will have wheels, typically four.",
+        "visible tires and wheels",
+        "Four wheels",
+        "typically smaller and more portable than a car"
+    ],
+    "faces-easy-101": [
+        "Presence of hair on the head",
+        "Absence of hair or external human features",
+        "background likely focused on the face or upper body",
+        "symmetry typical of human faces",
+        "Facial symmetry"
+    ],
+    "greyhound": [
+        "typically various shades of grey, brown, black, white",
+        "Long, tapered tail",
+        "different body proportions",
+        "pointed, upright ears (often folded)",
+        "fur patterns or coloring specific to greyhounds"
+    ],
+    "tennis-shoes": [
+        "Low profile design for better court feel and speed",
+        "Reinforced toecap for durability",
+        "structured design with toe box, midsole, and heel counter",
+        "cushioning or inner padding",
+        "Shoe shape for the foot"
+    ],
+    "toad": [
+        "Variability in posture and movement",
+        "Terrestrial habitat indication (e.g., presence of soil or grass)",
+        "Visible parotoid glands behind the eyes",
+        "Parotoid glands behind eyes",
+        "Parotoid glands behind the eyes"
+    ],
+    "clutter": [
+        "Lack of recognizable human shapes",
+        "Military markings or insignia",
+        "Lack of number faces (1-6 dots)",
+        "lack of a distinct, singular shape",
+        "Lack of cohesive pattern or structure"
+    ]
+}

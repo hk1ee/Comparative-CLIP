@@ -1,0 +1,1402 @@
+{
+    "Black-footed Albatross": [
+        "Larger size",
+        "Long, narrow wings with a wingspan up to 7 feet",
+        "Dark plumage, including head and body",
+        "Pale or whitish area around the beak",
+        "Smaller size with a wingspan typically under 4 feet"
+    ],
+    "Laysan Albatross": [
+        "Distinctive black markings around the eyes",
+        "Dark upper wings",
+        "Dark eye patch",
+        "Black or dark brown wings",
+        "More rounded wings compared to the deeply forked tail and slender wings of a frigatebird"
+    ],
+    "Sooty Albatross": [
+        "typically found in more open ocean settings",
+        "distinctive white crescent above and behind the eye",
+        "Distinctive white crescent shape above and behind the eye",
+        "dark eye patch",
+        "slender, more streamlined body shape"
+    ],
+    "Groove-billed Ani": [
+        "Overall size (Common Raven is generally larger)",
+        "Long tail: disproportionately long compared to its body size",
+        "Lack of bright yellow head feathers",
+        "distinctive, long, and deeply grooved bill",
+        "Flock behavior (Groove-billed Ani is more social and often found in groups)"
+    ],
+    "Crested Auklet": [
+        "Dark, glossy plumage with a slightly different sheen",
+        "Mostly dark plumage with a slight sheen",
+        "Larger size: Crested Auklets are generally larger than Least Auklets.",
+        "Bill color: Bright orange bill in Crested Auklets compared to the dark bill of the Least Auklet.",
+        "Oceanic or coastal habitat indication"
+    ],
+    "Least Auklet": [
+        "Often seen in large flocks or on rocky shorelines",
+        "More mottled gray and white plumage",
+        "Smaller size",
+        "Small size (Least Auklets are significantly smaller than American Crows)",
+        "Thin, conical bill"
+    ],
+    "Parakeet Auklet": [
+        "Dark and white plumage with a more solid, dark back",
+        "shorter wings relative to body size",
+        "White eye ring",
+        "Short, rounded wings",
+        "White line or plume on the head"
+    ],
+    "Rhinoceros Auklet": [
+        "horn-like extension on the bill",
+        "Smaller, rounded head compared to the longer, more streamlined head of the Black-footed Albatross",
+        "Pronounced, thick bill with a horn-like projection",
+        "stockier body shape",
+        "Tendency to stay closer to coastal areas"
+    ],
+    "Brewer Blackbird": [
+        "Distinct yellow or bright eye",
+        "smaller size",
+        "Smaller body size",
+        "**Behavior:** Brewer Blackbirds often forage on the ground in open areas, while Boat-tailed Grackles can be seen in marshes and near water bodies.",
+        "Slightly curved bill"
+    ],
+    "Red-winged Blackbird": [
+        "Red or yellow shoulder patches on wings",
+        "smaller, more compact body size compared to a Grackle",
+        "More slender build",
+        "Solid black coloration without distinctive patches",
+        "White patch on the back of the neck"
+    ],
+    "Rusty Blackbird": [
+        "Preference for wetland habitats",
+        "Slender, pointed bill",
+        "Slightly smaller size compared to Brewer Blackbird",
+        "Lighter brown or rusty hue on the body",
+        "Overall feather color: Rusty Blackbirds have rusty edges on feathers, especially in non-breeding plumage, while Red-winged Blackbirds typically have black feathers with red and yellow shoulder patches."
+    ],
+    "Yellow-headed Blackbird": [
+        "Often found in wetland areas",
+        "Habitat: typically found in wetlands and marshes where reeds are present",
+        "stockier build",
+        "solid black body and wings",
+        "Beak shape: more conical and stout"
+    ],
+    "Bobolink": [
+        "Different song pattern and call notes",
+        "Black face and underparts in breeding males",
+        "distinct black and white plumage in males during breeding season",
+        "Smaller size and more compact appearance",
+        "more plump, finch-like body shape"
+    ],
+    "Indigo Bunting": [
+        "Slightly smaller size compared to the Scarlet Tanager",
+        "Lack of red and black coloration, which is characteristic of the Scarlet Tanager's males",
+        "Difference in size and shape might be subtle, but can include body proportions and beak shape",
+        "Slightly smaller size",
+        "Generally solitary or seen in small groups rather than large, noisy flocks"
+    ],
+    "Lazuli Bunting": [
+        "Bright blue head and back (Lazuli Bunting)",
+        "Smaller, more pointed bill (indicative of insect-eating)",
+        "Less prominent eye ring compared to Least Flycatcher",
+        "distinct white wing bars",
+        "Stubbier, conical beak suitable for seeds"
+    ],
+    "Painted Bunting": [
+        "Longer, slender bill",
+        "Female Painted Buntings are bright green, whereas female Summer Tanagers are more olive or yellowish",
+        "Multicolored plumage (blue head, red underparts, green back) ",
+        "Olive-yellow body with darker wings and tail in females and immature birds",
+        "bright, multi-colored plumage (blue head, green back, red underparts)"
+    ],
+    "Cardinal": [
+        "thin, pointed bill",
+        "Prominent crest on top of the head",
+        "relatively plain underparts compared to the streaked pattern of a Baird Sparrow",
+        "Lack of complex songs and vocal mimicry (Mockingbirds are known for their ability to mimic other birds)",
+        "Bright red plumage"
+    ],
+    "Spotted Catbird": [
+        "larger size",
+        "Bright green coloration",
+        "Typically found in rainforest or forested habitats",
+        "Greenish or brownish plumage with distinct spots on the underparts",
+        "Greenish plumage"
+    ],
+    "Gray Catbird": [
+        "Thin, pointed bill",
+        "Slate-gray coloration",
+        "Slender body",
+        "absence of spots on the body",
+        "Long, black tail"
+    ],
+    "Yellow-breasted Chat": [
+        "Large size compared to other warblers (Yellow-breasted Chats are generally larger)",
+        "White eye-ring",
+        "Olive-green back",
+        "Thick, sturdy bill",
+        "olive-green upper parts"
+    ],
+    "Eastern Towhee": [
+        "Absence of a distinctive rufous cap on the head",
+        "Black head and back (males) or brown head and back (females)",
+        "Thick, conical beak",
+        "Bright white belly and chest",
+        "Reddish-brown sides"
+    ],
+    "Chuck-will Widow": [
+        "Wide, flat head with large eyes",
+        "Very short, almost square tail",
+        "Large, rounded head",
+        "Brown throat patch instead of whitish",
+        "Large, flat head with a very wide but short bill"
+    ],
+    "Brandt Cormorant": [
+        "Turquoise-blue facial skin",
+        "Longer neck",
+        "feet are not webbed",
+        "Distinct red or orange facial skin",
+        "Sturdy, conical bill"
+    ],
+    "Red-faced Cormorant": [
+        "Long, hooked bill",
+        "glossy, dark plumage with an iridescent sheen",
+        "Sharp, pointed bill",
+        "Lack of distinct, spiky crest on the head",
+        "Often seen in open or mountainous areas"
+    ],
+    "Pelagic Cormorant": [
+        "open wings for drying (cormorants are known for doing this)",
+        "Smaller size",
+        "long, thin neck",
+        "Dark, iridescent plumage with hints of green or purple",
+        "more upright posture"
+    ],
+    "Bronzed Cowbird": [
+        "Bill shape: Bronzed Cowbirds have a shorter, conical bill, whereas American Crows have a larger, thicker bill.",
+        "less distinct markings compared to a Spotted Catbird",
+        "Dark, metallic bronze or black plumage",
+        "Stocky body shape",
+        "Shorter tail compared to Boat-tailed Grackle"
+    ],
+    "Shiny Cowbird": [
+        "straight bill",
+        "Dark eyes with no prominent eye-ring",
+        "iridescent purple-blue plumage",
+        "Less bulky body compared to the robust physique of a Common Raven",
+        "glossy plumage"
+    ],
+    "Brown Creeper": [
+        "mottled brown and white plumage",
+        "Camouflaged, brown and streaked plumage",
+        "Brown, streaked plumage",
+        "Behavior: The Brown Creeper spirals up tree trunks in search of insects, whereas the Bewick Wren often forages lower or on the ground.",
+        "Tail: The Brown Creeper has a stiff tail, which it uses for support against tree trunks as it climbs."
+    ],
+    "American Crow": [
+        "Distinctive \"caw\" call",
+        "Stout bill",
+        "Thicker, more robust bill",
+        "Different vocalizations (cawing sounds)",
+        "Absence of spots or patterns"
+    ],
+    "Fish Crow": [
+        "lack of white markings on the wings and tail",
+        "body size",
+        "wing length",
+        "Often seen in groups or near water sources",
+        "Size: Fish Crows are generally smaller than Common Ravens."
+    ],
+    "Black-billed Cuckoo": [
+        "Brownish upper parts",
+        "Horizontal perching behavior",
+        "slender, elongated body shape",
+        "black, slightly down-curved bill",
+        "Pale underparts with a slight buff wash"
+    ],
+    "Mangrove Cuckoo": [
+        "buff-colored underparts",
+        "Habitat: While not a direct physical feature, the background habitat in the photo can provide clues. Mangrove Cuckoos are typically found in mangrove forests and coastal areas, whereas Yellow-bellied Flycatchers are often in wooded habitats and forest edges.",
+        "red eye ring (though this can be more distinct in some seasons)",
+        "More elongated shape compared to the more compact Black-capped Vireo",
+        "dark mask through the eyes"
+    ],
+    "Yellow-billed Cuckoo": [
+        "long, graduated tail with large white spots on the underside",
+        "slower, more deliberate flight patterns",
+        "Brownish upperparts and white underparts",
+        "Thick, curved bill",
+        "long, slender body"
+    ],
+    "Gray-crowned-Rosy Finch": [
+        "Pinkish or reddish hues on the wings and back",
+        "Gray crown",
+        "Smaller size",
+        "high-altitude or mountainous background (if visible in the photo)",
+        "Often seen in a variety of habitats including thickets, gardens, and brushy areas"
+    ],
+    "Purple Finch": [
+        "More uniform coloration without distinct patterns",
+        "Usually found in trees or bushes, not on the ground",
+        "Long tail with a more rounded tip",
+        "Breast pattern: Purple Finches have a relatively plain, sometimes faintly streaked breast, whereas Lincoln Sparrows have a more heavily streaked and spotted breast.",
+        "Overall more uniformly colored with a raspberry tint"
+    ],
+    "Northern Flicker": [
+        "Red patch on the nape (varies by region)",
+        "Red or yellow shafts on the flight feathers (depending on subspecies)",
+        "No completely red head; the head and neck are generally grayish or brown",
+        "Red or yellow markings on the head and tail (depending on the subspecies)",
+        "barred brown back and wings"
+    ],
+    "Acadian Flycatcher": [
+        "Often seen in a more upright posture",
+        "Breast markings: Acadian Flycatchers have a relatively plain breast, whereas Olive-sided Flycatchers feature a distinctive dark vest-like pattern on their breast.",
+        "Prefers forested habitats, often near streams and rivers",
+        "**Habitat**: While not a physical feature, noting the habitat can help; Acadian Flycatchers are more common in densely wooded areas, whereas Great-Crested Flycatchers are found in more open woodlands.",
+        "Plumage color: Acadian Flycatchers tend to have a greener, olive upper body, while Olive-sided Flycatchers often display a more grayish-brown upper body."
+    ],
+    "Great-Crested Flycatcher": [
+        "Reddish-brown tail and wing feathers",
+        "Distinctive crest on the head",
+        "More robust and less compact body structure",
+        "Rusty-red tail",
+        "Slightly larger body size"
+    ],
+    "Least Flycatcher": [
+        "**Tail Shape**: Least Flycatchers have a relatively short, square tail, while Scott Orioles have a longer, more rounded tail.",
+        "smaller size",
+        "Smaller size",
+        "Coloration (Least Flycatcher has a more olive or grayish back, while the Worm-eating Warbler tends to have a more muted, brownish back)",
+        "Typically perched upright on branches"
+    ],
+    "Olive-sided Flycatcher": [
+        "Dark, streaked flanks",
+        "Vest-like dark streaks on the sides of the breast, creating a contrast with a white or pale belly",
+        "Tends to have a more upright posture",
+        "May be seen perched on exposed branches or treetops",
+        "Typically found perched upright on tall trees"
+    ],
+    "Scissor-tailed Flycatcher": [
+        "white underparts ",
+        "white breast and belly",
+        "Black wings with white wing bars",
+        "Light gray head and upperparts",
+        "Habitat preference (open areas like prairies and ranches for scissor-tailed flycatcher, wooded habitats for yellow-billed cuckoo)"
+    ],
+    "Vermilion Flycatcher": [
+        "Size: Vermilion Flycatchers are generally smaller than Summer Tanagers.",
+        "More pronounced crest or slightly upturned appearance on the head",
+        "Presence of a dark mask on males",
+        "Smaller size compared to the larger-bodied Red-headed Woodpecker",
+        "Habitat in North, Central, and South America (Great-Crested Flycatchers are typically found in eastern North America)"
+    ],
+    "Yellow-bellied Flycatcher": [
+        "Short, flat black bill",
+        "Slightly smaller size",
+        "White underparts",
+        "lighter throat",
+        "Dusky, relatively indistinct wingbars"
+    ],
+    "Frigatebird": [
+        "Thin, pointed wings",
+        "Mostly black plumage with glossy iridescence",
+        "Extremely long wings",
+        "long, slender wings with a pronounced bend",
+        "Long, forked tail"
+    ],
+    "Northern Fulmar": [
+        "shorter wings",
+        "uniform gray or white plumage without mottling",
+        "Size and shape of the bird (Northern Fulmars tend to be chunkier and more stout compared to the slimmer Ivory Gulls)",
+        "overall grayish or light plumage",
+        "stocky build"
+    ],
+    "Gadwall": [
+        "Brownish-grey plumage with subtle patterns",
+        "Less prominent, less hooked beak compared to gulls",
+        "stout, sturdy body (Western Gull)",
+        "compact, duck-like body shape",
+        "pinkish legs and feet (Western Gull)"
+    ],
+    "American Goldfinch": [
+        "Habitat: Photos of American Goldfinches are more likely to feature open fields, meadows, and gardens, whereas Evening Grosbeaks are more often found in forested areas.",
+        "Smaller and more slender overall body size and shape",
+        "Different body shape with a more rounded appearance",
+        "shorter, conical bill",
+        "Conical, short bill"
+    ],
+    "European Goldfinch": [
+        "Brown back and flanks",
+        "red face",
+        "Beige chest and underparts",
+        "Bright red face",
+        "Yellow patch on wings"
+    ],
+    "Boat-tailed Grackle": [
+        "straighter and thinner bill",
+        "Glossy, iridescent black plumage in males",
+        "**Tail Shape**: The Boat-tailed Grackle has a long, keel-shaped tail while the White-necked Raven has a shorter, wedge-shaped tail.",
+        "Long, keel-shaped tail",
+        "more vibrant eye color"
+    ],
+    "Eared Grebe": [
+        "Tufted, golden ear feathers",
+        "Typically seen in more inland waters during the breeding season",
+        "Golden-yellow \"ear\" tufts during breeding season",
+        "prefers freshwater habitats",
+        "Dark, glossy black plumage on the body with some brown on the sides during breeding season"
+    ],
+    "Horned Grebe": [
+        "smaller, more compact body",
+        "Compact body with a shorter neck",
+        "Pale underparts and darker upperparts",
+        "Long neck with a long, hooked bill",
+        "White front and sides during non-breeding season"
+    ],
+    "Pied-billed Grebe": [
+        "Thick, short bill with a distinct black ring (pied-billed appearance)",
+        "compact body",
+        "Smaller size compared to the more robust and colorful Horned Grebe",
+        "**Eye:** Pied-billed Grebe has a dark eye with a less noticeable face pattern, whereas the Western Grebe features a prominently bright red eye and a clear division between black and white on the head.",
+        "Brown plumage"
+    ],
+    "Western Grebe": [
+        "Body profile that sits lower in the water",
+        "long, pointed bill",
+        "bright red eyes",
+        "Distinctive black cap extending below the eye",
+        "White cheeks and throat"
+    ],
+    "Blue Grosbeak": [
+        "Smaller overall size",
+        "stockier build compared to Rusty Blackbirds",
+        "Lack of vibrant red, green, and blue color combination found in Painted Bunting",
+        "Smaller, more delicate build",
+        "less pronounced white wing patterns"
+    ],
+    "Evening Grosbeak": [
+        "Lack of considerable orange coloration (Baltimore Oriole males are predominantly orange and black)",
+        "Bright yellow body",
+        "Typically found in coniferous forests",
+        "Distinctive black tail",
+        "wing markings: Evening Grosbeaks have prominent white patches on their wings, while Cedar Waxwings have red wax-like tips on some of their secondary flight feathers."
+    ],
+    "Pine Grosbeak": [
+        "A plumper, more robust body profile",
+        "Pinkish body with darker wings",
+        "Red or pink overall plumage for males, and yellow or olive-green for females",
+        "Found in northern forests, often in coniferous trees",
+        "Found in open woodlands, areas with tall grasses, and thickets rather than northern forests"
+    ],
+    "Rose-breasted Grosbeak": [
+        "White wing bars",
+        "Streaked brown plumage",
+        "Large, thick beak",
+        "Red, triangular patch on the breast",
+        "Streaked or spotted underparts (female Rose-breasted Grosbeak)"
+    ],
+    "Pigeon Guillemot": [
+        "Generally found near rocky coastlines and in water",
+        "smaller and stouter body",
+        "Thin, pointed bill",
+        "Slender, pointed black bill",
+        "Body size and shape: Pigeon Guillemots are generally smaller and more compact with a short neck and rounded head, while Pelagic Cormorants are larger with a longer neck and slender body."
+    ],
+    "California Gull": [
+        "Dark gray legs and feet",
+        "Different leg color (California Gulls typically have yellowish-green legs)",
+        "White head (in breeding plumage) or mottled brown (in non-breeding plumage)",
+        "smaller body size",
+        "Yellow legs and feet"
+    ],
+    "Glaucous-winged Gull": [
+        "Typically found in coastal regions of the Pacific Northwest",
+        "Wing tips are generally the same pale gray color as the rest of the wing, without black markings",
+        "Distinctive, less pronounced flight pattern compared to the more agile Common Tern",
+        "Less prominent black: The California Gull has more black on its wingtips and tail feathers, whereas the Glaucous-winged Gull has very little or no black markings.",
+        "Pinkish legs"
+    ],
+    "Heermann Gull": [
+        "relatively long wings and tail",
+        "different flight pattern (gliding and soaring typical of gulls)",
+        "Grey body",
+        "Heermann Gull has a white head, particularly during the breeding season.",
+        "White head (during breeding season)"
+    ],
+    "Herring Gull": [
+        "Gray back",
+        "Gray back (mantle): Herring Gulls typically have a lighter gray back compared to the slightly darker gray of the California Gull.",
+        "Yellow bill with a red spot",
+        "Generally found in a wider range of habitats including urban areas",
+        "Larger size"
+    ],
+    "Ivory Gull": [
+        "Smaller size compared to the California Gull",
+        "Notable absence of gray or brown markings on feathers",
+        "Lack of the black crest that is present on an Elegant Tern during the breeding season",
+        "Stockier body compared to the sleek, slender body of the Elegant Tern",
+        "Absence of grey or brown shading on wings and body"
+    ],
+    "Ring-billed Gull": [
+        "a slightly different wing pattern, with less black on the wingtips",
+        "Gray wings with black tips",
+        "A black cap on its head during breeding season",
+        "Yellow bill with a distinctive black ring",
+        "Overall bulkier and larger body"
+    ],
+    "Slaty-backed Gull": [
+        "Heavy, pronounced bill with less of a pronounced gonys angle",
+        "white head and underparts",
+        "Heavy bill with a red spot on the lower mandible",
+        "pinkish legs",
+        "pink legs and feet"
+    ],
+    "Western Gull": [
+        "pink or yellowish legs and feet",
+        "Dark gray to black wings and back",
+        "more robust and stocky build",
+        "Pink legs and feet",
+        "Yellow beak with a red spot near the tip"
+    ],
+    "Anna Hummingbird": [
+        "Range primarily in the western United States (Anna Hummingbird) vs. eastern United States (Ruby-throated Hummingbird)",
+        "Shorter, broader bill",
+        "Long, slender beak",
+        "Iridescent rose-pink throat and crown (Anna Hummingbird)",
+        "Beak shape: Anna's Hummingbird has a short, straight, needle-like beak, while the Common Tern has a longer, more pointed beak."
+    ],
+    "Ruby-throated Hummingbird": [
+        "Grayish or dull green underparts",
+        "brown, unremarkable plumage",
+        "tendency to flit among shrubs and low trees",
+        "rapid wing movement (blurred wings in flight)",
+        "tiny size (about 3-4 inches tall)"
+    ],
+    "Rufous Hummingbird": [
+        "Rufous or reddish coloring on the back and sides",
+        "presence around flowers or feeders",
+        "Wing shape designed for hovering and agile flight",
+        "Smaller size compared to Anna's Hummingbird",
+        "Iridescent reddish-orange throat (male)"
+    ],
+    "Green Violetear": [
+        "Small songbird size",
+        "Violet ear patches ",
+        "Typically seen hovering near flowers or perched on a branch",
+        "Larger size, typically around 14 to 15 inches (36 to 38 centimeters) in length",
+        "long, slender beak ideal for nectar feeding"
+    ],
+    "Long-tailed Jaeger": [
+        "Dark cap that extends below the eye in contrast to the lighter head and neck region",
+        "Heavier, robust bill",
+        "Long, pointed central tail feathers (streamers)",
+        "Robust overall body structure",
+        "a smaller bill, often darker in color"
+    ],
+    "Pomarine Jaeger": [
+        "Short, stocky body",
+        "dark cap on the head",
+        "Darker plumage, often with brown tones",
+        "Dark cap on head",
+        "presence of white patches (wing \"flashes\")"
+    ],
+    "Blue Jay": [
+        "Distinctive facial markings, including a black eyeline",
+        "Tail with distinct white tips and black barring",
+        "White or light grey underparts",
+        "Smaller, more slender body compared to an American Crow",
+        "Shorter, pointed beak"
+    ],
+    "Florida Jay": [
+        "Absence of iridescent black feathers",
+        "blue and white plumage",
+        "Specific behavioral traits (Florida Scrub-Jays often hop and forage on the ground, whereas Blue Jays are more likely to be seen in trees or flying)",
+        "prominent crest on the head",
+        "white throat"
+    ],
+    "Green Jay": [
+        "Blue head and face",
+        "Slightly iridescent feathers",
+        "Blue-gray head",
+        "Entirely black plumage",
+        "Green body plumage"
+    ],
+    "Dark-eyed Junco": [
+        "white outer tail feathers",
+        "pinkish bill",
+        "white belly and undertail coverts",
+        "Generally darker head that contrasts with the rest of the body",
+        "No distinct black throat marking"
+    ],
+    "Tropical Kingbird": [
+        "Less prominent white eye-ring compared to the White-eyed Vireo",
+        "dark mask through the eyes",
+        "More pronounced and aggressive behavior often visible in posture or interactions with other birds",
+        "Olive-green upperparts",
+        "Slightly larger size compared to Acadian Flycatcher"
+    ],
+    "Gray Kingbird": [
+        "Longer tail",
+        "White-tipped tail feathers",
+        "Less intense yellow on the belly or absence of yellow",
+        "Perching pose often on exposed branches or wires",
+        "Sturdy, broad beak"
+    ],
+    "Belted Kingfisher": [
+        "Long, thick bill",
+        "Size: Belted Kingfishers are generally smaller compared to Ringed Kingfishers.",
+        "presence of a distinct blue or reddish-brown band across the breast",
+        "crested head",
+        "white collar around the neck"
+    ],
+    "Green Kingfisher": [
+        "Prominent rufous belly band (in males)",
+        "green upperparts with a spotted or speckled pattern",
+        "Long, sharp bill",
+        "Less pronounced white spotting on wings",
+        "Short legs and tail"
+    ],
+    "Pied Kingfisher": [
+        "distinctive black crest on the head",
+        "Associated with water bodies (often seen near lakes, rivers, or coasts)",
+        "Stockier and larger appearance",
+        "Long, pointed bill",
+        "often spotted hovering over water before diving"
+    ],
+    "Ringed Kingfisher": [
+        "Slate-gray head and back",
+        "White collar and underparts",
+        "Typically seen perched on branches over water",
+        "Black and white plumage",
+        "Heavier, long bill"
+    ],
+    "White-breasted Kingfisher": [
+        "Red bill",
+        "Bright blue wings and back",
+        "Presence of a brownish or chestnut-colored head and shoulders",
+        "Smaller size compared to a raven",
+        "tree perch or other elevated, dry, non-aquatic perch"
+    ],
+    "Red-legged Kittiwake": [
+        "Grey wings",
+        "Short, black bill",
+        "Smaller size and more delicate build",
+        "Eye coloration: Red-legged Kittiwakes often have darker eyes with a unique red ring around them, while Slaty-backed Gulls usually have lighter eyes.",
+        "Thicker neck"
+    ],
+    "Horned Lark": [
+        "Distinct black mask and throat patch",
+        "Streaked brown back and wings",
+        "pale brown and white body with a distinct black necklace",
+        "Pale browns and yellows in the body",
+        "Black mask and bib on the face"
+    ],
+    "Pacific Loon": [
+        "Distinctive white vertical lines on the sides of the neck",
+        "No visible hook at the end of the bill as seen in cormorants",
+        "Dark cap with a clear demarcation from the white underparts",
+        "Red facial skin patch at the base of the bill",
+        "Distinctive black-and-white checkered back pattern (breeding plumage)"
+    ],
+    "Mallard": [
+        "Both sexes have a distinctive white ring around the neck (in male Mallards)",
+        "Green head (in males)",
+        "females have a more uniform brown pattern with an orange bill marked with black",
+        "white underparts and gray body",
+        "Overall body shape (typically more rounded for Mallards)"
+    ],
+    "Western Meadowlark": [
+        "Black \"V\" on the chest",
+        "White flanks with black streaks",
+        "Habitat: often found in open fields and grasslands",
+        "Brownish upperparts with intricate black and brown streaking",
+        "longer, pointed bill"
+    ],
+    "Hooded Merganser": [
+        "Brownish flanks and back with white underparts",
+        "Distinctive crest on the head that can be expanded or contracted",
+        "Black and white pattern on the head and neck",
+        "More striking contrast in plumage (black and white in males)",
+        "Brownish body feathers for females"
+    ],
+    "Red-breasted Merganser": [
+        "Distinctive, spiky crest on the head",
+        "Presence of water (lakes, rivers, and coastal areas) in the background",
+        "Bright blue wings and back",
+        "Presence of white patches on wings",
+        "Long, slender, serrated bill"
+    ],
+    "Mockingbird": [
+        "Lighter, grayish color on the wings and body",
+        "Thick, red bill with a dark tip",
+        "Habitat: Mockingbirds are often found in open areas, gardens, and urban settings, while crows can be found in a wider range of habitats, including urban, rural, and forested areas.",
+        "Grey body plumage with a white head (in breeding season)",
+        "white patches on the wings"
+    ],
+    "Nighthawk": [
+        "Smaller body size",
+        "Active during dusk or night",
+        "small, slightly curved beak",
+        "Large eyes and a small, flat bill",
+        "nocturnal behavior (typically captured in low light)"
+    ],
+    "Clark Nutcracker": [
+        "black wings with white patches",
+        "Light gray to off-white body color",
+        "Perching on trees or rocky areas (Clark Nutcracker's habitat)",
+        "Smaller size, more compact build",
+        "smaller size"
+    ],
+    "White-breasted Nuthatch": [
+        "White face and underparts",
+        "Blue-gray back",
+        "Short tail and relatively long wings",
+        "Distinctive white face and underparts",
+        "Distinctive black cap and nape"
+    ],
+    "Baltimore Oriole": [
+        "Geographical location (Baltimore Orioles are typically found in the Eastern and Central US during the breeding season)",
+        "Sharp, pointed bill",
+        "Orange tail with black central feathers",
+        "Size (larger than Orchard Oriole)",
+        "Strongly contrasting black head (Baltimore Oriole)"
+    ],
+    "Hooded Oriole": [
+        "Long, slightly curved bill",
+        "slender body",
+        "More vibrant and contrasting plumage",
+        "Longer, curved bill",
+        "Bright orange-yellow body plumage"
+    ],
+    "Orchard Oriole": [
+        "Size: Orchard Orioles are typically smaller than American Redstarts.",
+        "Black head and upper back in males",
+        "Smaller size",
+        "Beak Shape: Orchard Orioles have a pointed, slender beak, while Evening Grosbeaks have a thicker, conical beak.",
+        "Less vivid orange compared to Baltimore Oriole"
+    ],
+    "Scott Oriole": [
+        "Black head and upperparts",
+        "Slender, pointed beak",
+        "Lack of orange coloration (typical of Baltimore Oriole)",
+        "Bright yellow or orange plumage ",
+        "Lack of prominent wing bars"
+    ],
+    "Ovenbird": [
+        "Generally found on the forest floor rather than open fields",
+        "White underparts",
+        "unmarked, pinkish legs",
+        "Bold eye-ring",
+        "More upright posture"
+    ],
+    "Brown Pelican": [
+        "Neck: Brown Pelicans have a stockier neck, while Red-faced Cormorants have a more slender neck.",
+        "Bill: Brown Pelicans have a long, hefty bill with a distinctive pouch, while Red-faced Cormorants have a slimmer bill.",
+        "overall larger size compared to the Pelagic Cormorant",
+        "Large, pouched bill",
+        "long, distinct bill with a large throat pouch"
+    ],
+    "White Pelican": [
+        "Yellow-orange feet",
+        "Yellow-orange bill",
+        "relatively shorter tail compared to body size",
+        "yellow-orange legs and feet",
+        "White plumage"
+    ],
+    "Western-Wood Pewee": [
+        "Olive-gray upper parts",
+        "More prominent wing bars",
+        "Grayish-brown upperparts",
+        "Habitat preference (open woodlands for Western-Wood Pewee)",
+        "Dusky, unmarked overall coloration"
+    ],
+    "Sayornis": [
+        "slender bill",
+        "a wide mouth with bristles on its sides for catching insects in flight",
+        "Smaller size",
+        "larger size",
+        "Brown or gray plumage"
+    ],
+    "American Pipit": [
+        "Long tail often flicked upwards",
+        "Longer tail often held upright",
+        "less patterned back",
+        "longer tail",
+        "More uniform and less streaky chest"
+    ],
+    "Whip-poor Will": [
+        "mottled brown and gray plumage",
+        "Shorter, rounded wings",
+        "Lack of prominent tail feather ornaments",
+        "Relatively large eyes",
+        "Shorter and more rounded wings "
+    ],
+    "Horned Puffin": [
+        "Black cap that extends down the nape and back",
+        "Black \"horn\" above the eye",
+        "Orange feet",
+        "Webbed feet that are bright orange",
+        "Presence of a \"horn\" or fleshy growth above the eyes"
+    ],
+    "Common Raven": [
+        "Deeper, croaking call",
+        "Glossy black plumage with a slight iridescent sheen",
+        "iridescent feather sheen (blue/purple in light)",
+        "Broad, rounded wings",
+        "More terrestrial habitat background (e.g., trees, cliffs) rather than being primarily near water"
+    ],
+    "White-necked Raven": [
+        "relatively shorter and thicker bill",
+        "shorter tail relative to body size",
+        "wing bars",
+        "Larger size overall",
+        "Brownish or mottled plumage"
+    ],
+    "American Redstart": [
+        "Flash-patterned tail feathers",
+        "Black head and back (male American Redstart)",
+        "Short, round wings suitable for agile flight in dense foliage",
+        "Color: American Redstart males have black and orange plumage, while Orchard Orioles males have a reddish-chestnut color.",
+        "More uniform orange or yellow coloration without distinct tail patterns"
+    ],
+    "Geococcyx": [
+        "Long legs",
+        "distinctive crest on the head",
+        "typically found in desert or arid environments",
+        "Brown and white feather pattern",
+        "Ground-dwelling bird, often seen running on the ground"
+    ],
+    "Loggerhead Shrike": [
+        "Lack of crest on the head",
+        "Often seen perched prominently on wires or exposed branches",
+        "Absence of the extremely long tail feathers characteristic of Scissor-tailed Flycatchers",
+        "Black \"mask\" across the eyes",
+        "A white iris (eye) which is its distinguishing feature"
+    ],
+    "Great-Grey Shrike": [
+        "Prefer open habitats such as scrublands and fields",
+        "grey plumage with a black mask across the eyes",
+        "Generally larger and more robust body compared to a White-breasted Kingfisher",
+        "Grey upperparts and lighter underparts",
+        "Longer tail"
+    ],
+    "Baird Sparrow": [
+        "Less streaking on back and sides",
+        "Pointed tail feathers with whitish edges",
+        "Pale central crown stripe",
+        "Streaked back and sides (Baird's Sparrow)",
+        "Streaked crown (Baird Sparrow generally has a more streaked appearance on the crown)"
+    ],
+    "Black-throated Sparrow": [
+        "Black and white facial pattern",
+        "Distinct white stripe under the eye",
+        "Lacks the overall brownish and streaky appearance of the Clay-colored Sparrow",
+        "Plain white outer tail feathers",
+        "Black throat patch"
+    ],
+    "Brewer Sparrow": [
+        "a plain brownish-gray overall plumage",
+        "No white outer tail feathers",
+        "no central breast spot",
+        "Lack of a noticeable central crown stripe",
+        "Slightly smaller size"
+    ],
+    "Chipping Sparrow": [
+        "a trim, sleek body",
+        "Medium-length tail",
+        "distinct white wing bars",
+        "Gray or tan unstreaked chest",
+        "a white or grayish eyebrow stripe"
+    ],
+    "Clay-colored Sparrow": [
+        "light-colored breast with little or no streaking",
+        "Smaller, more delicate bill compared to a House Sparrow",
+        "Lack of streaking on the back",
+        "More heavily streaked, buffy chest",
+        "Broad, gray eyebrows (supercilium)"
+    ],
+    "House Sparrow": [
+        "Shorter tail",
+        "Prefers grassland habitats",
+        "Habitat commonly around human settlements and urban areas",
+        "More robust and rounded beak",
+        "Pink or pale-colored bill"
+    ],
+    "Field Sparrow": [
+        "white eye ring",
+        "Relatively plain back with less prominent streaking",
+        "unstreaked, warm rufous-brown upperparts",
+        "pink-colored bill",
+        "Pale gray face with a distinct white eye ring"
+    ],
+    "Fox Sparrow": [
+        "Large size compared to other sparrows",
+        "Spots forming a central breast spot",
+        "Robust, chunky appearance",
+        "Heavily spotted or streaked chest and belly",
+        "Heavily streaked or spotted breast"
+    ],
+    "Grasshopper Sparrow": [
+        "Pale, unstreaked or faintly streaked breast (White-crowned Sparrows have more distinct streaks or a solid gray breast in adults)",
+        "central crown stripe",
+        "Distinct streaking on the chest and flanks",
+        "Absence of white outer tail feathers",
+        "Smaller bill"
+    ],
+    "Harris Sparrow": [
+        "Mostly brownish and streaked plumage vs. bright red plumage",
+        "Overall more muted and camouflaged colors compared to the brightly colored Scott Oriole",
+        "Dark eye line and crown in adults",
+        "Pinkish beak",
+        "Brown or tan facial markings"
+    ],
+    "Henslow Sparrow": [
+        "finely streaked breast and flanks",
+        "Fine streaking on the chest and flanks",
+        "Streaked back",
+        "Darker, streaked back with rust-colored edges",
+        "a flat appearance to the head"
+    ],
+    "Le-Conte Sparrow": [
+        "Orange-yellow face",
+        "Pale eyebrow line",
+        "lacking the white outer tail feathers seen in Vesper Sparrows",
+        "Flatter head profile",
+        "Size and shape: LeConte's Sparrow is generally smaller with a more compact body and shorter tail, while Song Sparrows have a more robust body with a relatively longer tail."
+    ],
+    "Lincoln Sparrow": [
+        "Black line through the eye",
+        "Small, delicate bill",
+        "Grayish head with fine brown streaks",
+        "Gray eyebrow and crown",
+        "Central breast spot"
+    ],
+    "Nelson-Sharp-tailed Sparrow": [
+        "Less streaking on the flanks",
+        "White belly transitioning to orangish-buff flanks (Lincoln Sparrow's belly is typically whiter without the pronounced orange tones).",
+        "Chestnut brown nape",
+        "Completely gray cheeks (as opposed to brown streaked with gray)",
+        "Noticeable white belly and undertail coverts"
+    ],
+    "Savannah Sparrow": [
+        "More heavily streaked back",
+        "less distinct, faint streaking on the breast and sides",
+        "Streaked breast and sides",
+        "Streaked brown and white breast",
+        "Whitish belly"
+    ],
+    "Seaside Sparrow": [
+        "Grayish or olive-brown back with streaks",
+        "Dark streaky plumage",
+        "Grayish plumage",
+        "Bill Shape: Seaside Sparrows have a thicker, more robust bill compared to the thinner, more pointed bill of Song Sparrows.",
+        "Greyish face with a defined malar stripe"
+    ],
+    "Song Sparrow": [
+        "Longer tail typically pumped in flight or perched",
+        "Often a light-colored malar stripe",
+        "Broad, brown lateral throat stripe",
+        "Short, rounded tail",
+        "Shorter and less robust bill"
+    ],
+    "Tree Sparrow": [
+        "a smaller size",
+        "black breast spot",
+        "White wing bars",
+        "distinctive white wing bar",
+        "More pronounced eye ring"
+    ],
+    "Vesper Sparrow": [
+        "Distinctive facial pattern with a clear pale mustache stripe",
+        "White eye ring",
+        "Flatter head shape",
+        "A white eye ring",
+        "Streaked breast with a central spot"
+    ],
+    "White-crowned Sparrow": [
+        "Bright pinkish or orange beak",
+        "black and white stripes on the head",
+        "Grey face and greenish white breast",
+        "clear breast without distinct markings",
+        "White crown stripe"
+    ],
+    "White-throated Sparrow": [
+        "Two white wing bars",
+        "a lack of extensive streaking on the chest and flanks",
+        "Larger and more stocky appearance",
+        "Bright yellow spots between the eye and the bill (lores)",
+        "bold yellow lores (area between beak and eye)"
+    ],
+    "Cape-Glossy Starling": [
+        "Iridescent blue-green or purple plumage",
+        "Glossy appearance",
+        "Shorter, square-cut tail",
+        "Typically found in Africa (habitat context)",
+        "White belly"
+    ],
+    "Bank Swallow": [
+        "less pronounced facial markings compared to Harris Sparrow",
+        "Smaller size and slimmer shape",
+        "Typically seen in flocks near water or sandy banks",
+        "a slightly forked tail",
+        "small size"
+    ],
+    "Barn Swallow": [
+        "Reddish-brown throat and forehead",
+        "slender, pointed wings",
+        "Blue upperparts: The upperparts of Barn Swallows have a shiny blue color, especially noticeable on the head and back.",
+        "more slender bodyshape",
+        "Forked tail: Barn Swallows have a distinctively long, deeply forked tail."
+    ],
+    "Cliff Swallow": [
+        "Glossy blue-black upperparts",
+        "Shorter, more rounded wings",
+        "More streamlined body shape built for aerial insect hunting",
+        "Pale, rounded belly",
+        "Often seen in large flocks"
+    ],
+    "Tree Swallow": [
+        "Sturdy, stocky body",
+        "More robust body shape of Tree Swallow",
+        "Smaller overall size and more compact body shape",
+        "Tree Swallow typically has a slightly forked tail while the Bank Swallow has a more square-shaped tail",
+        "Iridescent blue-green upperparts (Tree Swallow)"
+    ],
+    "Scarlet Tanager": [
+        "Presence of deciduous forest habitat (commonly associated with Scarlet Tanager)",
+        "Olive-green upperparts",
+        "a less contrasting, more muted color pattern overall",
+        "Often found in open woodlands, gardens, and backyards",
+        "solid black wings without wing bars (Scarlet Tanager)"
+    ],
+    "Summer Tanager": [
+        "Lack of distinct black markings on the wings",
+        "Absence of the Orchard Oriole's more prominent contrasting black chest and back (in males)",
+        "Bright red plumage (male Summer Tanager)",
+        "Habitat preferences (Summer Tanagers are usually found in more wooded areas, while Vermilion Flycatchers prefer open spaces like grasslands and fields)",
+        "Larger, more robust body"
+    ],
+    "Artic Tern": [
+        "Streamer-like tail feathers",
+        "slender body",
+        "**Underparts**: Consistent grayish underparts in Arctic Terns; white underparts with a pale gray wash on the underside of the wings in Forster's Terns",
+        "Smaller body size compared to the Caspian Tern",
+        "greyish body with a white underbelly"
+    ],
+    "Black Tern": [
+        "More rounded wingtips",
+        "Lighter, grayish wings and back",
+        "lacks the strong, contrasting color pattern seen in Jaegers",
+        "slender, pointed wings",
+        "dark, sooty-black plumage (Black Tern)"
+    ],
+    "Caspian Tern": [
+        "Size: The Caspian Tern is larger compared to the Elegant Tern.",
+        "Bill: Caspian Terns have a thick, red bill.",
+        "black cap extending to the nape",
+        "Frequently seen scavenging or floating on water",
+        "Black cap on the head"
+    ],
+    "Common Tern": [
+        "lighter, more buoyant flight",
+        "Pointed wings",
+        "Habitat: While not a definitive visual feature, observing the habitat where the bird is found can provide context, as Common Terns are more likely to be found in coastal areas, whereas Forster's Terns can often be found in freshwater environments.",
+        "White lower face and underparts",
+        "Sleeker, more streamlined body"
+    ],
+    "Elegant Tern": [
+        "Orange bill (versus yellow bill in Least Tern)",
+        "Narrow, pointed wings",
+        "Crested black cap on the head",
+        "White head and body with medium gray wings",
+        "Dark eyes and distinctive, more rounded head shape"
+    ],
+    "Forsters Tern": [
+        "smaller body size compared to the Western Gull",
+        "Longer tail with deeply forked shape",
+        "Dark eye mask during non-breeding season",
+        "More buoyant and slower wingbeats in flight",
+        "Pointed wings"
+    ],
+    "Least Tern": [
+        "Wing color: Least Terns have more uniformly gray wings, while Elegant Terns have a variation in coloring on their wings.",
+        "Pointed wingtips",
+        "Bill color: Least Terns have a yellow bill with a black tip, while Elegant Terns have a longer, orange bill.",
+        "a black cap on the head",
+        "Yellow bill with a black tip (during breeding season)"
+    ],
+    "Green-tailed Towhee": [
+        "Bright white wingbars present on Green-tailed Towhee, which are absent in Swainson Warbler.",
+        "More vibrant and distinct color pattern of the Green-tailed Towhee compared to the more uniformly brown Swainson Warbler.",
+        "Olive-green tail",
+        "Green tail feathers",
+        "darker face with a gray cap"
+    ],
+    "Brown Thrasher": [
+        "Streaked, pale underparts",
+        "Larger body size",
+        "Wing bars: Field Sparrows often have more distinct wing bars, while Brown Thrashers typically have more uniform wing coloring.",
+        "Bright yellow eyes",
+        "Larger size"
+    ],
+    "Sage Thrasher": [
+        "Long, thin bill",
+        "Habitat: Sage Thrashers are commonly found in open, arid environments like sagebrush, unlike Fox Sparrows who prefer forested or scrubby areas.",
+        "Prominent white wingbars",
+        "More compact body",
+        "Sturdier body"
+    ],
+    "Black-capped Vireo": [
+        "greenish back and upper parts",
+        "Typically frequents scrubby habitats and open woodland",
+        "contrasting white underparts",
+        "absence of chestnut-colored sides",
+        "contrasting dark wings with white wing bars"
+    ],
+    "Blue-headed Vireo": [
+        "White throat and underparts",
+        "Blue head",
+        "Bold white wing bars",
+        "Short, thick bill",
+        "White underparts with yellow flanks"
+    ],
+    "Philadelphia Vireo": [
+        "Lack of any streaking on the body",
+        "Thinner white ring around the eye",
+        "Smaller bill",
+        "Generally more compact and stocky body shape",
+        "Darker, more olive upperparts"
+    ],
+    "Red-eyed Vireo": [
+        "Stout, slightly hooked bill",
+        "Slightly larger size",
+        "Greenish upperparts",
+        "Grayish crown",
+        "Gray crown"
+    ],
+    "Warbling Vireo": [
+        "Lack of a black edge to the cap",
+        "Broader bill",
+        "Relatively short, stout bill",
+        "Dark eye line",
+        "Lack of crest on the head"
+    ],
+    "White-eyed Vireo": [
+        "White eye ring versus lack of a prominent eye ring",
+        "More pronounced wing bars against the wing feathers",
+        "Presence of wing bars (two white wing bars)",
+        "White irises (eye color)",
+        "Distinctive white eyes with a yellow eye-ring"
+    ],
+    "Yellow-throated Vireo": [
+        "More defined and distinct color contrast between yellow and olive-green feathers",
+        "Sturdier, thicker bill",
+        "Less distinct wing bars",
+        "Distinctive eyering (\"spectacles\")",
+        "White wing bars"
+    ],
+    "Bay-breasted Warbler": [
+        "White underparts with faint yellow wash on the sides",
+        "Lack of the Worm-eating Warbler's more uniformly colored tan or buffy body and head",
+        "creamy or buffy underparts",
+        "Black face mask with a white throat (Bay-breasted Warbler)",
+        "Chestnut-colored patch on the sides and/or breast (Bay-breasted Warbler)"
+    ],
+    "Black-and-white Warbler": [
+        "Long, slightly curved bill.",
+        "White supercilium (eyebrow line)",
+        "Black and white pattern extending onto the face and head",
+        "Absence of a distinct black \"mask\" around the eyes",
+        "Striped black and white pattern all over the body"
+    ],
+    "Black-throated-Blue Warbler": [
+        "Notable sexual dimorphism: males have the distinctive black throat while females have a more subdued color pattern",
+        "Subtle difference in size and posture",
+        "females have duller olive-brown upperparts with a faint yellowish underpart",
+        "white belly and underparts",
+        "Gray wings with white wing bars"
+    ],
+    "Blue-winged Warbler": [
+        "Blue-gray wings",
+        "Different beak shape  ",
+        "More pronounced wing bars",
+        "White wing patch on the wing",
+        "Blue-gray wings with two white wing bars"
+    ],
+    "Canada Warbler": [
+        "Yellow forehead or crown",
+        "Lack of bold wing bars",
+        "White undertail coverts",
+        "gray upperparts in Canada Warbler versus olive-green in Cape-May Warbler",
+        "Absence of streaked flanks"
+    ],
+    "Cape-May Warbler": [
+        "Plainer face without chestnut cheeks or significant streaking",
+        "No streaking on the breast or flanks",
+        "More prominent eye-ring or eye-line",
+        "Dark semicircular \"chestnut ear\" patches on males",
+        "Dark streaking on the breast"
+    ],
+    "Cerulean Warbler": [
+        "Black eye stripe and crown in Blue-winged Warbler",
+        "Absence of a spectacles-like eye ring (which is present in Blue-headed Vireo)",
+        "black and buff head stripes (Worm-eating Warbler)",
+        "white spectacles around the eyes",
+        "white underparts"
+    ],
+    "Chestnut-sided Warbler": [
+        "White underparts with yellow plumage on the head",
+        "Black-streaked wings",
+        "Bright yellow face and underparts",
+        "a relatively plain face with a slight eyering (as opposed to the bold facial pattern of the Magnolia Warbler)",
+        "Thin beak (small, thin bill typical of insectivorous birds)"
+    ],
+    "Golden-winged Warbler": [
+        "Golden wing patch",
+        "Gray upperparts (Golden-winged Warbler) vs. uniformly yellow (Yellow Warbler)",
+        "Black mask extending from the beak to the nape",
+        "Black throat patch (Golden-winged Warbler) vs. all yellow or lightly streaked throat (Yellow Warbler)",
+        "Distinctive black mask (Golden-winged Warbler) vs. plain yellow face (Yellow Warbler)"
+    ],
+    "Hooded Warbler": [
+        "olive-green back (Hooded Warbler)",
+        "Lack of black streaks on the back or sides",
+        "Distinctive black hood and bib on the male",
+        "yellow face and underparts",
+        "black hood (in males)"
+    ],
+    "Kentucky Warbler": [
+        "Relatively long tail",
+        "Lack of streaks or spots on the chest and flanks",
+        "black face markings",
+        "Habitat: Kentucky Warblers are often found in dense, damp forests, whereas Golden-winged Warblers prefer scrubby habitats.",
+        "Black sideburns (moustache-like marks)"
+    ],
+    "Magnolia Warbler": [
+        "Olive-green back with rufous streaks",
+        "Black mask across the eyes",
+        "Striking black and white tail pattern ",
+        "Sharp, contrasting colors on the breast and sides",
+        "**Wing Bars**: Magnolia Warblers have bold white wing bars, while Cape-May Warblers may have less distinct or absent wing bars."
+    ],
+    "Mourning Warbler": [
+        "Yellow underside",
+        "Absence of an eye ring",
+        "Distinct gray hood",
+        "Absence of white wingbars or tail patches",
+        "yellow underparts"
+    ],
+    "Myrtle Warbler": [
+        "Less pronounced black mask compared to the Magnolia Warbler",
+        "White eye crescents (spectacles) around the eyes",
+        "White underparts with some dark streaking",
+        "Streaked back and sides",
+        "Yellow patches on the rump and sides"
+    ],
+    "Nashville Warbler": [
+        "Olive-green upperparts (both species have this, but more pronounced in Tennessee Warbler)",
+        "found in more varied habitats compared to the marsh preference of the Common Yellowthroat",
+        "Slightly longer tail in Nashville Warbler compared to Tennessee Warbler",
+        "white eye-ring",
+        "Grey head"
+    ],
+    "Orange-crowned Warbler": [
+        "Plain yellowish-green plumage",
+        "More uniform olive-green plumage",
+        "Short, rounded wings",
+        "Orange crown patch (often hidden, but can be seen when the bird is excited or displays)",
+        "Habitat preference (more likely found in shrubby or forested areas)"
+    ],
+    "Palm Warbler": [
+        "Yellowish streaks on the underparts",
+        "Streaked breast and sides",
+        "Constant tail bobbing behavior",
+        "Tail constantly bobbing up and down",
+        "Yellowish underparts with streaks"
+    ],
+    "Pine Warbler": [
+        "Blue-gray wings",
+        "Olive-green to yellow-olive coloration on the back",
+        "Slightly streaked sides",
+        "habitat (trees vs. more open spaces)",
+        "Typically found in pine trees or similar habitats"
+    ],
+    "Prairie Warbler": [
+        "Frequently holds its tail cocked (upwards).",
+        "Olive-green upperparts with rusty streaks on the back",
+        "Plain olive-green back",
+        "Lack of a bold black necklace (in contrast to a Magnolia Warbler)",
+        "Yellow face with a dark eyeline"
+    ],
+    "Prothonotary Warbler": [
+        "Short, thick, pointed bill",
+        "Presence of a white undertail",
+        "Yellow underparts",
+        "Lack of a distinct eye ring",
+        "Thinner, more elongated body shape"
+    ],
+    "Swainson Warbler": [
+        "Lack of bright yellow coloration on the underparts that is common in Palm Warblers",
+        "Plain brown plumage with no wing bars",
+        "Uniformly colored legs and feet",
+        "Pale underparts with a hint of buff on the flanks and breast",
+        "Pale eyebrow stripe (supercilium) above the eye"
+    ],
+    "Tennessee Warbler": [
+        "No consistent yellow underparts; underparts are more likely to be whitish",
+        "Eye-line instead of a bold eye-ring",
+        "white or light gray underparts",
+        "Lack of distinctive head stripes",
+        "Bright white or pale yellow eyeline (supercilium)"
+    ],
+    "Wilson Warbler": [
+        "Small size and slender build",
+        "Absence of a distinct white eyering",
+        "Black cap (in males)",
+        "Yellow underparts",
+        "black cap on the top of the head (male Wilson Warbler)"
+    ],
+    "Worm-eating Warbler": [
+        "Lacks the gray hood seen in Mourning Warblers",
+        "Buff-colored underparts: Worm-eating Warbler has plain, buff-colored underparts, while Golden-winged Warbler has gray underparts with white and yellow highlights.",
+        "Distinctive black mask and white eyebrow stripe",
+        "thinner, more pointed bill",
+        "Distinctive head stripes: Worm-eating Warbler has a buffy crown with black stripes on the sides of its head."
+    ],
+    "Yellow Warbler": [
+        "Short, thin beak",
+        "no eye ring (whereas Orange-crowned Warblers may have a faint broken eye ring)",
+        "Slightly longer tail",
+        "Slight reddish streaking on the breast (in adults)",
+        "Overall more dainty and smaller body structure"
+    ],
+    "Northern Waterthrush": [
+        "Underside streaking: Northern Waterthrush shows heavy streaking on the underside, particularly on the chest and flanks.",
+        "Typically found near water for Northern Waterthrush",
+        "Often found in grasslands and dense grassy fields",
+        "overall brownish coloration",
+        "Dark brown or olive-brown upperparts"
+    ],
+    "Louisiana Waterthrush": [
+        "Tail wagging: Louisiana Waterthrush frequently bobs its tail up and down.",
+        "Bobbing tail behavior often observed ",
+        "Clean white throat without streaking",
+        "Heavily streaked underparts",
+        "Bright yellow throat and breast"
+    ],
+    "Bohemian Waxwing": [
+        "More prominent and colorful plumage",
+        "A prominent crest on the head",
+        "Lesser contrast in the mask (if any)",
+        "Crest on the head: Bohemian Waxwings have a prominent crest, while House Sparrows do not.",
+        "More robust and plumper body shape"
+    ],
+    "Cedar Waxwing": [
+        "Smooth, grayish-brown plumage",
+        "Thick, conical beak",
+        "Accents of red on the wing tips",
+        "Short, square tail",
+        "Distinctive black mask around the eyes"
+    ],
+    "American-Three-toed Woodpecker": [
+        "Typically found clinging to tree trunks rather than hovering near water",
+        "Three toes (two forward and one back, with the hind toe often missing or reduced)",
+        "presence of a white back with a black crown, often with a yellow patch on the crown",
+        "Three toes (two forward-facing and one backward-facing)",
+        "Black-and-white barred plumage (especially on the back)"
+    ],
+    "Pileated Woodpecker": [
+        "Back pattern: Pileated Woodpeckers have solid black backs, while American Three-toed Woodpeckers have barred backs.",
+        "Long, chisel-like bill",
+        "Mostly black body with white stripes along the neck",
+        "Black and white striped face pattern",
+        "White underwing linings visible in flight"
+    ],
+    "Red-bellied Woodpecker": [
+        "Red crown and nape on the male (but not the entire head)",
+        "Larger size compared to the Red-cockaded Woodpecker",
+        "Tendency to perch vertically on trees while climbing up and down",
+        "Red cap or nape (head region)",
+        "Slight red tinge on the belly (often faint and not always visible)"
+    ],
+    "Red-cockaded Woodpecker": [
+        "Black and white plumage with distinctive horizontal stripes",
+        "Smaller size compared to the Red-bellied Woodpecker",
+        "Distinctive crest on the head",
+        "Typically seen clinging to tree trunks",
+        "Smaller size compared to American-Three-toed Woodpecker"
+    ],
+    "Red-headed Woodpecker": [
+        "Larger size compared to Downy Woodpecker",
+        "Black and white barred back and wings",
+        "Black wings with white patches",
+        "Sharp contrast between red, white, and black coloration",
+        "Black wings with white spots"
+    ],
+    "Downy Woodpecker": [
+        "For males, a red patch on the nape instead of on the back of the head",
+        "White underparts",
+        "White underbelly",
+        "Smaller body size",
+        "White patch down the back"
+    ],
+    "Bewick Wren": [
+        "Thinner, more slender bill",
+        "long, white eyebrow stripe",
+        "Slimmer and more elongated body",
+        "long, slightly curved bill",
+        "Grayer upperparts with less reddish-brown coloration"
+    ],
+    "Cactus Wren": [
+        "Tail: Cactus Wrens have a longer tail with white and black barring.",
+        "heavily spotted and streaked breast",
+        "Habitat: Cactus Wrens are typically found in arid, desert environments with cacti, while Marsh Wrens are more often in wetland areas with tall reeds.",
+        "Warm brown upperparts and rich buff underparts",
+        "Larger size"
+    ],
+    "Carolina Wren": [
+        "Distinctive white eyebrow stripe (supercilium)",
+        "stockier appearance",
+        "lack of streaking on the breast",
+        "Tail often held upright",
+        "Relatively long, curved bill"
+    ],
+    "House Wren": [
+        "Smaller and more compact body",
+        "smaller size",
+        "Subtle, less pronounced streaking on the back",
+        "Habitat: House Wrens are more likely to be seen in bushes, shrubs, and open woodlands, while Rufous Hummingbirds are more often found around flowering plants where they feed on nectar.",
+        "Plain brown upperparts"
+    ],
+    "Marsh Wren": [
+        "Overall appearance more streaked with lighter buffy and gray tones",
+        "Distinctive eye stripe",
+        "Presence of a white eyebrow (supercilium)",
+        "often found in wetland or marshy habitats",
+        "Bold, white eyebrow stripe"
+    ],
+    "Rock Wren": [
+        "Often seen hopping or foraging on the ground",
+        "Lightly streaked breast",
+        "Tendency to be seen on rocky terrain or open arid regions",
+        "More uniform gray-brown plumage",
+        "Shorter, pointed bill"
+    ],
+    "Winter Wren": [
+        "Tiny, compact body",
+        "White throat and chest with dark spots ",
+        "Thin, slightly downcurved bill",
+        "uniform brown or dark plumage",
+        "Fine barring on the wings and tail"
+    ],
+    "Common Yellowthroat": [
+        "Smaller size",
+        "Absence of distinctive white eye-ring (which is prominent in Nashville Warbler)",
+        "lives in marshes and wetland habitats rather than open woodlands and fields",
+        "Size and overall appearance is generally smaller and stockier",
+        "rounded tail with no noticeable white outer tail feathers"
+    ]
+}

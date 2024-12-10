@@ -1,0 +1,245 @@
+{
+    "banded": [],
+    "blotchy": [],
+    "braided": [
+        "Can form various styles, such as single braids, pigtails, or cornrows",
+        "Interwoven strands of hair",
+        "Can be of varying lengths, often extending from the scalp",
+        "May have decorative elements like beads or ribbons",
+        "Typically uniform thickness throughout each braid"
+    ],
+    "bubbly": [
+        "clear or colored liquid with bubbles",
+        "can have a bottle with a cork and foil seal (for sparkling wine)",
+        "often in a flute, wine glass, or tumbler",
+        "may have a label indicating champagne, prosecco, or another type of sparkling drink",
+        "served in a glass or clear bottle"
+    ],
+    "bumpy": [],
+    "chequered": [
+        "squares or rectangles arranged in a grid",
+        "flat, uniform appearance across a surface",
+        "alternating blocks of two or more contrasting colors, typically black and white",
+        "repetitive geometric design",
+        "consistent alignment and spacing of blocks"
+    ],
+    "cobwebbed": [],
+    "cracked": [
+        "Irregular, jagged line or lines",
+        "Shadowing or depth indicating separation of materials",
+        "Chipped or fragmented edges around the crack",
+        "Break or fissure in a surface",
+        "Contrast in color or texture along the crack line"
+    ],
+    "crosshatched": [
+        "intersecting sets of parallel lines",
+        "appears in illustrations, drawings, and etchings",
+        "lines often vary in thickness and spacing",
+        "used to create shading and texture",
+        "typically form a grid-like pattern"
+    ],
+    "crystalline": [
+        "reflective surfaces that sparkle or glisten",
+        "well-defined edges and angles",
+        "various colors or can be colorless",
+        "transparent or translucent appearance",
+        "faceted surfaces from natural growth or human cutting"
+    ],
+    "dotted": [
+        "Repeated circular shapes",
+        "Evenly spaced dots",
+        "High contrast between the dots and the background",
+        "Typically, dots can be of various colors",
+        "Commonly found on fabrics, wallpapers, or designs"
+    ],
+    "fibrous": [],
+    "flecked": [
+        "May create a speckled or dappled effect",
+        "Variations in color, typically against a different background color",
+        "Spots or patches are often scattered or sprinkled",
+        "Presence of small, irregular spots or patches",
+        "Can be found on various surfaces or materials (e.g., fabric, animal fur, painted surfaces)"
+    ],
+    "freckled": [
+        "Small, irregularly-shaped spots on the skin",
+        "Generally more prominent on fair-skinned individuals",
+        "Can vary in color, often light to medium brown",
+        "Commonly found on areas exposed to sunlight, such as the face, shoulders, and arms",
+        "Spots that are slightly darker than the surrounding skin"
+    ],
+    "frilly": [
+        "typically associated with feminine or ornamental styles",
+        "often light, flowing material",
+        "decorative edges or trim",
+        "layered appearance",
+        "ruffled or gathered fabric"
+    ],
+    "gauzy": [
+        "Often used for curtains, veils, or delicate garments",
+        "May have a slight sheen or shimmer",
+        "Often has a soft, flowing texture",
+        "Lightweight appearance",
+        "Edges may appear delicate or frayed"
+    ],
+    "grid": [
+        "Can be made of various materials like metal, wood, or drawn/printed on a surface",
+        "Consistent and repetitive structure",
+        "The lines can be solid, dashed, or dotted",
+        "A pattern of intersecting vertical and horizontal lines",
+        "Often used in backgrounds, architectural elements, or graphics"
+    ],
+    "grooved": [
+        "Can be found on various materials like metal, wood, or plastic",
+        "May appear as a series of ridges and furrows",
+        "Linear indentation or depression on a surface",
+        "Often used to create traction or fit with another component",
+        "May appear on the side or edge of an object"
+    ],
+    "honeycombed": [
+        "often filled with honey",
+        "hexagonal cells",
+        "uneven, organic perimeter",
+        "golden or yellowish color",
+        "symmetric and repeating pattern"
+    ],
+    "interlaced": [
+        "Lower overall image quality when compared to progressive scan displays",
+        "Traditional (CRT) television or early LCD/LED screens more likely to use interlacing",
+        "Visible horizontal lines or scan lines on the screen (especially when viewing fast-moving images or in freeze frames)",
+        "Image artifacts such as screen tearing or combing effects in motion sequences"
+    ],
+    "knitted": [
+        "Many colors and combinations possible",
+        "Visible stitches like knit or purl",
+        "Often features ribbing or cable patterns",
+        "Soft and often stretchy material",
+        "Varied patterns and textures"
+    ],
+    "lacelike": [
+        "typically found in fabric or clothing items like doilies, tablecloths, dresses, or curtains",
+        "textures that appear fine and detailed",
+        "may appear in white or various colors, typically in a more delicate material like thread or yarn",
+        "open, see-through areas created by the pattern",
+        "intricate, delicate patterns"
+    ],
+    "lined": [
+        "a tuft of hair at the end of the tail",
+        "rounded ears",
+        "females do not have a mane",
+        "large, expressive eyes",
+        "strong, powerful limbs"
+    ],
+    "marbled": [],
+    "matted": [],
+    "meshed": [
+        "Flexible or bendable structure",
+        "Material that may be metallic, plastic, or textile",
+        "Interwoven or interlinked strands",
+        "Often used for filtration, separation, or as a barrier",
+        "Pattern of small, often uniform, openings or gaps"
+    ],
+    "paisley": [
+        "Curved and swirling lines",
+        "Repeating patterns",
+        "Found on fabrics, wallpapers, and other decorative surfaces",
+        "Multiple colors, often contrasting",
+        "Distinctive teardrop or kidney-shaped patterns"
+    ],
+    "perforated": [
+        "The holes may form a line or pattern",
+        "Designed to be easily torn along the line of holes",
+        "Presence of small, evenly spaced holes",
+        "Typically found on the edge of paper or certain materials"
+    ],
+    "pitted": [],
+    "pleated": [],
+    "polka-dotted": [
+        "evenly spaced",
+        "circular dots",
+        "usually of uniform size",
+        "the dots can be in contrasting colors to the background",
+        "appears on surfaces such as fabric, clothing, accessories, or decor"
+    ],
+    "porous": [
+        "surfaces with tiny holes or pores",
+        "may absorb or contain liquids",
+        "texture that appears rough or sponge-like",
+        "varied in appearance, could be organic like a sponge or synthetic like a foam",
+        "can appear in numerous colors depending on the material"
+    ],
+    "potholed": [
+        "Irregular shape",
+        "Jagged edges",
+        "May vary in size from small indentations to large craters",
+        "Depression or hole on a road surface",
+        "Surrounding cracks or deteriorated pavement"
+    ],
+    "scaly": [],
+    "smeared": [
+        "often disrupts clear visibility of the underlying image or surface",
+        "blurry or indistinct edges",
+        "irregular or uneven shapes",
+        "varies in transparency, with some parts more opaque than others",
+        "can be any color, often different from the background"
+    ],
+    "spiralled": [
+        "Circular pattern",
+        "Continuous curve",
+        "Varying widths and distances between the coils",
+        "Winding or coiling around a central point",
+        "Can be two-dimensional or three-dimensional"
+    ],
+    "sprinkled": [],
+    "stained": [
+        "May appear wet, dry, or set into the material",
+        "Color that contrasts with the surrounding area",
+        "Possible variations in texture",
+        "Area of discoloration on a surface",
+        "Irregular shape and edges"
+    ],
+    "stratified": [
+        "a change in material composition from one layer to another",
+        "varying colors or textures between the layers",
+        "layers may vary in thickness",
+        "distinct, horizontal layers",
+        "clear demarcation lines separating each layer"
+    ],
+    "striped": [],
+    "studded": [
+        "studs may be round, rectangular, or uniquely shaped",
+        "commonly found on belts, jackets, shoes, or bags",
+        "shiny or reflective surfaces on studs",
+        "part of the interior structure of walls, covered by drywall or other wall materials",
+        "may be accompanied by other embellishments such as embroidery or patches"
+    ],
+    "swirly": [],
+    "veined": [],
+    "waffled": [
+        "grid-like pattern with square or rectangular wells",
+        "crisp edges",
+        "round or square shape",
+        "typically served on a plate",
+        "golden-brown color"
+    ],
+    "woven": [
+        "Visible patterns or texture",
+        "Often found in the form of textiles, baskets, or mats",
+        "Interlaced fibers or threads",
+        "Varied colors based on the materials used",
+        "Can range from simple to complex designs"
+    ],
+    "wrinkled": [
+        "irregular lines or ridges",
+        "uneven surface",
+        "variations in light and shadow due to texture differences",
+        "typically associated with materials like fabric, skin, or paper",
+        "folds or creases"
+    ],
+    "zigzagged": [
+        "can be found in various contexts such as fabric patterns, road markings, or natural formations",
+        "repeated pattern of connected diagonal lines",
+        "typically forms a series of V shapes or inverted V shapes",
+        "alternating sharp turns or angles",
+        "lines changing direction at a consistent interval"
+    ]
+}

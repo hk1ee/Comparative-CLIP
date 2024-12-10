@@ -1,0 +1,261 @@
+{
+    "Abyssinian": [
+        "Thicker, more muscular body",
+        "Prominent cheekbones",
+        "almond-shaped eyes",
+        "Short, sleek fur",
+        "large, almond-shaped eyes"
+    ],
+    "Bengal": [
+        "smaller size compared to a dog",
+        "Distinctive coat pattern with spots or rosettes",
+        "muscular body and slender build",
+        "Sleek and lean body build",
+        "High-energy, active posture"
+    ],
+    "Birman": [
+        "straight, medium-length nose",
+        "Cat-like facial features (as opposed to dog-like features)",
+        "Blue eyes",
+        "Feline nose and mouth structure",
+        "Medium-length, slightly wavy coat"
+    ],
+    "Bombay": [
+        "Sharp, pointed ears",
+        "bright, round, copper or gold eyes",
+        "Large, pointed ears",
+        "Black coat",
+        "Round, copper or gold eyes (Bombay)"
+    ],
+    "British Shorthair": [
+        "Solid coat colors (commonly blue-gray)",
+        "Round face with full cheeks",
+        "Large, round eyes",
+        "Shorter legs",
+        "Feline body structure (sleek and agile versus muscular and robust)"
+    ],
+    "Egyptian Mau": [
+        "Banding (striping) on the legs and tail",
+        "Ears: Egyptian Maus generally have large, pointed ears, whereas German Shorthaired Pointers have medium to large, floppy ears.",
+        "Stocky, muscular body",
+        "Ears are relatively large and pointed",
+        "**Body Size**: Egyptian Maus tend to be smaller and more slender compared to the large and muscular Maine Coons."
+    ],
+    "Maine Coon": [
+        "Bushy tufted paws",
+        "Lynx-like tufted ears",
+        "Pointed ears with tufts of fur at the tips",
+        "Large, muscular body",
+        "Solid, tabby, or tortoiseshell coat patterns (less spotted than Bengal)"
+    ],
+    "Persian": [
+        "Round face with a flat nose",
+        "Long, fluffy fur",
+        "Typically a more laid-back, relaxed posture",
+        "small, rounded ears",
+        "flat face with a short nose"
+    ],
+    "Ragdoll": [
+        "Longer, fuller tail",
+        "Less pronounced flat face compared to Persians",
+        "Long, fluffy fur",
+        "broad muzzle",
+        "Size: Ragdolls are generally larger and more robust compared to the smaller, more compact Bombay."
+    ],
+    "Russian Blue": [
+        "A stout, compact body",
+        "Short, dense, and plush bluish-gray coat",
+        "Silvery-blue, short, dense coat",
+        "Floppy and relaxed posture when held",
+        "Erect, pointed ears with fur"
+    ],
+    "Siamese": [
+        "Prominent, triangular-shaped head with large ears",
+        "Color point pattern: Both breeds can have color points, but Siamese cats generally have a more defined pattern with darker colors on the ears, face, paws, and tail.",
+        "Sleek, slender body with long legs",
+        "Short, sleek coat",
+        "wedge-shaped head"
+    ],
+    "Sphynx": [
+        "Prominent, large ears",
+        "Prominent wrinkled skin",
+        "Absence of a bushy tail",
+        "Skin folds: Sphynx cats often display visible skin folds, while Boxers do not have pronounced skin folds.",
+        "Slender, elongated body"
+    ],
+    "american bulldog": [
+        "Short snout",
+        "Broad chest",
+        "Muzzle: The American Bulldog has a longer and more prominent muzzle, while Staffordshire Bull Terriers have a shorter muzzle.",
+        "Short, sleek coat",
+        "Tail: American Bulldogs usually have a thicker, longer tail that tapers, while Staffordshire Bull Terriers often have a shorter tail."
+    ],
+    "american pit bull terrier": [
+        "Short and smooth coat",
+        "Jaw structure (wider and more pronounced in American Pit Bull Terrier)",
+        "Tail: American Pit Bull Terriers have a longer, thinner tail, whereas Staffordshire Bull Terriers have a shorter, thicker tail.",
+        "Tail that is thick at the base and tapers to a point",
+        "Higher energy level and more muscular definition"
+    ],
+    "basset hound": [
+        "Generally heavier and more compact build",
+        "Loose, saggy skin especially around the face",
+        "Deeper chest",
+        "Wrinkled forehead and eyes with a sad expression",
+        "Prominent nose"
+    ],
+    "beagle": [
+        "Tail often has a white tip and is carried high",
+        "Blue eyes",
+        "shorter legs",
+        "Tail that is shorter and tends to be carried lower",
+        "Short, smooth coat"
+    ],
+    "boxer": [
+        "Wide, rounded body",
+        "short coat with potential brindle or fawn colors",
+        "Canine (dog) anatomy vs. feline (cat) anatomy",
+        "distinctive facial markings, often with a \"mask\" or blaze",
+        "Distinctive, square-shaped muzzle"
+    ],
+    "chihuahua": [
+        "Short coat",
+        "Short, smooth coat (although some Chihuahuas have long hair)",
+        "Overall small, compact body size",
+        "Smaller size and stature",
+        "short coat (though they can have long coats too)"
+    ],
+    "english cocker spaniel": [
+        "Shorter snout",
+        "Silky, medium to long fur",
+        "More defined stop (the indentation between the forehead and the muzzle)",
+        "fuller, denser coat",
+        "Flat, wrinkled face"
+    ],
+    "english setter": [
+        "Tail: English Setters have a feathered tail that is usually carried horizontally, while Leonbergers have a bushy tail that may be carried slightly higher but not curled over the back.",
+        "Often has a more refined and narrow face features",
+        "Coat pattern: English Setters typically have a speckled or \"belton\" coat, while Beagles have a more uniform tricolor or bicolor pattern.",
+        "feathered tail",
+        "Ear shape and position: English Setters have medium-length, drooping ears that are set lower on the head, whereas Leonbergers have medium-length, triangular ears set higher."
+    ],
+    "german shorthaired": [
+        "Generally lighter and more refined head",
+        "Pointed ears that may stand alert rather than droop",
+        "Typically has a docked tail (though this can vary)",
+        "Short hair with speckled or roan pattern, often in liver (brown) and white",
+        "Docked tail"
+    ],
+    "great pyrenees": [
+        "Predominantly white fur",
+        "Medium to large size",
+        "predominantly white fur, sometimes with gray or tan markings",
+        "Dense, weather-resistant fur",
+        "Muzzle: Great Pyrenees have a more pronounced, longer muzzle compared to the shorter, more refined muzzle of a Ragdoll."
+    ],
+    "havanese": [
+        "Tightly curled tail that often arches over the back",
+        "Tend to have a more playful, energetic expression",
+        "Rounded ears with hair that often falls over them",
+        "Erect, triangular ears",
+        "Longer, silky hair"
+    ],
+    "japanese chin": [
+        "Small size",
+        "Slightly larger, more rounded head in proportion to body",
+        "Flat face with an upturned nose",
+        "Long, silky fur primarily around the body, chest, and tail",
+        "Distinctive markings on the face, usually black and white or red and white"
+    ],
+    "keeshond": [
+        "A keeshond typically displays a sable coat with a mix of grey and black fur; a Ragdoll has a variety of color patterns, often lighter with darker extremities.",
+        "Bushy tail",
+        "thick, double coat",
+        "Spectacles-like markings around the eyes",
+        "A keeshond has a fox-like face with a dark muzzle; a Ragdoll has a more rounded face."
+    ],
+    "leonberger": [
+        "Much larger size",
+        "Sturdy, muscular build",
+        "Muscular build",
+        "face shape (Leonbergers have a more elongated face)",
+        "coloration (Leonbergers usually have a black mask and a golden-brown coat)"
+    ],
+    "miniature pinscher": [
+        "Distinct coloring (usually black and tan)",
+        "**Proportions**: Miniature pinschers have a more slender and sleek body, while pit bulls are more muscular and stocky.",
+        "**Head Shape**: Miniature pinschers have a more narrow and elongated head, while American pit bull terriers have a broader and more robust head.",
+        "erect ears",
+        "Red, sesame, black and tan, or cream-colored coats with distinct Urajiro (white to cream markings)."
+    ],
+    "newfoundland": [
+        "Head shape (Newfoundlands have a broader head and muzzle)",
+        "Ears (Newfoundlands have larger, droopy ears)",
+        "Sleek, short, black coat that is often described as \"patent leather\"",
+        "Droopy lips and ears",
+        "Generally darker coat colors, such as black, brown, or Landseer (white with black markings)"
+    ],
+    "pomeranian": [
+        "Shorter snout",
+        "Pointed ears, standing upright",
+        "Fluffier coat",
+        "Compact body",
+        "shorter legs relative to body size"
+    ],
+    "pug": [
+        "Smaller, floppy ears",
+        "Short coat",
+        "Droopy ears ",
+        "Stocky body",
+        "a short, curly tail"
+    ],
+    "saint bernard": [
+        "Droopy jowls: Saint Bernards have more pronounced, droopy jowls compared to Leonbergers.",
+        "size (Saint Bernards are significantly larger than beagles)",
+        "facial structure (Saint Bernards have a broader and more pronounced snout compared to beagles)",
+        "overall appearance (Saint Bernards look more massive and imposing compared to the smaller and more compact beagle)",
+        "Short, dense coat"
+    ],
+    "samoyed": [
+        "tail curled over the back",
+        "Smiling expression",
+        "Tail curled over the back",
+        "smiling facial expression (often referred to as the \"Sammy smile\")",
+        "cropped or naturally floppy ears"
+    ],
+    "scottish terrier": [
+        "Long muzzle with a beard",
+        "Elongated body shape",
+        "black, wheaten, or brindle coat color",
+        "shorter legs",
+        "Pointed ears"
+    ],
+    "shiba inu": [
+        "presence of a snout and whiskers (Sphynx cats have a more defined and slender facial structure)",
+        "erect, triangular ears",
+        "coat color (Shiba Inu typically has a reddish, tan, or sesame coat)",
+        "Longer legs",
+        "Distinctive markings (often with contrasting colors on the face, chest, and legs)"
+    ],
+    "staffordshire bull terrier": [
+        "relatively longer muzzle (pugs have a short, flat muzzle)",
+        "Shorter height",
+        "short, smooth coat",
+        "tapered tail (pugs usually have a curled tail)",
+        "short, erect ears"
+    ],
+    "wheaten terrier": [
+        "Soft, wavy, and flowing coat",
+        "Ear shape: Wheaten terriers have small, triangular ears that hang down, while Keeshonds have small, pointed ears that stand erect.",
+        "Soft, silky, and wavy coat",
+        "typically lighter, wheat-colored fur",
+        "Coat texture: Wheaten terriers have a soft, silky, and wavy coat, while Keeshonds have a thick, double coat with a dense undercoat and a harsh outer coat."
+    ],
+    "yorkshire terrier": [
+        "Small, compact size",
+        "Smaller size, usually weighing between 4 to 7 pounds",
+        "Sleeker body structure",
+        "pronounced, pointy ears",
+        "Silky, shiny coat"
+    ]
+}

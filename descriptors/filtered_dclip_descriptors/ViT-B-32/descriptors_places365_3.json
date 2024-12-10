@@ -1,0 +1,2516 @@
+{
+    "airfield": [
+        "parked airplanes or helicopters",
+        "runway markings and lighting"
+    ],
+    "airplane_cabin": [
+        "oxygen masks (may be visible or housed in ceiling compartments)",
+        "safety information placards",
+        "tray tables",
+        "overhead lighting panels",
+        "overhead storage compartments"
+    ],
+    "airport_terminal": [
+        "Security screening areas with x-ray machines and scanners",
+        "Luggage carousels for baggage claim",
+        "Rows of seating areas and lounges",
+        "Food courts and restaurants",
+        "Retail stores and duty-free shops"
+    ],
+    "alcove": [
+        "The surrounding area usually appears to be part of a larger continuous wall or room",
+        "A recessed or small niche-like space within a larger room or wall",
+        "Typically creates a rounded or rectangular indentation in the wall",
+        "May have an arch or decorative border framing the space",
+        "Often used for displaying objects, containing furniture, or creating a cozy seating area"
+    ],
+    "alley": [
+        "Urban or densely built-up area context",
+        "Narrow pathway or passageway",
+        "May contain garbage bins or discarded objects",
+        "Limited natural light or shadowed",
+        "Between buildings or walls"
+    ],
+    "amphitheater": [
+        "tiered seating or stepped rows",
+        "circular or oval-shaped structure",
+        "sometimes has remnants of ancient ruins or historic design",
+        "audience seating surrounding the central area",
+        "often constructed with stone or concrete"
+    ],
+    "amusement_arcade": [
+        "game machines (e.g., claw machines, racing simulators, pinball machines, etc.)",
+        "sound effects and background music",
+        "video game screens and consoles",
+        "groups of people playing games",
+        "flashing signs"
+    ],
+    "amusement_park": [
+        "various rides (e.g., roller coasters, carousels, Ferris wheels)",
+        "themed areas or attractions",
+        "crowds of people, often including families and children",
+        "concession stands or food vendors",
+        "signage for directions and attractions"
+    ],
+    "apartment_building-outdoor": [
+        "multi-story structure",
+        "various architectural styles (modern, classic, etc.)",
+        "balconies or porches",
+        "visible building number or name",
+        "multiple windows in a grid-like pattern"
+    ],
+    "aquarium": [
+        "visible fish or aquatic animals",
+        "decorative elements like rocks, plants, or coral",
+        "varying shapes and sizes, typically rectangular but can be cylindrical or custom-shaped",
+        "may have a lid or cover",
+        "lighting system attached to the top or sides"
+    ],
+    "aqueduct": [
+        "Historical and architectural design elements, often ancient or classical in appearance",
+        "Arches made of stone or brick",
+        "Pillars or columns supporting the arches",
+        "Usually constructed from stone, brick, or a combination of materials",
+        "Presence of water flowing through or beneath the structure, depending on the angle of the photo"
+    ],
+    "arcade (passageway)": [
+        "can be located within buildings or in open spaces between buildings",
+        "lined with shops or stalls",
+        "open on one or both sides",
+        "pedestrian walkway",
+        "covered passageway"
+    ],
+    "arch": [
+        "Found in various contexts, such as bridges, doorways, or monuments",
+        "Symmetrical structure",
+        "Curved or semi-circular shape",
+        "Can have decorative elements such as carvings or inscriptions",
+        "Support columns or pillars on either side"
+    ],
+    "archaelogical_excavation": [
+        "surrounding area may show signs of previous digging or disturbed soil",
+        "uncovered artifacts or bones",
+        "archaeological staff or researchers working",
+        "protective covering or tarps to shield delicate finds",
+        "documentation equipment like notebooks or cameras"
+    ],
+    "archive": [
+        "A clean, organized environment",
+        "Cataloging systems such as labels or barcodes",
+        "Stacks of paper documents",
+        "Numerous boxes or binders labeled with dates or subjects",
+        "Climate control systems to preserve documents (e.g., dehumidifiers)"
+    ],
+    "arena-hockey": [
+        "advertisements on the dasher boards",
+        "players in hockey gear (helmets, skates, sticks)",
+        "dasher boards surrounding the ice",
+        "goals at each end of the rink",
+        "nets at the goals"
+    ],
+    "arena-performance": [
+        "an audience observing the event",
+        "performers, athletes, or participants engaged in an activity",
+        "sound equipment such as microphones and speakers",
+        "a central stage, ring, or performance area",
+        "bright stage lighting or spotlights"
+    ],
+    "arena-rodeo": [
+        "rodeo equipment like lassos, saddles, and chaps",
+        "livestock such as bulls or horses",
+        "fences or barriers surrounding the arena",
+        "dirt or sand-covered ground",
+        "circular or oval-shaped arena"
+    ],
+    "army_base": [
+        "soldiers in uniform",
+        "training grounds or obstacle courses",
+        "flags or insignias representing military branches or units",
+        "military vehicles such as tanks, jeeps, and trucks",
+        "barbed wire or fencing around the perimeter"
+    ],
+    "art_gallery": [
+        "potentially exhibits of diverse styles or periods of art",
+        "various artworks displayed (paintings, sculptures, photographs)",
+        "directional or focused lighting on the artworks",
+        "white or neutral-colored walls",
+        "informational placards or labels near the artworks"
+    ],
+    "art_school": [
+        "Students or individuals engaged in artistic activities (e.g., painting, drawing, sculpting)",
+        "Exhibits or galleries showcasing student or professional work",
+        "Artworks displayed on walls or sculptures around",
+        "Spacious studios or classrooms",
+        "Posters or banners advertising art events or exhibitions"
+    ],
+    "art_studio": [
+        "sketches, drawings, or paintings on walls or leaning against surfaces",
+        "good lighting, often with natural light from large windows or specialized lamps",
+        "sometimes the presence of protective coverings like aprons, smocks, or old clothes",
+        "atmosphere of creativity, which may include personal items, inspirational images, or mood boards",
+        "drop cloths or tarps on the floor to protect against paint spills"
+    ],
+    "artists_loft": [
+        "spacious, open-plan layout",
+        "personal touches and decorations reflecting the artist's style",
+        "creative and disorganized atmosphere",
+        "large windows providing ample natural light",
+        "artwork in various stages of completion"
+    ],
+    "assembly_line": [
+        "finished products at the end of the line",
+        "partially assembled products",
+        "repetitive arrangement of machinery or tools",
+        "series of workstations",
+        "structured layout designed for mass production"
+    ],
+    "athletic_field-outdoor": [
+        "often part of larger sports complexes or parks",
+        "running tracks or lanes",
+        "goal posts or nets for sports like soccer, rugby, or football",
+        "grass or artificial turf surface",
+        "wide open space"
+    ],
+    "atrium-public": [
+        "commercial or public facilities nearby, like shops, cafes, or information desks",
+        "high ceilings, often with skylights or glass roofs",
+        "large, open space",
+        "natural lighting",
+        "people, often moving through or sitting in the area"
+    ],
+    "attic": [
+        "sloped or angled ceiling",
+        "small or irregularly shaped windows",
+        "unfinished or partially finished walls and floors",
+        "dim lighting or natural light filtering through small windows",
+        "insulation materials visible between beams"
+    ],
+    "auditorium": [
+        "An audience or gathering of people (during events)",
+        "Aisles between sections of seats",
+        "Curtains or backdrops on or near the stage",
+        "A stage or performance area at one end",
+        "Multiple rows of seating, often tiered or sloped"
+    ],
+    "auto_factory": [
+        "car parts and components (chassis, engines, doors, etc.)",
+        "vehicles being tested or inspected",
+        "partially assembled or fully assembled vehicles",
+        "storage areas for parts and materials",
+        "signage related to automotive manufacturing"
+    ],
+    "auto_showroom": [
+        "a variety of car models and colors",
+        "sales posters or promotional materials",
+        "possible presence of customers and sales personnel",
+        "clean, polished floors and cars",
+        "signs or banners with car brands or logos"
+    ],
+    "badlands": [
+        "deep ravines or gullies",
+        "dry and arid environment",
+        "steep slopes",
+        "rugged terrain",
+        "layered rock formations"
+    ],
+    "bakery-shop": [
+        "warm, inviting interior decor, often with a rustic or wholesome aesthetic",
+        "display cases with baked goods like bread, pastries, cakes, and cookies",
+        "bakery equipment such as ovens, mixers, and baking trays",
+        "branded packaging or bags with the bakery's logo",
+        "windows or glass display cases showcasing baked items to passersby"
+    ],
+    "balcony-exterior": [
+        "may have outdoor furniture (chairs, tables, etc.)",
+        "possible coverage like an awning or roof",
+        "view looking out to the surroundings (street, garden, etc.)",
+        "accessible by a door or large window",
+        "elevated platform or extension"
+    ],
+    "balcony-interior": [
+        "Outdoor furniture such as chairs or tables",
+        "Door or sliding door leading inside",
+        "Partial view of the exterior, such as the sky or nearby buildings",
+        "Flooring that may be different from the indoor space (e.g., tile, wood, or concrete)",
+        "Decoration items like cushions, lights, or rugs"
+    ],
+    "ball_pit": [
+        "typically found in a play area or indoor playground",
+        "sometimes may include slides or nets leading into or out of the pit",
+        "a large, enclosed area",
+        "a multitude of small, colorful plastic balls",
+        "walls or barriers surrounding the pit"
+    ],
+    "ballroom": [
+        "a formal and luxurious ambiance",
+        "a stage or area for musicians",
+        "a large, open space",
+        "polished flooring, often wood or marble",
+        "grand windows, sometimes with drapes or curtains"
+    ],
+    "bamboo_forest": [
+        "usually uniform height of the bamboo stems creating a canopy effect",
+        "varying shades of green depending on the species and age",
+        "a forest-like setting with little undergrowth due to the density of the bamboo",
+        "dense growth with stems close together",
+        "long, narrow leaves with parallel veins"
+    ],
+    "bank_vault": [
+        "interior may have safety deposit boxes or secure compartments",
+        "robust security features, such as cameras, alarms, or guards",
+        "typically located within a bank or secure facility",
+        "thick walls and door, often reinforced",
+        "air-tight and fire-resistant design"
+    ],
+    "banquet_hall": [
+        "Elegant or thematic decorations (e.g., table centerpieces, wall hangings, drapes)",
+        "Decorated tables and chairs often arranged in rows or clusters",
+        "Serving stations or buffet tables",
+        "Dance floor or open space",
+        "Audio-visual equipment (e.g., microphones, speakers, projectors)"
+    ],
+    "bar": [
+        "lighting often dim or ambient",
+        "patrons or customers drinking and socializing",
+        "staff like bartenders or servers",
+        "shelves or racks with various bottles of alcohol",
+        "counter or bar top where drinks are served"
+    ],
+    "barn": [
+        "often painted red (though can be other colors)",
+        "signs of use for storing farm equipment or housing livestock",
+        "surrounding agricultural equipment, animals, or fields",
+        "pitched or gambrel roof (often steeply sloped)",
+        "wooden or metal siding"
+    ],
+    "barndoor": [
+        "may be part of a larger barn structure",
+        "rustic or weathered appearance",
+        "large, rectangular door",
+        "usually made of wood or metal",
+        "often painted in red, brown, or natural wood colors"
+    ],
+    "baseball_field": [
+        "backstop or fence behind home plate"
+    ],
+    "basement": [
+        "possibly unfinished or partially finished space",
+        "electrical panels or water heaters",
+        "below-ground level room",
+        "presence of utility sinks or laundry appliances",
+        "storage items, such as shelves, boxes, or tools"
+    ],
+    "basketball_court-indoor": [
+        "Hardwood or synthetic floor",
+        "Center circle at mid-court",
+        "Overhead lighting",
+        "Free-throw lines and three-point arcs",
+        "Bleachers or seating around the court"
+    ],
+    "bathroom": [
+        "shower curtain or glass shower doors",
+        "tiled walls or floors",
+        "sink or washbasin",
+        "bathtub or shower",
+        "bathroom vanity or storage cabinets"
+    ],
+    "bazaar-indoor": [
+        "lively atmosphere with vendors and buyers interacting",
+        "narrow aisles or walkways",
+        "signage or price tags on products",
+        "goods and merchandise displayed for sale ",
+        "various stalls or booths"
+    ],
+    "bazaar-outdoor": [
+        "narrow walkways or aisles between stalls",
+        "bargaining or haggling between sellers and buyers",
+        "crowded area with many people",
+        "vibrant and lively atmosphere",
+        "open-air stalls or booths"
+    ],
+    "beach": [
+        "adjacent body of water (ocean, sea, or large lake)",
+        "shoreline",
+        "presence of beachgoers or sunbathers",
+        "expanse of sand or pebbles",
+        "clear skies or horizon in the background"
+    ],
+    "beach_house": [
+        "Proximity to a beach or coastline",
+        "Beach access pathways or private docks",
+        "Beach-themed decorations or architectural elements",
+        "Open, spacious layout",
+        "Outdoor seating or lounging areas"
+    ],
+    "beauty_salon": [
+        "hair styling tools (e.g., hairdryers, scissors, brushes)",
+        "posters or images of hairstyles and beauty treatments",
+        "facial treatment beds or chairs (if provided)",
+        "manicure and pedicure stations (if provided)",
+        "shampoo stations or sinks"
+    ],
+    "bedchamber": [
+        "Nightstands on either side of the bed (often)",
+        "A door leading to other rooms or an ensuite bathroom",
+        "Windows with curtains or blinds",
+        "Lamps on nightstands or mounted on walls",
+        "A ceiling light or fan"
+    ],
+    "bedroom": [
+        "a door, often leading to a hallway or en suite bathroom",
+        "personal items like books, alarm clocks, or decorative items",
+        "bedside tables or nightstands",
+        "a bed, usually with pillows and bedding",
+        "artwork or wall decorations"
+    ],
+    "beer_garden": [
+        "people enjoying food and drinks",
+        "possibly a bar or serving area",
+        "outdoor seating area",
+        "beer taps or signage advertising beer brands",
+        "large umbrellas or shade structures"
+    ],
+    "beer_hall": [
+        "people drinking beer or toasting",
+        "dim or warm lighting",
+        "a stage or space for live music or entertainment",
+        "waitstaff in traditional attire (e.g., lederhosen or dirndls)",
+        "large beer mugs or steins"
+    ],
+    "berth": [
+        "sleeping area or bed space",
+        "sometimes enclosed by curtains or partitions for privacy",
+        "equipped with bedding such as a mattress, pillow, and blanket",
+        "adjacent small shelves or compartments for personal items",
+        "sometimes includes reading lights or small fans"
+    ],
+    "biology_laboratory": [
+        "scientific equipment (microscopes, centrifuges, pipettes)",
+        "safety equipment (gloves, goggles, lab coats)",
+        "bright lighting and clean, sterile environment",
+        "chemical bottles and reagents",
+        "lab benches or workstations"
+    ],
+    "boardwalk": [
+        "Located near natural settings like beaches, marshes, or parks",
+        "May lead to or from structures like piers, docks, or beachfront buildings",
+        "Frequently seen with scenic backgrounds such as the ocean, dunes, or lush vegetation",
+        "Elevated off the ground, often on stilts or supports",
+        "Railings or guardrails on either side for safety"
+    ],
+    "boat_deck": [
+        "flat surface",
+        "nautical equipment like ropes, lifebuoys, or anchors",
+        "presence of vessel structures like masts or cabins",
+        "may have shaded areas or awnings",
+        "often features a steering wheel or helm"
+    ],
+    "boathouse": [
+        "Typically located near or on the water",
+        "Building or structure",
+        "Sometimes elevated on stilts or pilings over the water",
+        "Dock or pier extending into the water",
+        "Boat(s) visible inside or near the structure"
+    ],
+    "bookstore": [
+        "posters or banners advertising book titles, authors, or events",
+        "possible presence of book-related accessories or gifts (e.g., bookmarks, reading lights)",
+        "promotional stands for bestsellers or new releases",
+        "tables and displays showcasing featured books",
+        "customers browsing or holding books"
+    ],
+    "booth-indoor": [
+        "Often situated along walls or in corners of indoor spaces",
+        "Often found in restaurants, diners, or trade shows",
+        "Made of wood, metal, or plastic materials",
+        "Table or counter within the enclosed space",
+        "Enclosed or semi-enclosed structure"
+    ],
+    "botanical_garden": [
+        "Specialized plant collections, such as cacti, succulents, or tropical plants",
+        "Trees and shrubs arranged in an organized or artistic manner",
+        "Bodies of water such as ponds, streams, or fountains",
+        "Well-maintained landscapes and pathways",
+        "Variety of plant species, often labeled with informational signs"
+    ],
+    "bow_window-indoor": [
+        "a window seat or sill extending into the room underneath the window",
+        "curtains or drapes, which may be arranged around the curved window shape",
+        "natural light entering the room through the window panes",
+        "typically a view of the outdoors visible through the window",
+        "framed in a manner that integrates with the indoor wall"
+    ],
+    "bowling_alley": [
+        "ball return systems near the start of each lane",
+        "gutters alongside the lanes",
+        "distinctive patterned carpets and lighting, often with a retro or themed design",
+        "long, narrow lanes with smooth wooden or synthetic surfaces",
+        "overhead electronic scoring screens"
+    ],
+    "boxing_ring": [
+        "a canvas-covered mat",
+        "sometimes logos or sponsors' names on the mat",
+        "corner paddings, typically in different colors",
+        "padded turnbuckles at each corner post",
+        "a square or rectangular elevated platform"
+    ],
+    "bridge": [
+        "arches (in the case of arch bridges)",
+        "structure spanning a physical obstacle (e.g., a river, valley, road)",
+        "cables or suspension elements (in the case of suspension or cable-stayed bridges)",
+        "approach ramps or roads leading up to the bridge",
+        "supports or pillars"
+    ],
+    "building_facade": [
+        "architectural elements such as windows, doors, and columns",
+        "awnings or canopies over entrances or windows",
+        "building materials like brick, glass, stone, or metal",
+        "symmetrical or asymmetrical design",
+        "exterior wall of a building"
+    ],
+    "bullring": [
+        "possible presence of a bullfighter or matador",
+        "central space without obstacles",
+        "sand or dirt-covered ground in the center",
+        "seating tiers or stands around the perimeter for spectators",
+        "enclosed by a wall or fence"
+    ],
+    "burial_chamber": [
+        "enclosed or semi-enclosed space",
+        "items of ritual significance, such as offerings or statues",
+        "artifacts or relics, such as pottery or jewelry",
+        "decorative motifs or carvings",
+        "presence of a coffin or sarcophagus"
+    ],
+    "bus_interior": [
+        "Rows of seats typically arranged in pairs",
+        "Overhead handrails or grips for standing passengers",
+        "Possible presence of stanchions (vertical poles) for standing passengers to hold onto",
+        "Aisle running down the center or side",
+        "Overhead storage or luggage racks"
+    ],
+    "bus_station-indoor": [
+        "designated areas for boarding buses, often with gate numbers",
+        "bus company logos or advertisements",
+        "covered waiting areas",
+        "indoor lighting and often large windows",
+        "restrooms and sometimes small retail shops or caf\u00e9s"
+    ],
+    "butchers_shop": [
+        "Customers selecting or purchasing meat",
+        "Meat displayed on counters or hanging",
+        "Cuts of meat labeled with prices or names",
+        "Refrigerated display cases",
+        "Meat hooks and cleavers"
+    ],
+    "butte": [
+        "Located in arid or semi-arid regions, commonly found in deserts or plains",
+        "Shadows cast due to the vertical nature of the sides, emphasizing its shape",
+        "Composed mostly of rock, butte sides may show layers of sediment",
+        "Flat top or a narrow summit",
+        "Isolated hill with steep, often vertical sides"
+    ],
+    "cabin-outdoor": [
+        "often situated in a natural setting like woods, mountains, or near lakes",
+        "porch or deck area",
+        "windows and a front door",
+        "rustic appearance with minimal modern architectural elements",
+        "wooden or log construction"
+    ],
+    "cafeteria": [
+        "People holding trays or plates of food",
+        "Often bright lighting and a bustling atmosphere",
+        "Large, open dining area",
+        "Rows or groups of tables and chairs",
+        "Cafeteria trays, utensils, and condiments"
+    ],
+    "campsite": [
+        "tents or other temporary shelters",
+        "often other camping accessories such as tarps, ropes, or lanterns",
+        "presence of natural surroundings like trees, grass, or water sources",
+        "sleeping bags or camping mats",
+        "backpacks or hiking gear"
+    ],
+    "campus": [
+        "students or academic staff walking or congregating",
+        "facilities like libraries, lecture halls, dormitories, or cafeteria buildings",
+        "open spaces such as quads, lawns, or courtyards",
+        "multiple buildings, often with distinct architectural styles",
+        "academic symbols, such as university crests or flags"
+    ],
+    "canal-natural": [
+        "long, narrow body of water",
+        "absence of concrete or man-made structures",
+        "wildlife such as birds, fish, or amphibians",
+        "varying water levels and possibly clear or murky water",
+        "presence of aquatic plants or algae"
+    ],
+    "canal-urban": [
+        "adjacent urban buildings",
+        "man-made waterway",
+        "boats or barges",
+        "pedestrian paths or roads alongside",
+        "narrow and straight water channel"
+    ],
+    "candy_store": [
+        "brightly colored displays and packaging",
+        "specialized candy sections (e.g., chocolate, gummies, lollipops)",
+        "customers, often children, selecting candy",
+        "candy jars or containers",
+        "shelves filled with various types of candies"
+    ],
+    "canyon": [
+        "significant elevation differences between the canyon floor and the rim",
+        "uneven or rugged landscape",
+        "deep, narrow valley",
+        "visible layers of sediment or rock",
+        "winding paths or riverbeds"
+    ],
+    "car_interior": [
+        "Car mats or carpeting",
+        "Window controls on doors",
+        "Steering wheel",
+        "Seat belts",
+        "Glove compartment"
+    ],
+    "carrousel": [
+        "moving in a rotating motion",
+        "often located in an amusement park or fairground",
+        "may feature music and lights",
+        "multiple seats in the shape of animals, often horses",
+        "overhead canopy with lights"
+    ],
+    "castle": [
+        "towers or turrets",
+        "drawbridge or portcullis",
+        "large, fortified building or complex",
+        "tall, thick walls",
+        "flags or banners often flying from the towers"
+    ],
+    "catacomb": [
+        "dim or dark lighting",
+        "ancient inscriptions or carvings",
+        "underground or subterranean location",
+        "crypts, tombs, or burial chambers",
+        "walls lined with recesses or niches"
+    ],
+    "cemetery": [
+        "headstones with inscriptions",
+        "decorative elements such as statues, crosses, or angels",
+        "rows of tombstones or grave markers",
+        "a sense of solemnity or quiet atmosphere",
+        "memorial plaques"
+    ],
+    "chalet": [
+        "Located in a mountainous or scenic area",
+        "Cozy, rustic appearance",
+        "Overhanging eaves",
+        "A wooden or timber-framed structure",
+        "Steep, gabled roof"
+    ],
+    "chemistry_lab": [
+        "Bunsen burners or other heating devices",
+        "safety equipment like goggles, gloves, and lab coats",
+        "measuring instruments like graduated cylinders and pipettes",
+        "shelving or storage cabinets with chemicals and equipment",
+        "whiteboards or bulletin boards with scientific notes or diagrams"
+    ],
+    "childs_room": [
+        "A crib or toddler bed",
+        "Storage bins or toy organizers",
+        "Play mats or rugs",
+        "Posters, stickers, or wall art with cartoon characters or educational themes",
+        "Toys scattered or organized throughout the room"
+    ],
+    "church-indoor": [
+        "artwork depicting religious scenes",
+        "sacristy or chapel rooms",
+        "an altar at the front",
+        "choir or organ area",
+        "prayer benches or kneelers"
+    ],
+    "church-outdoor": [
+        "distinctive architectural elements (e.g., Gothic spires, domes, flying buttresses)",
+        "large, often imposing structure",
+        "religious symbols or statues",
+        "cross or crucifix on the building",
+        "steeple or bell tower"
+    ],
+    "classroom": [
+        "students and/or a teacher engaged in activities or lessons",
+        "a teacher's desk or podium at the front of the room",
+        "educational posters or decorations",
+        "desks or tables arranged in rows or groups",
+        "chairs or seating for students"
+    ],
+    "clean_room": [
+        "polished, dust-free surfaces",
+        "well-lit environment with no debris or waste visible",
+        "clean windows and mirrors with no smudges or fingerprints",
+        "neatly aligned cables and cords (if visible)",
+        "organized and tidy arrangement of items"
+    ],
+    "cliff": [
+        "significant height or drop",
+        "top edge or overhang",
+        "potential surrounding landscape, such as coastlines, mountains, or valleys below",
+        "rocky or rugged terrain",
+        "steep, vertical or nearly vertical rock face"
+    ],
+    "closet": [
+        "often found within bedrooms, hallways, or bathrooms",
+        "enclosed storage space",
+        "sometimes integrated lighting inside the closet",
+        "organized or cluttered appearance with clothes, shoes, or accessories",
+        "shelves, rods, or racks for hanging clothes"
+    ],
+    "clothing_store": [
+        "various types of clothing items such as shirts, pants, dresses, etc.",
+        "price tags and promotional signs",
+        "fitting rooms or changing areas",
+        "racks or shelves displaying clothes",
+        "mannequins dressed in apparel"
+    ],
+    "coast": [
+        "seabirds or other wildlife commonly found near water",
+        "boundary between land and water",
+        "sandy or rocky shores",
+        "coastal structures such as lighthouses, piers, or boats",
+        "presence of marine and coastal vegetation like grasses, dunes, or cliffs"
+    ],
+    "cockpit": [
+        "overhead panels with switches and gauges",
+        "communication equipment like headsets and microphones",
+        "enclosed space, usually at the front of an aircraft",
+        "windows providing visibility outside the aircraft",
+        "throttle controls"
+    ],
+    "coffee_shop": [
+        "coffee-making equipment, such as espresso machines and grinders",
+        "cups and saucers or take-away coffee cups",
+        "people drinking coffee or waiting in line to order",
+        "decor elements like lighting, artwork, and branding signs",
+        "menu boards displaying drink and food options"
+    ],
+    "computer_room": [
+        "multiple computer workstations",
+        "computer monitors",
+        "keyboards and mice",
+        "chairs for seating at each workstation",
+        "office lighting"
+    ],
+    "conference_center": [
+        "attendees or participants often dressed in business attire",
+        "podiums or stages for presentations",
+        "multiple meeting rooms or event spaces",
+        "audio-visual equipment (e.g., projectors, microphones, screens)",
+        "banners or posters related to conferences or events"
+    ],
+    "conference_room": [
+        "often has a neutral or professional decor",
+        "may see individuals in professional attire or engaged in discussion",
+        "conference phone or speakerphone",
+        "often some form of technology setup (e.g., video conferencing equipment)",
+        "large table "
+    ],
+    "construction_site": [
+        "Building structures or frameworks",
+        "Piles of construction materials (e.g., bricks, wood, steel beams)",
+        "Temporary fencing or barriers",
+        "Scaffolding",
+        "Construction workers wearing safety gear (e.g., hard hats, reflective vests)"
+    ],
+    "corn_field": [
+        "a rural or agricultural setting often with a horizon line",
+        "rows of tall stalks",
+        "husks covering ears of corn (if visible)",
+        "tassels at the top of the stalks",
+        "green leaves along the stalks"
+    ],
+    "corral": [
+        "May contain livestock such as horses, cattle, or other animals",
+        "Often situated on dirt or grass surfaces",
+        "Typically found in rural or farm settings",
+        "Open space inside the enclosure"
+    ],
+    "corridor": [
+        "doors or entryways leading to rooms  ",
+        "typically enclosed, though open corridors can exist",
+        "absence of large furniture or fixtures  ",
+        "ceiling running parallel to the floor  ",
+        "walls on either side  "
+    ],
+    "cottage": [
+        "usually set in a rural or semi-rural location",
+        "quaint, rustic appearance",
+        "steep, pitched roof",
+        "small, cozy house",
+        "windows with window boxes or shutters"
+    ],
+    "courthouse": [
+        "statues or monuments, typically related to justice",
+        "large, formal building",
+        "a dome or cupola on the roof (optional)",
+        "columns or pillars, often in front",
+        "a flagpole, often with a national or state flag"
+    ],
+    "courtyard": [
+        "Pathways or walkways",
+        "Often located within a larger complex such as a school, apartment, or public building",
+        "Surrounded by buildings or walls",
+        "Open outdoor space",
+        "Sometimes features like fountains, statues, or garden structures"
+    ],
+    "creek": [
+        "Presence of small aquatic animals or fish",
+        "A narrow waterway or stream",
+        "Flowing water, often clear",
+        "Irregular shape with bends and meanders",
+        "Surrounded by natural vegetation like grass, plants, or trees"
+    ],
+    "crevasse": [
+        "sometimes partially covered by snow bridges",
+        "often found in glaciated mountainous areas",
+        "deep, narrow crack or fracture in a glacier or ice sheet",
+        "presence of ice and snow around it",
+        "contrasting colors like blue or white ice against the crevasse's darker interior"
+    ],
+    "crosswalk": [
+        "Often found at intersections",
+        "Located near traffic lights or stop signs",
+        "Rectangular or parallel line markings",
+        "Sometimes includes a button-activated pedestrian signal",
+        "Accompanied by pedestrian crossing signs"
+    ],
+    "dam": [
+        "power generation equipment (turbines, if it's a hydroelectric dam)",
+        "sluice gates or valves",
+        "large structure typically made of concrete, earth, or stone",
+        "spillways for controlled water release",
+        "catwalks or maintenance pathways"
+    ],
+    "delicatessen": [
+        "prepared food counters",
+        "shelves stocked with specialty food items ",
+        "a menu board with deli food offerings",
+        "people serving food behind a counter"
+    ],
+    "department_store": [
+        "promotional displays and advertisements",
+        "checkout counters with cash registers",
+        "crowds of people shopping or employees working",
+        "sections or departments for various goods (e.g., clothing, electronics, home goods)",
+        "numerous signage indicating brand names or products"
+    ],
+    "desert-sand": [
+        "absence of water bodies",
+        "light to dark tan or yellowish color",
+        "vast expanse of sand",
+        "dry and arid landscape",
+        "sparse or no vegetation"
+    ],
+    "desert-vegetation": [
+        "Adaptations to conserve water (such as thick, fleshy leaves or stems)",
+        "Sparse, scattered foliage",
+        "Presence of shrubs or hardy grasses",
+        "Color variations, often including shades of green, grey, or brown",
+        "Low-growing plants"
+    ],
+    "desert_road": [
+        "long, straight stretches of road",
+        "sparse or no vegetation",
+        "clear, blue skies or minimal cloud cover",
+        "dry, arid landscape",
+        "minimal infrastructure or buildings"
+    ],
+    "diner-outdoor": [
+        "Patio or deck area",
+        "Fencing or barriers defining the dining space",
+        "Umbrellas or awnings for shade",
+        "People eating or drinking",
+        "Waitstaff serving food"
+    ],
+    "dining_hall": [
+        "Presence of people eating or serving food",
+        "Serving stations or buffet areas",
+        "Chairs or benches around tables",
+        "Food and beverage dispensers",
+        "Multiple tables arranged for seating"
+    ],
+    "dining_room": [
+        "Dining table",
+        "Centerpiece or decor on the table",
+        "Formal or semi-formal setting",
+        "Often located adjacent to a kitchen or living room",
+        "Buffet or sideboard"
+    ],
+    "discotheque": [
+        "people dancing"
+    ],
+    "doorway-outdoor": [
+        "a frame that encloses an entry/exit point of a building",
+        "a door panel, often hinged, that can be opened or closed",
+        "a threshold or sill at the bottom of the door frame",
+        "steps or a landing area leading up to or away from the doorway",
+        "potentially visible door handle, lock, or knocker"
+    ],
+    "dorm_room": [
+        "shared living areas",
+        "personal items (posters, photos, or decorations)",
+        "small closet or wardrobe",
+        "limited space",
+        "desk and chair"
+    ],
+    "downtown": [
+        "Tall buildings and skyscrapers",
+        "High density of buildings",
+        "Commercial businesses like shops, restaurants, and offices",
+        "Busy streets with heavy traffic",
+        "Public spaces like parks or squares"
+    ],
+    "dressing_room": [
+        "Mirrors, often full-length",
+        "Clothing items or accessories",
+        "A counter or vanity with makeup and personal grooming items",
+        "Clothing racks or shelves",
+        "Bright lighting"
+    ],
+    "driveway": [
+        "may have a slight incline or flat surface",
+        "can have additional elements like gates, fences, or lighting",
+        "paved path leading to a garage or house",
+        "may be made of concrete, asphalt, gravel, or stone",
+        "width suitable for vehicles"
+    ],
+    "drugstore": [
+        "Signs or displays for personal care items like toiletries and health products",
+        "Possible presence of a pharmacist in a white coat",
+        "Shelves stocked with over-the-counter medications",
+        "Cash registers or checkout counters",
+        "A counter or area for prescription drop-off and pick-up"
+    ],
+    "elevator-door": [
+        "pair of sliding metallic or glass doors",
+        "handles or notches for manual opening (sometimes absent)",
+        "often located within a building's interior",
+        "may have an emergency telephone or intercom button nearby",
+        "floor indicator display above or near the doors"
+    ],
+    "elevator_lobby": [
+        "lighting fixtures, often recessed or overhead",
+        "wall finishes such as wood, metal, or mirrors",
+        "possibly a security camera or intercom system",
+        "waiting area, potentially with seating",
+        "one or more elevator doors"
+    ],
+    "elevator_shaft": [
+        "vertical shaft or passageway",
+        "guide rails along the sides",
+        "lighting within the shaft",
+        "a visible elevator car or platform",
+        "metal or concrete walls"
+    ],
+    "embassy": [
+        "often located in urban or diplomatic district",
+        "official building",
+        "distinct architectural style that may reflect the country it represents",
+        "national emblems or seals",
+        "signage with the name of the embassy or country"
+    ],
+    "engine_room": [
+        "Large engines, often diesel or marine",
+        "Metal surfaces, often with signs of oil or grease",
+        "Ventilation ducts and exhaust systems",
+        "Complex machinery and equipment",
+        "Pipes and tubes running throughout the space"
+    ],
+    "entrance_hall": [
+        "a staircase, if leading to other levels of the building",
+        "often an open and welcoming space with clear access to other rooms or areas",
+        "storage for shoes or coats, such as cubbies or a closet",
+        "a doorway or main entry point",
+        "lighting fixtures such as ceiling lights or lamps"
+    ],
+    "escalator-indoor": [
+        "typically located indoors in places like malls, airports, or subway stations",
+        "lighting along the sides or steps for visibility",
+        "metallic or glass balustrade (sides)",
+        "step-like platforms that continuously move in a loop",
+        "handrails that move in sync with the steps"
+    ],
+    "excavation": [
+        "Construction machinery, such as excavators, diggers, or backhoes",
+        "Presence of soil, dirt, or rocks being removed",
+        "Piles of excavated material nearby",
+        "Large pits or trenches in the ground",
+        "Archaeological artifacts or remains if it's an archaeological excavation"
+    ],
+    "fabric_store": [
+        "rolls or bolts of fabric in various colors and patterns",
+        "swatches or fabric samples on display",
+        "customers or staff with fabric-related tools (e.g., scissors, measuring tapes)",
+        "sewing notions, such as threads, buttons, needles, and zippers",
+        "shelves or racks filled with textiles"
+    ],
+    "farm": [
+        "farm animals such as cows, chickens, pigs, or sheep",
+        "fences or boundary markers",
+        "pathways or dirt roads",
+        "expanses of cultivated land or fields",
+        "farming equipment like tractors, plows, or harvesters"
+    ],
+    "fastfood_restaurant": [
+        "Exterior design elements (e.g., play areas, distinctive building shapes)",
+        "Menu boards (often with pictures of food)",
+        "Counter service area",
+        "Brand logos (e.g., McDonald's golden arches, Burger King's crown)",
+        "Uniformed staff"
+    ],
+    "field-cultivated": [
+        "Absence of wild vegetation or weeds",
+        "Presence of farming equipment (e.g., tractors, irrigation systems)",
+        "Rows of crops or plants",
+        "Clear pathways or tracks between rows of crops",
+        "Tilled or plowed soil"
+    ],
+    "field-wild": [
+        "presence of wildlife",
+        "absence of agricultural crops or manicured landscapes",
+        "natural colors (greens, browns, and other earth tones)",
+        "uneven, natural terrain",
+        "lack of human-made structures"
+    ],
+    "field_road": [
+        "Narrow path compared to paved roads",
+        "Often meanders or follows a natural path",
+        "Unpaved or dirt surface",
+        "Presence of tire tracks or wheel ruts",
+        "May have loose gravel or rocks"
+    ],
+    "fire_escape": [
+        "often attached to the exterior of a building",
+        "located on the sides or rear of buildings",
+        "ladders or stairs ",
+        "metal or steel structure",
+        "platforms or landings at each floor level"
+    ],
+    "fire_station": [
+        "presence of firefighters or firefighting equipment",
+        "sirens or emergency lights on the building",
+        "building architecture with wide door bays",
+        "fire trucks or emergency vehicles parked nearby",
+        "large, garage-style doors designed for fire trucks"
+    ],
+    "fishpond": [
+        "sometimes koi or goldfish if it's a decorative pond",
+        "visible fish swimming",
+        "body of water",
+        "pond liner or natural earth bottom",
+        "aquatic plants"
+    ],
+    "flea_market-indoor": [
+        "items displayed for sale, often on tables or racks",
+        "eclectic mix of goods such as clothing, antiques, collectibles, and crafts",
+        "shoppers browsing or negotiating with vendors",
+        "crowded space with numerous people",
+        "a busy and lively atmosphere"
+    ],
+    "florist_shop-indoor": [],
+    "food_court": [
+        "diverse cuisine options visible",
+        "often located in malls or large public spaces",
+        "communal dining area",
+        "a variety of food signs and menus",
+        "multiple food vendor stalls or counters"
+    ],
+    "football_field": [
+        "yard lines spaced at regular intervals",
+        "hash marks running down the center of the field",
+        "team benches or technical areas along the sidelines"
+    ],
+    "forest-broadleaf": [
+        "large, deciduous trees with wide leaves"
+    ],
+    "forest_path": [
+        "A narrow trail or walkway",
+        "Soil, dirt, or gravel surface",
+        "Curvature or winding pattern",
+        "Signs of human or animal footprints",
+        "Natural scenery, such as rocks, roots, or small streams"
+    ],
+    "forest_road": [
+        "often less formal or narrower compared to highways",
+        "varying road materials (dirt, gravel, paved)",
+        "sometimes with tire tracks or signs of vehicle traffic",
+        "can include bordering elements like grass, bushes, or underbrush",
+        "potential presence of leaves, twigs, and natural debris on the road"
+    ],
+    "formal_garden": [
+        "garden borders or walls",
+        "geometric shapes",
+        "topiaries or shaped shrubs",
+        "symmetrical design",
+        "gravel or paved pathways"
+    ],
+    "fountain": [
+        "sculptural or architectural structure",
+        "often found in public spaces or gardens",
+        "water pooling at the base",
+        "tiers or basins",
+        "central spout or multiple spouts"
+    ],
+    "galley": [
+        "low profile relative to the water",
+        "historical or ancient appearance, often depicted in maritime or historical contexts",
+        "a long, narrow ship",
+        "sometimes adorned with decorative carvings or shields",
+        "often features a raised stern and bow"
+    ],
+    "garage-indoor": [
+        "enclosed space",
+        "signs of automotive work (oil stains, tire tracks, car parts)",
+        "concrete or cement floor",
+        "artificial lighting (such as overhead lights or wall-mounted fixtures)",
+        "vehicles (cars, bicycles, motorcycles)"
+    ],
+    "garage-outdoor": [
+        "driveway leading up to the entrance",
+        "located adjacent to or separate from a house or building",
+        "large, often rectangular, door (usually a roll-up or tilt-up door)",
+        "smaller side door (sometimes present)",
+        "roof that matches or complements the main house"
+    ],
+    "gas_station": [
+        "vehicles parked near fuel pumps",
+        "large fuel tanks or underground fuel storage",
+        "air pump or vacuum stations",
+        "fuel pumps with nozzles and hoses",
+        "marked lanes for vehicle access and exit"
+    ],
+    "gazebo-exterior": [
+        "located in gardens, parks, or open spaces",
+        "roof, often with a pitched or domed design",
+        "often octagonal, hexagonal, or circular in shape",
+        "typically wooden, but can also be metal or other materials",
+        "freestanding, open-sided structure"
+    ],
+    "general_store-indoor": [
+        "a possibly crowded or busy appearance with customers",
+        "shelves or racks with a variety of products",
+        "fluorescent or other indoor lighting",
+        "a checkout counter or cash register",
+        "aisles separating different sections of the store"
+    ],
+    "general_store-outdoor": [
+        "storefront or building facade",
+        "an entrance door, sometimes with \"open\" signs or business hours displayed",
+        "a sidewalk or pavement area in front of the store",
+        "pedestrians or customers entering or exiting the store",
+        "merchandise racks or tables with items for sale outside the store"
+    ],
+    "gift_shop": [
+        "Product tags or price labels",
+        "Shelves or displays stocked with various items",
+        "Shoppers browsing or purchasing items",
+        "Gift wrapping materials or services",
+        "Promotional signs or banners"
+    ],
+    "glacier": [
+        "predominantly white or bluish color",
+        "can be surrounded by moraines (accumulated debris)",
+        "surrounding areas may have little vegetation",
+        "located in mountainous or polar regions",
+        "often shows crevasses or cracks"
+    ],
+    "golf_course": [
+        "golf clubs or golfers swinging clubs",
+        "meticulously maintained fairways and greens",
+        "water hazards, such as ponds or lakes",
+        "sand bunkers (sand traps) with rakes nearby",
+        "flagsticks with flags marking each hole"
+    ],
+    "greenhouse-indoor": [
+        "controlled environment (heating, ventilation, or irrigation systems)",
+        "shelves or staging areas for plant storage",
+        "various plants growing inside, often in pots or on tables",
+        "visible pathways or walkways between plant arrangements",
+        "natural light or supplementary artificial lighting fixtures"
+    ],
+    "greenhouse-outdoor": [
+        "ventilation systems, such as windows or vents",
+        "rectangular or dome-shaped design",
+        "may have a door or entryway for access",
+        "structure typically made of transparent or translucent materials like glass or plastic",
+        "situated in an outdoor setting with natural landscape elements around it"
+    ],
+    "grotto": [
+        "irregular and uneven surfaces",
+        "natural or artificial cave-like structure",
+        "often partially enclosed space",
+        "rock or stone formations",
+        "sometimes decorative elements like statues or religious icons"
+    ],
+    "gymnasium-indoor": [
+        "Wall padding for safety",
+        "Doors and windows typically around the perimeter",
+        "Hardwood or synthetic flooring",
+        "High ceilings"
+    ],
+    "hangar-indoor": [
+        "aircraft, helicopters, or other large vehicles parked inside",
+        "lighting fixtures on the ceiling or walls",
+        "high ceiling, typically with metal beams and supports",
+        "wide entrance doors, often large enough for aircraft or large vehicles",
+        "large, open indoor space"
+    ],
+    "hangar-outdoor": [
+        "sliding or bi-folding doors",
+        "metal or steel construction",
+        "nearby presence of aircraft, such as planes or helicopters",
+        "often located in an airport or airfield setting",
+        "large, open-ended structure"
+    ],
+    "harbor": [
+        "boats or ships moored or anchored",
+        "large body of water, often with calm waters",
+        "docks or piers extending into the water",
+        "marine traffic and activity, including loading and unloading cargo or passengers",
+        "breakwater or sea wall structures"
+    ],
+    "hardware_store": [
+        "aisles with items in packaging related to construction, home repair, or gardening",
+        "checkout counters often with smaller hardware items displayed around them",
+        "shelves stocked with tools and equipment",
+        "displays of items such as hammers, screwdrivers, and other hand tools",
+        "sections dedicated to different categories, such as plumbing, electrical, or paint supplies"
+    ],
+    "hayfield": [
+        "visible bales or stacks of hay (rectangular or cylindrical)",
+        "sparse or absent trees",
+        "expansive open field",
+        "farm equipment such as balers or tractors (optional)",
+        "covered in tall grass or hay"
+    ],
+    "heliport": [
+        "concrete or asphalt surface",
+        "flat, open area",
+        "large circular or square markings, often with an \"H\" in the center",
+        "presence of helicopters or helicopter-related signage",
+        "safety markings, such as boundary lines or warning signs"
+    ],
+    "highway": [
+        "barriers or guardrails",
+        "exit and entrance ramps",
+        "vehicles traveling at high speeds",
+        "long, paved road",
+        "painted lines (center lines, edge lines, lane dividers)"
+    ],
+    "home_office": [
+        "Desk or work surface",
+        "Bookshelves or storage units",
+        "Personal items or decor (e.g., photos, plants)",
+        "Office chair",
+        "Lighting (e.g., desk lamp, overhead light)"
+    ],
+    "home_theater": [
+        "a large, flat-screen television or projector screen",
+        "media players (e.g., DVD/Blu-ray player, streaming devices)",
+        "possibly decorative elements like soundproofing panels or dim lighting",
+        "multiple speakers arranged around the room (e.g., front, center, rear, and subwoofer)",
+        "remote controls or control panels"
+    ],
+    "hospital": [
+        "medical equipment such as wheelchairs or gurneys",
+        "large building or complex of buildings",
+        "patients and staff in medical uniforms or scrubs",
+        "medical signage (e.g., crosses, \"H\" symbol)",
+        "directional signs for various departments (e.g., Pediatrics, Radiology)"
+    ],
+    "hospital_room": [
+        "sterile environment with minimal clutter",
+        "white or light-colored walls",
+        "medical equipment (monitors, IV stands, etc.)",
+        "personal protective equipment (masks, gloves)",
+        "medical staff in uniforms (scrubs, lab coats)"
+    ],
+    "hot_spring": [
+        "Often located in geothermal areas such as volcanic regions",
+        "Minerals, often resulting in colorful water or deposits (white, brown, orange, or green)",
+        "Steam rising from the water or surface",
+        "Sometimes pools of varying sizes and shapes",
+        "Water may appear murky or clear"
+    ],
+    "hotel-outdoor": [
+        "Outdoor seating areas such as patios or cafes",
+        "Entrances with canopies or awnings",
+        "Architectural styles typical of hospitality buildings such as grand entrances or decorative facades",
+        "Outdoor swimming pool or recreational facilities",
+        "Balconies or terraces"
+    ],
+    "hotel_room": [
+        "bedside tables with lamps or alarm clocks",
+        "a bathroom area, often partially visible with a sink, mirror, or door to a bathroom",
+        "a bed or multiple beds with sheets, pillows, and blankets",
+        "artwork or decorative objects on walls",
+        "a television, usually mounted or on a stand"
+    ],
+    "house": [
+        "rectangular or square structure",
+        "multiple levels or stories (in some cases)",
+        "front yard or garden (optional)",
+        "exterior paint or cladding",
+        "a roof, often slanted or with shingles"
+    ],
+    "hunting_lodge-outdoor": [
+        "Surrounded by forest or natural scenery",
+        "Elevated porch or deck, sometimes with outdoor seating",
+        "Trails or paths leading to the lodge",
+        "Rustic cabin or structure, often made of wood or logs",
+        "Possibly situated near a lake, river, or open field"
+    ],
+    "ice_cream_parlor": [
+        "ice cream scoops and serving utensils",
+        "ice cream freezers or coolers",
+        "counter with a glass display case",
+        "display of ice cream tubs or scoops",
+        "menu boards listing flavors and options"
+    ],
+    "ice_floe": [
+        "can be broken into smaller pieces",
+        "typically found in polar or cold regions",
+        "usually white or light blue in color",
+        "may have visible cracks or ridges",
+        "may have snow or frost covering parts of it"
+    ],
+    "ice_shelf": [
+        "may have icebergs calving off the edges",
+        "situated along the coast, often extending from a glacier or ice sheet",
+        "typically found in polar regions (e.g., Antarctica, Greenland)",
+        "sometimes cracks or crevasses on the surface",
+        "often surrounded by open water or sea ice"
+    ],
+    "ice_skating_rink-indoor": [
+        "skaters or people wearing ice skates",
+        "white or light-colored flooring",
+        "goal nets (if used for hockey)",
+        "smooth ice surface",
+        "temperature control equipment in the facility"
+    ],
+    "ice_skating_rink-outdoor": [
+        "Cold-weather clothing on skaters (jackets, hats, gloves)",
+        "Skaters wearing ice skates",
+        "Open, flat expanse of ice",
+        "Often located in a park or open space",
+        "Sometimes a nearby seating area or benches"
+    ],
+    "iceberg": [
+        "nearby smaller ice fragments or floes",
+        "partially submerged in water",
+        "predominantly white or light blue color",
+        "visible texture differences between ice and water",
+        "surrounding body of water, often a polar or glacial setting"
+    ],
+    "igloo": [
+        "bright or white color from snow or ice use",
+        "a small, low entrance tunnel",
+        "often located in snowy or icy environments",
+        "made of blocks of snow or ice",
+        "dome-shaped structure"
+    ],
+    "industrial_area": [
+        "signs of pollution or industrial waste",
+        "fenced perimeters and security checkpoints",
+        "smokestacks or chimneys",
+        "heavy machinery and equipment",
+        "specialized vehicles like forklifts, cranes, or trucks"
+    ],
+    "inn-outdoor": [],
+    "islet": [
+        "no permanent architecture or structures",
+        "small landmass",
+        "often situated close to a larger landmass or within a body of water like a lake, river, or sea",
+        "possibly inhabited by birds or small animals",
+        "surrounded by water"
+    ],
+    "jacuzzi-indoor": [
+        "tiled or finished enclosure",
+        "large, often rectangular or oval-shaped tub",
+        "temperature control settings",
+        "cushioned headrests or built-in seating",
+        "spa-like environment with ambient lighting"
+    ],
+    "jail_cell": [
+        "Minimal decor, usually bare walls",
+        "Lack of personal items or adornments",
+        "Sometimes includes a small, narrow window with bars",
+        "Small, confined space",
+        "Enclosed within a larger facility, like a prison or detention center"
+    ],
+    "japanese_garden": [
+        "carefully placed trees and shrubs (often including cherry blossoms or maples)",
+        "stepping stones pathways",
+        "traditional landscaping elements",
+        "tea houses or pavilions",
+        "flowing water features, such as ponds and streams"
+    ],
+    "jewelry_shop": [
+        "Shiny or sparkling items such as rings, necklaces, bracelets, earrings",
+        "Organized displays of jewelry",
+        "Spot lighting highlighting the jewelry",
+        "Sophisticated interior design, often with mirrors and elegant decor",
+        "Display cases with glass tops"
+    ],
+    "junkyard": [
+        "Old, damaged, or wrecked vehicles",
+        "Randomly scattered items ",
+        "Dirt or gravel ground",
+        "Rusted and weathered objects",
+        "Signs of industrial or commercial equipment"
+    ],
+    "kasbah": [
+        "towers or bastions at corners",
+        "fortress or stronghold structure",
+        "thick, high walls",
+        "typically located in a mountainous or desert region",
+        "may have surrounding courtyards or gardens"
+    ],
+    "kennel-outdoor": [
+        "fenced area or wire mesh walls",
+        "a structure or enclosure designed for dogs",
+        "outdoor setting with grass, dirt, or gravel ground",
+        "dog house or shelter inside the enclosure",
+        "food and water bowls"
+    ],
+    "kindergarden_classroom": [
+        "Learning materials such as books, puzzles, and art supplies",
+        "Display boards or bulletin boards with children's artwork or educational posters",
+        "Brightly colored walls and decorations",
+        "A teacher's desk or area",
+        "Educational aids like counting blocks, maps, and shapes"
+    ],
+    "kitchen": [
+        "countertops",
+        "microwave",
+        "stove or cooktop",
+        "cabinets for storage",
+        "cooking appliances (e.g., toaster, blender)"
+    ],
+    "lagoon": [
+        "Presence of marine life, such as fish, birds, or crustaceans",
+        "Calm, often turquoise or greenish waters",
+        "Possible connection to a larger body of water, like an ocean or sea",
+        "Shallow depth",
+        "Body of water"
+    ],
+    "lake-natural": [
+        "aquatic life such as fish, birds, and possibly amphibians",
+        "body of freshwater",
+        "varying water depths",
+        "possible presence of reeds, lily pads, or other aquatic plants",
+        "absence of man-made structures (except possibly docks or small boats)"
+    ],
+    "landfill": [
+        "a variety of abandoned and discarded items",
+        "construction debris or rubbish",
+        "scattered plastic, paper, and cardboard",
+        "heaps or mounds of waste materials",
+        "a lack of vegetation or barren areas"
+    ],
+    "landing_deck": [
+        "Presence of helicopters, aircraft, or related equipment",
+        "Flat and expansive surface",
+        "Markings or symbols indicating landing zones",
+        "Lighting for night operations",
+        "Associated with control towers or control stations"
+    ],
+    "laundromat": [
+        "detergent dispensers or shelves with laundry supplies",
+        "a generally functional and utilitarian layout",
+        "multiple washing machines lined up",
+        "bright fluorescent or overhead lighting",
+        "multiple dryers lined up"
+    ],
+    "lawn": [
+        "possible presence of lawn furniture, garden tools, or decorative items",
+        "may include features like sprinklers or lawnmowers",
+        "evenly cut or maintained appearance",
+        "often bordered by gardens, walkways, or fences",
+        "absence of large shrubs or trees (although occasional trees may be present)"
+    ],
+    "lecture_room": [
+        "educational posters or signage",
+        "desks or tables for students",
+        "a podium or lecturer's desk at the front",
+        "a projector screen or mounted display screen",
+        "windows or artificial lighting"
+    ],
+    "legislative_chamber": [
+        "Microphones and lecterns",
+        "Voting boards or electronic panels",
+        "Ambient lighting suitable for large gatherings",
+        "Desks or benches for legislators",
+        "National, state, or local symbols (flags, emblems)"
+    ],
+    "library-indoor": [
+        "library staff or librarians",
+        "quiet, well-lit environment",
+        "signs or labels indicating different sections (e.g., fiction, non-fiction, reference)",
+        "bulletin boards or notice boards with community information",
+        "desks or stations for computer use"
+    ],
+    "library-outdoor": [
+        "Structure resembling a small building or box",
+        "Often features glass doors or windows",
+        "May have a bench or other seating nearby",
+        "Often situated on a post or pedestal",
+        "Books displayed or stored inside"
+    ],
+    "lighthouse": [
+        "sometimes features a keeper's house or outbuildings nearby",
+        "usually white or brightly painted (often striped)",
+        "often located on cliffs, shorelines, or piers",
+        "situated near coastlines or on islands/rocks",
+        "a light or lantern room at the top"
+    ],
+    "living_room": [
+        "a cozy and inviting atmosphere",
+        "windows with curtains or blinds",
+        "decorative items, such as lamps, pictures, or art pieces",
+        "a coffee table or side tables",
+        "rugs or carpets"
+    ],
+    "loading_dock": [
+        "large overhead doors or bays",
+        "ramp(s) for vehicle access",
+        "trucks or delivery vehicles nearby",
+        "industrial setting, often near warehouses or large buildings",
+        "elevated platform or area"
+    ],
+    "lobby": [
+        "decorative elements like plants, artwork, or lighting fixtures",
+        "reception desk or front desk",
+        "elevators or staircases",
+        "open and spacious area, often near the entrance of a building",
+        "flooring often made from tile, carpet, or marble"
+    ],
+    "lock_chamber (canal)": [
+        "Rectangular or elongated waterway structure",
+        "Water level differences on either side of the gates",
+        "Tall gates at either end",
+        "Guard rails or pathways along the sides for operators",
+        "Presence of boats or marine vessels inside the chamber"
+    ],
+    "locker_room": [
+        "sports equipment or gym bags",
+        "changing areas",
+        "metal or wooden lockers",
+        "benches or seating areas",
+        "hooks or shelves"
+    ],
+    "mansion": [
+        "additional buildings on property (e.g., guest house, pool house)",
+        "luxurious exterior materials (e.g., stone, brick)",
+        "multiple stories",
+        "extensive grounds or gardens",
+        "often a gated entrance or fence"
+    ],
+    "manufactured_home": [
+        "Stairs or small porch leading to the entrance",
+        "Rectangular or long, narrow structure",
+        "Skirting around the base to conceal the undercarriage",
+        "Windows along the sides",
+        "Pitched or flat roof with shingles"
+    ],
+    "market-indoor": [
+        "customers browsing or purchasing items",
+        "various types of merchandise (e.g., food, clothing, crafts)",
+        "aisles for walking between stalls",
+        "visibly labeled sections or signs",
+        "stalls or booths selling goods"
+    ],
+    "market-outdoor": [
+        "customers walking around or browsing",
+        "vendors selling goods",
+        "an open environment, often in a plaza or street",
+        "a variety of goods on display",
+        "multiple stalls or booths"
+    ],
+    "marsh": [
+        "wading birds or other wildlife associated with wetlands",
+        "muddy or water-saturated soil",
+        "standing or slow-moving water",
+        "sometimes visible small channels or pools of water",
+        "scattered trees or shrubs (less common than in swamps)"
+    ],
+    "martial_arts_gym": [
+        "Uniforms or gi (traditional martial arts attire)",
+        "People practicing martial arts techniques or sparring",
+        "Rings or cages (in some facilities)",
+        "Dummies or mannequins for striking practice",
+        "Mirrors on the walls"
+    ],
+    "mausoleum": [
+        "stone or marble structure",
+        "often found in a cemetery or memorial park",
+        "can include statues or relief sculptures",
+        "engraved inscriptions or epitaphs",
+        "may have a domed or peaked roof"
+    ],
+    "medina": [
+        "narrow, winding streets or alleys",
+        "old city walls or gates",
+        "bustling crowds or pedestrians",
+        "market stalls or shops",
+        "historical landmarks, such as mosques or fountains"
+    ],
+    "mezzanine": [
+        "Accessible via stairs or a ladder",
+        "An intermediate floor or platform within a building",
+        "Located between the ground floor and the ceiling",
+        "Open view over the lower level",
+        "Railings or barriers along the edge"
+    ],
+    "moat-water": [
+        "Bridges or drawbridges crossing over the water",
+        "Body of water surrounding a structure",
+        "Aquatic reflections of nearby structures",
+        "Proximity to castles, fortresses, or other fortified buildings",
+        "Defensive walls or barriers near the water"
+    ],
+    "mosque-outdoor": [
+        "Minaret(s), tall slender towers used for the call to prayer",
+        "Large courtyard or open space for gatherings",
+        "Dome(s) often topped with a crescent moon symbol",
+        "Gardens or surrounding green areas",
+        "Prayer hall indicated by a row of columns or an open hall setup"
+    ],
+    "motel": [
+        "large, visible signage, often with the word \"Motel\"",
+        "roadside location",
+        "exterior room entrances",
+        "simple, low-rise building structure",
+        "multiple rooms, often in a row"
+    ],
+    "mountain": [
+        "rugged and uneven terrain",
+        "varying vegetation levels, with sparse or no vegetation at higher altitudes",
+        "large, elevated landform",
+        "visible rock formations",
+        "valleys or passes between peaks"
+    ],
+    "mountain_path": [
+        "signs of wear from foot traffic, such as compacted soil or erosion",
+        "views of mountain peaks or ridges",
+        "elevated terrain or slopes",
+        "rocky or uneven surface",
+        "a narrow, winding trail"
+    ],
+    "mountain_snowy": [
+        "snow or ice patches on the ground",
+        "rugged, rocky terrain",
+        "often found in colder, alpine climates",
+        "peaks or summits covered in snow",
+        "elevated, high-altitude landscape"
+    ],
+    "movie_theater-indoor": [
+        "sometimes an audience watching the screen",
+        "projector or projection booth",
+        "sound system, including visible speakers",
+        "curtains or drapes around the screen",
+        "dim or dark lighting"
+    ],
+    "museum-indoor": [
+        "themed sections or rooms dedicated to specific topics",
+        "exhibition displays or artifacts",
+        "framed artwork or photography on walls",
+        "controlled lighting, often spotlighting displays",
+        "informational plaques or labels"
+    ],
+    "museum-outdoor": [
+        "Sculptures or statues displayed outside",
+        "Open spaces often integrated with historical architecture or modern design elements",
+        "Large-scale art structures or artifacts",
+        "Outdoor informational boards or stands",
+        "Landscaped areas with art installations"
+    ],
+    "music_studio": [
+        "Various musical instruments, such as guitars, keyboards, or drums",
+        "Headphones, often high-quality and over-ear",
+        "Multiple microphones, including one or more on stands",
+        "Soundproofed walls, sometimes with foam panels",
+        "Studio monitors (specialist speakers)"
+    ],
+    "natural_history_museum": [
+        "Educational sections with interactive displays",
+        "Often, a dedicated space for temporary or rotating exhibits",
+        "Exhibits of fossils, including dinosaur skeletons",
+        "Display cases with minerals, gemstones, and specimens",
+        "Models or replicas of ancient artifacts"
+    ],
+    "nursery": [
+        "playful or soothing decorations like wall decals or pictures",
+        "baby crib or cot",
+        "changing table",
+        "baby toys like stuffed animals, rattles, or mobiles",
+        "baby blankets and bedding"
+    ],
+    "nursing_home": [
+        "activity rooms or recreational spaces",
+        "common areas with seating arrangements for social gatherings or activities",
+        "people using mobility aids, such as wheelchairs or walkers",
+        "residential rooms with beds and personal items",
+        "medical equipment or caregivers present in the facility"
+    ],
+    "oast_house": [
+        "often set in rural or agricultural settings",
+        "often built from brick or timber",
+        "multiple kilns clustered together (in the case of larger oast houses)",
+        "distinctive pointed or cowled roofs (often with a weather-vane)",
+        "white, wooden cowls (ventilators) at the top of the kilns"
+    ],
+    "ocean": [
+        "coastal elements like beaches, cliffs, or rocks (if near shore)",
+        "marine life such as fish, birds, or seaweed (optional)",
+        "vast expanse of water",
+        "boats, ships, or buoys (optional)"
+    ],
+    "office": [
+        "cubicle partitions (if applicable)",
+        "organized and professional environment",
+        "desks or workstations",
+        "office supplies (e.g., pens, paper, staplers)",
+        "meeting tables or conference rooms"
+    ],
+    "office_building": [
+        "modern or corporate architectural style",
+        "surrounding infrastructure such as parking lots, walkways, or landscaping",
+        "multiple stories or floors",
+        "numerous windows, often in a regular grid pattern",
+        "a facade of glass, concrete, steel, or brick"
+    ],
+    "office_cubicles": [
+        "Personal items or decorations within individual cubicles",
+        "Desk areas within defined boundaries",
+        "Lower or mid-height walls separating each cubicle",
+        "Partitioned workspaces",
+        "Uniform or systematic arrangement of workspaces"
+    ],
+    "oilrig": [
+        "located in an offshore or remote area",
+        "cranes and hoists",
+        "multiple decks or platforms",
+        "helipad (in offshore rigs)",
+        "drilling equipment"
+    ],
+    "operating_room": [
+        "sterile environment",
+        "sterile drapes and coverings",
+        "overhead surgical lights",
+        "monitoring equipment with screens and devices displaying vital signs",
+        "surgical table with adjustable height"
+    ],
+    "orchard": [
+        "Organized and systematic layout",
+        "Irrigation systems such as sprinklers or drip lines",
+        "Rows of fruit-bearing trees or plants",
+        "Presence of protective measures like netting or fencing",
+        "Agricultural tools, machinery, or workers tending to the plants"
+    ],
+    "orchestra_pit": [
+        "musicians in formal attire",
+        "a lowered, sunken area in front of a stage",
+        "surrounding railing or barrier separating the pit from the audience"
+    ],
+    "pagoda": [
+        "multi-tiered structure",
+        "often found in East Asian countries (China, Japan, Korea, Vietnam)",
+        "usually associated with temples or religious sites",
+        "upturned eaves at the corners of each tier",
+        "traditionally made of wood, stone, or brick"
+    ],
+    "palace": [
+        "towers or turrets",
+        "statues, fountains, or other decorative elements",
+        "manicured gardens or courtyards",
+        "grand and elaborate architecture",
+        "expansive windows"
+    ],
+    "pantry": [
+        "storage space",
+        "stocked with food items",
+        "organized or cluttered appearance",
+        "shelves or cupboards",
+        "dry goods like pasta, rice, and cereals"
+    ],
+    "park": [
+        "recreational areas like sports fields or courts",
+        "walking paths or trails",
+        "people engaged in leisure activities (e.g., jogging, picnicking)",
+        "benches or seating areas",
+        "trees and shrubs"
+    ],
+    "parking_garage-indoor": [
+        "potentially low ceilings with marked height restrictions",
+        "parked cars and vehicles",
+        "surveillance cameras",
+        "marked parking spaces",
+        "painted directional signs and arrows"
+    ],
+    "parking_garage-outdoor": [
+        "potential presence of ticket machines or payment kiosks",
+        "multi-level structure or open lot designated for parking",
+        "barriers or railings",
+        "pedestrian pathways or sidewalks",
+        "visible parking spaces with lines or markings"
+    ],
+    "parking_lot": [
+        "an open paved area",
+        "potentially barriers or curbs",
+        "sometimes parking attendants or automated ticket systems",
+        "painted lines or markings designating parking spaces",
+        "parked cars or other vehicles"
+    ],
+    "pasture": [
+        "presence of livestock such as cows, sheep, or horses",
+        "absence of dense forest or urban structures",
+        "generally located in rural or agricultural settings",
+        "open expanse of land",
+        "fencing or boundary markers"
+    ],
+    "patio": [
+        "outdoor space",
+        "often adjacent to a house or building",
+        "seating furniture (chairs, benches, or loungers)",
+        "table(s)",
+        "lighting fixtures (outdoor lights or lanterns)"
+    ],
+    "pavilion": [
+        "can be made of wood, metal, or other materials",
+        "roof but no walls or partial walls",
+        "located in outdoor settings, such as parks or gardens",
+        "seating areas or built-in benches",
+        "open and airy structure"
+    ],
+    "pet_shop": [
+        "enclosures or habitats for pets like fish tanks, bird cages, or small animal habitats",
+        "various types of animals such as fish, birds, reptiles, or small mammals visible",
+        "shelves stocked with pet food, toys, and accessories",
+        "pet care posters or information displayed",
+        "pet grooming stations or services"
+    ],
+    "pharmacy": [
+        "small sections for personal care items or health products",
+        "security measures, like camera systems or locked cabinets for medications",
+        "presence of a pharmacist or staff in lab coats",
+        "shelves stocked with medications, both over-the-counter and prescription",
+        "shopping baskets and registers for purchasing items"
+    ],
+    "phone_booth": [
+        "Often painted in bright colors (e.g., red in the UK, blue in Japan)",
+        "Mounted public telephone inside the booth",
+        "Enclosed structure, often rectangular",
+        "Sometimes includes a small shelf or writing surface inside",
+        "Telephone receiver attached by a cord"
+    ],
+    "physics_laboratory": [
+        "Scientific equipment and instruments",
+        "Measurement tools like voltmeters, oscilloscopes, and digital scales",
+        "Posters or charts with scientific information",
+        "Safety equipment such as goggles, gloves, and lab coats",
+        "Cables and wires connected to various devices"
+    ],
+    "picnic_area": [
+        "Nearby recreational facilities like playgrounds or hiking trails",
+        "Barbecue grills or fire pits",
+        "Picnic tables or benches",
+        "Wooden or metal structures, such as shelters or gazebos",
+        "People sitting or eating outdoors"
+    ],
+    "pier": [
+        "boats or ships docked nearby",
+        "sometimes includes buildings or structures, such as small shops or shelters",
+        "wooden or concrete construction",
+        "long platform extending over water",
+        "fishermen or fishing equipment"
+    ],
+    "pizzeria": [
+        "ingredients like dough, toppings, and sauces visible",
+        "a casual dining atmosphere with possibly checkered tablecloths or wall art of pizzas",
+        "a counter or service area for ordering pizza",
+        "pizza-shaped decorations or thematic decor related to Italy or pizza",
+        "a menu board or table menus featuring pizza options"
+    ],
+    "playground": [
+        "soft ground coverings such as sand, wood chips, or rubber mats",
+        "structures like slides, swings, and climbing frames",
+        "children playing or using the equipment",
+        "an open, outdoor area",
+        "bright colors (often primary colors)"
+    ],
+    "playroom": [
+        "activity areas for crafts, reading, or playing",
+        "",
+        "posters or wall art suitable for children",
+        "items like books, stuffed animals, building blocks, or educational games",
+        "storage solutions such as shelves, bins, or toy chests"
+    ],
+    "plaza": [
+        "commercial or civic activity (shops, cafes, street vendors)",
+        "people walking, sitting, or gathering",
+        "surrounding buildings or structures",
+        "central open areas for events or gatherings",
+        "open public space"
+    ],
+    "pond": [
+        "often situated in a garden, park, or natural landscape",
+        "aquatic animals like ducks, fish, or insects",
+        "absence of strong currents or waves",
+        "relatively small size compared to lakes",
+        "body of still water"
+    ],
+    "porch": [
+        "Raised platform or deck",
+        "Wooden or concrete flooring",
+        "Decorative elements like plants, lights, or rugs",
+        "Structure attached to a house or building",
+        "Furniture such as chairs, benches, or tables"
+    ],
+    "promenade": [
+        "Typically located along a waterfront, park, or urban area",
+        "Pedestrians strolling or engaging in leisure activities",
+        "Railings or barriers along the edges, especially near water",
+        "Wide walkway or path",
+        "Paved or well-maintained surface"
+    ],
+    "pub-indoor": [
+        "patrons enjoying drinks and socializing",
+        "bartenders or staff behind the bar",
+        "dim lighting"
+    ],
+    "racecourse": [
+        "finish line",
+        "starting gates or starting line",
+        "marked lanes or barriers",
+        "crowd of spectators (in event scenarios)",
+        "presence of jockeys, horses, or racing vehicles (depending on the type of racecourse)"
+    ],
+    "raceway": [
+        "vehicles like cars, motorcycles, or bicycles (depending on the type of raceway)",
+        "an elongated track or circuit",
+        "traffic cones or corner markers",
+        "marked with lines or barriers",
+        "distinct lanes or paths"
+    ],
+    "raft": [
+        "typically inflatable or made of buoyant materials",
+        "lightweight and portable appearance",
+        "sometimes includes seating areas or tow rings",
+        "rectangular or oval shape",
+        "used on water bodies such as rivers, lakes, or seas"
+    ],
+    "railroad_track": [
+        "occasional switches or points where tracks diverge or converge",
+        "gravel or ballast spread around the tracks for stability",
+        "sometimes adjacent platforms, stations, or trains",
+        "parallel steel rails",
+        "wooden or concrete ties (also called sleepers) that maintain the gauge of the track"
+    ],
+    "rainforest": [
+        "Abundant wildlife such as birds, insects, and possibly larger animals",
+        "Presence of water bodies like rivers or streams",
+        "A high density of various plant species",
+        "High humidity and often mist or fog",
+        "Dense, lush vegetation"
+    ],
+    "reception": [
+        "a buffet or food service area",
+        "raised platform or podium for speeches or announcements",
+        "a bar or drink station",
+        "a sign or area indicating guests' arrival/check-in",
+        "seating arrangements, like chairs or couches"
+    ],
+    "recreation_room": [
+        "leisure and entertainment-focused decor",
+        "gaming tables (e.g., pool table, ping pong table, foosball table)",
+        "bar or snack area",
+        "recreational equipment (e.g., darts board, arcade machines)",
+        "shelves or storage with board games or video games"
+    ],
+    "repair_shop": [
+        "diagnostic machines or equipment",
+        "mechanic or technician working on repairs",
+        "parts and components for repair",
+        "potential clutter or organized storage layout",
+        "repaired or disassembled items like electronics, appliances, or vehicles"
+    ],
+    "residential_neighborhood": [
+        "multiple residential buildings, often with varied architectural styles",
+        "sidewalks or pathways",
+        "front yards or gardens",
+        "parked cars in driveways or along the street",
+        "fences or hedges separating properties"
+    ],
+    "restaurant": [
+        "interior decoration that may include pictures, plants, or thematic d\u00e9cor",
+        "a building or space with seating arrangements",
+        "food or beverages being served or consumed",
+        "lighting that ranges from ambient to focused, often aimed at creating a specific atmosphere",
+        "staff members, such as waiters or chefs, in uniform"
+    ],
+    "restaurant_kitchen": [
+        "chefs and kitchen staff in uniform (e.g., aprons, hats)",
+        "industrial cooking equipment (e.g., large ovens, stoves, grills)",
+        "commercial dishwashers",
+        "restaurant-sized cookware and bakeware",
+        "commercial sinks"
+    ],
+    "restaurant_patio": [
+        "patrons dining or socializing",
+        "outdoor seating area",
+        "serving staff attending to tables",
+        "umbrellas or awnings for shade",
+        "proximity to a building or restaurant entrance"
+    ],
+    "rice_paddy": [
+        "farmers working in the fields (optional)",
+        "waterlogged soil",
+        "bunds or levees separating sections of the field",
+        "rural or agricultural landscape",
+        "presence of irrigation channels"
+    ],
+    "river": [
+        "clearer or muddier water depending on location and season",
+        "possible wildlife like fish or waterfowl",
+        "water surface that may reflect light",
+        "potential presence of bridges or boats",
+        "varying width and depth"
+    ],
+    "rock_arch": [
+        "varying colors depending on the type of rock (often reddish, brown, or sandy hues)",
+        "sometimes with a backdrop of the sky visible through the arch",
+        "surrounding landscape, which might include desert or mountainous terrain",
+        "open space beneath the arch",
+        "the presence of erosion or wind-sculpted formations"
+    ],
+    "roof_garden": [
+        "pathways or walkways",
+        "parapets or railings for safety",
+        "decking or ground covering materials",
+        "irrigation systems",
+        "possible presence of solar panels or other rooftop installations"
+    ],
+    "rope_bridge": [
+        "a narrow footpath",
+        "wooden or metal planks forming the walkway",
+        "ropes or cables supporting the structure",
+        "often sways or has a slightly uneven appearance",
+        "handrails made of ropes or cables"
+    ],
+    "ruin": [
+        "Historical or ancient architectural styles",
+        "Crumbling or deteriorated structures",
+        "Broken or missing walls",
+        "Arches or columns that are partially intact",
+        "Rubble or debris scattered around"
+    ],
+    "runway": [
+        "aircraft taxiing or taking off/landing",
+        "clear zones or safety areas at the beginning and end of the runway",
+        "side and centerline markings",
+        "approach lighting system",
+        "surrounding airport infrastructure (hangars, control towers)"
+    ],
+    "sandbox": [
+        "Typically found in playgrounds, backyards, or parks",
+        "Presence of toys such as shovels, buckets, or molds",
+        "Often made of wood, plastic, or metal",
+        "Low, raised edges or walls",
+        "May have seating ledges or benches along the edges"
+    ],
+    "sauna": [
+        "Soft, ambient lighting, often recessed or behind wooden slats",
+        "Walls, ceiling, and floor designed to withstand high heat and humidity",
+        "Wooden interior, typically using materials like cedar or spruce",
+        "A heat source, such as a sauna stove or heater",
+        "Thermometer and hygrometer on the wall"
+    ],
+    "schoolhouse": [
+        "students or children in the vicinity, particularly during school hours",
+        "a playground or sports field nearby",
+        "a bell tower or cupola, particularly in older or historic buildings",
+        "distinctive architecture often associated with educational buildings",
+        "flagpole, often with a national flag"
+    ],
+    "science_museum": [
+        "Educational displays featuring scientific topics",
+        "People, especially groups of children, engaging with exhibits",
+        "Interactive exhibits, such as touchscreens or hands-on activity stations",
+        "Science-related imagery, such as planets, molecules, or dinosaurs",
+        "Exhibits or displays visible through windows or outside"
+    ],
+    "server_room": [
+        "sometimes uninterruptible power supply (UPS) units or backup batteries",
+        "cooling systems, such as air conditioning units or fans",
+        "raised floors or specialized flooring for cable management",
+        "typically dim lighting",
+        "numerous blinking LED lights on server units"
+    ],
+    "shed": [
+        "commonly found in backyards, gardens, or near houses",
+        "typically made of wood, metal, or plastic",
+        "used for storage of tools, garden equipment, or other outdoor items",
+        "small, standalone structure",
+        "one or more doors, often simple and functional"
+    ],
+    "shoe_shop": [
+        "a variety of shoe styles, sizes, and colors",
+        "numerous pairs of shoes displayed",
+        "sales associates or staff assisting customers",
+        "price tags or labels on shoes",
+        "a sales counter or checkout area"
+    ],
+    "shopfront": [
+        "a door or entrance for customers",
+        "potential presence of customers or passersby",
+        "a sign with the shop's name and logo",
+        "awnings or canopies above the windows or door",
+        "a sidewalk or path leading up to the entrance "
+    ],
+    "shopping_mall-indoor": [
+        "wide walkways or corridors",
+        "food courts or dining areas",
+        "tiled or carpeted floors",
+        "artificial lighting",
+        "multiple retail stores"
+    ],
+    "shower": [
+        "enclosed space (e.g., glass doors, curtain, or tiled walls)",
+        "sometimes visible soap dish, shelf, or caddy",
+        "tiled or waterproof walls and floor",
+        "shower arm or pipe",
+        "vertical water outlet"
+    ],
+    "ski_resort": [
+        "apres-ski facilities such as cafes, bars, or hot tubs",
+        "ski lodges or chalets",
+        "outdoor fire pits or seating areas",
+        "ski school or training areas with instructors",
+        "clusters of rental equipment like skis and snowboards"
+    ],
+    "ski_slope": [
+        "skiers or snowboarders wearing winter gear",
+        "steep or gently sloping terrain",
+        "safety nets or barriers in certain areas",
+        "snow-covered ground",
+        "poles with trail markers"
+    ],
+    "sky": [
+        "expanse or open area often above the horizon",
+        "varying colors (blue, grey, orange, red, pink, etc.)",
+        "natural or weather phenomena (rainbows, lightning, etc.)"
+    ],
+    "skyscraper": [
+        "can have multiple entrances and lobbies",
+        "typically found in urban environments",
+        "other smaller buildings around it for scale",
+        "a distinctive architectural design or silhouette",
+        "very tall, multi-story building"
+    ],
+    "slum": [
+        "limited or absent utilities (like electricity or clean water)",
+        "narrow, winding pathways",
+        "poorly constructed buildings or shanties",
+        "signs of poverty, such as worn-out clothing and dilapidated structures",
+        "visible lack of infrastructure"
+    ],
+    "snowfield": [
+        "cold, wintry environment",
+        "uniformly flat or gently undulating surface",
+        "absence or minimal presence of vegetation",
+        "clear sky or overcast with clouds often associated with snowy landscapes",
+        "potential presence of snow tracks or imprints"
+    ],
+    "soccer_field": [
+        "large, grassy area (often grass or artificial turf)",
+        "rectangular shape",
+        "white boundary lines",
+        "center circle",
+        "penalty areas"
+    ],
+    "stable": [
+        "stalls or divided spaces, each typically designed to hold one animal",
+        "a building or structure specifically designed for housing animals, typically horses",
+        "windows or ventilation openings",
+        "visible tack and equipment, such as saddles, bridles, and grooming tools",
+        "feed and water troughs or buckets"
+    ],
+    "stadium-baseball": [
+        "dugouts for teams",
+        "foul lines that extend from home plate to the outfield",
+        "seating areas or bleachers",
+        "scoreboards",
+        "a pitcher's mound"
+    ],
+    "stadium-football": [
+        "team players in uniform",
+        "coaches and referees on the sidelines",
+        "cheerleaders or mascots (optional)",
+        "a marked grass or artificial turf field",
+        "sideline markers or yard lines"
+    ],
+    "stadium-soccer": [
+        "a grass or artificial turf field with marked boundaries",
+        "player benches or dugouts near the field",
+        "a score display or scoreboard",
+        "seating areas or stands surrounding the playing field",
+        "goals with nets at each end of the field"
+    ],
+    "stage-indoor": [
+        "stage lighting (spotlights, floodlights)",
+        "curtains or backdrop",
+        "stage flooring, often with specific markings or design patterns",
+        "sound equipment (microphones, speakers)",
+        "musical instruments or stands (if for a concert)"
+    ],
+    "stage-outdoor": [
+        "sound equipment (e.g., microphones, speakers)",
+        "lighting equipment (e.g., spotlights, stage lights)",
+        "stage entrances/exits",
+        "open-air setting",
+        "performance area (e.g., designated space for performers)"
+    ],
+    "staircase": [
+        "handrails or banisters on one or both sides",
+        "landings at the top or bottom or between sections",
+        "often situated against a wall or in a stairwell",
+        "series of steps",
+        "ascending or descending pattern"
+    ],
+    "storage_room": [
+        "limited or efficient use of space",
+        "storage furniture like cabinets or bins",
+        "shelves or racks filled with items",
+        "various types of stored goods (e.g., tools, household items, office supplies)",
+        "occasional clutter or disorganization"
+    ],
+    "street": [
+        "sidewalks or pedestrian pathways",
+        "road markings such as lane dividers, crosswalks, or arrows",
+        "vehicles such as cars, buses, or bicycles",
+        "intersections or junctions",
+        "buildings or structures lining the street"
+    ],
+    "subway_station-platform": [
+        "Advertisements on walls or in designated spaces",
+        "Platform edge or safety lines",
+        "Passengers waiting or moving about",
+        "Safety features like CCTV cameras and emergency communication systems",
+        "Ticket machines or turnstiles"
+    ],
+    "supermarket": [
+        "sections or departments for different types of products (produce, dairy, meat, etc.)",
+        "wide aisles with shelves stocked with various goods",
+        "display of price tags and promotional signs",
+        "presence of customers and staff\u8d2d\u7269\u8005\u548c\u5de5\u4f5c\u4eba\u5458\u5728\u5185\u7684presence",
+        "checkout counters with cash registers "
+    ],
+    "sushi_bar": [
+        "bar seating in front of the sushi preparation area",
+        "soy sauce, wasabi, and pickled ginger on tables",
+        "chopsticks and small dipping dishes for soy sauce",
+        "bamboo or wooden decor elements",
+        "sake bottles and other Japanese beverages"
+    ],
+    "swamp": [
+        "trees or shrubs growing in or near the water",
+        "presence of wildlife such as birds, amphibians, or insects",
+        "still or slow-moving water",
+        "dark, damp environment",
+        "waterlogged ground"
+    ],
+    "swimming_hole": [
+        "May include a diving area, rope swing, or natural ledges",
+        "Presence of in-water plants, fish, or other aquatic life",
+        "People swimming, playing, or relaxing near the water",
+        "Clear or slightly murky water suitable for swimming",
+        "Natural or man-made body of water"
+    ],
+    "swimming_pool-indoor": [
+        "Enclosed space, typically within a building",
+        "Overhead lighting or large windows",
+        "Presence of tiled flooring and pool walls",
+        "Absence of natural outdoor elements like trees or grass",
+        "Ventilation systems or air ducts"
+    ],
+    "swimming_pool-outdoor": [
+        "possible presence of people swimming or lounging",
+        "rectangular, circular, or uniquely shaped structure",
+        "poolside umbrellas or shades",
+        "surrounding deck or patio",
+        "pool chairs or loungers"
+    ],
+    "synagogue-outdoor": [
+        "Star of David (six-pointed star) symbols",
+        "Large, often arched entrances",
+        "Stained glass windows with Jewish symbols or motifs",
+        "Outdoor prayer or gathering spaces with religious artifacts",
+        "A prominent, often domed or distinct architectural feature"
+    ],
+    "television_room": [
+        "In some rooms, a fireplace might be present",
+        "Decorative elements like framed photos, paintings, or posters",
+        "Accompanying furniture like coffee tables, end tables, or shelves",
+        "Entertainment center or TV stand",
+        "A large, rectangular screen (television) mounted on a wall or placed on a stand"
+    ],
+    "television_studio": [
+        "Backdrops or sets, which may include furniture and decorative elements",
+        "Microphones, either handheld, boom, or lapel",
+        "Production crew members like camera operators, sound technicians, and directors",
+        "Studio lights hanging from the ceiling or on stands",
+        "Teleprompters mounted near the cameras"
+    ],
+    "temple-asia": [
+        "Religious symbols (e.g., lotus, wheel of Dharma, etc.)",
+        "Presence of religious statues (Buddhas, deities, or guardians)",
+        "Traditional architecture (e.g., pagodas, multi-tiered roofs, stupas)",
+        "Use of materials such as wood, stone, and sometimes gold",
+        "Incense burners or altars"
+    ],
+    "throne_room": [
+        "Red carpet or pathway leading to the throne",
+        "Opulent and grand decor",
+        "Rich or luxurious drapery and fabrics",
+        "Royal symbols or insignia, such as coat of arms or crowns",
+        "Guard presence or statues in armor"
+    ],
+    "ticket_booth": [
+        "sometimes equipped with a roof or canopy",
+        "small, enclosed structure or kiosk",
+        "signage displaying prices, events, or services",
+        "may have barriers or ropes to organize lines",
+        "tickets or receipts being issued or handled"
+    ],
+    "topiary_garden": [
+        "Shapes often include animals, geometric forms, or abstract designs",
+        "Focal points such as fountains, statues, or other garden ornaments",
+        "Plants or shrubs trimmed into specific shapes",
+        "Borders or hedges delineating different sections of the garden",
+        "Symmetrical and formal layout"
+    ],
+    "tower": [
+        "may have distinctive features like spires or flagpoles",
+        "tall and vertical structure",
+        "may have a tapered design (wider at the base, narrower at the top)",
+        "varying architectural styles depending on purpose (e.g., communication tower, clock tower, watchtower)",
+        "often stands alone or is a prominent part of a skyline"
+    ],
+    "toyshop": [
+        "themed decorations, often related to the products being sold",
+        "a variety of toy categories (e.g., dolls, action figures, puzzles)",
+        "play areas with sample toys or demonstration setups",
+        "checkout counters with small, easily accessible toys and trinkets",
+        "colorful and often vibrant displays"
+    ],
+    "train_interior": [
+        "varying seat configurations (e.g., facing forward, facing each other)",
+        "possibly visible passengers",
+        "narrow aisles",
+        "windows along the sides",
+        "rows of seats or benches"
+    ],
+    "train_station-platform": [
+        "overhead wires or electric lines (if applicable)",
+        "safety markings or yellow lines along the edge",
+        "raised surface compared to the tracks",
+        "shelter or canopy for passengers",
+        "flat, elongated area alongside railroad tracks"
+    ],
+    "tree_farm": [
+        "a variety of tree species, often of uniform size and age within each section",
+        "presence of fences or boundaries enclosing the area",
+        "visible pathways or access roads",
+        "tools and equipment for planting and maintenance, such as tractors or irrigation systems",
+        "signs or markers indicating different sections or types of trees"
+    ],
+    "tree_house": [
+        "Ladder, stairs, or rope leading up to the entrance",
+        "Platform or deck extending from the main structure",
+        "Roof, often slanted or flat",
+        "Wooden or other construction materials",
+        "Railings or barriers on platforms"
+    ],
+    "trench": [
+        "may contain construction or excavation equipment nearby",
+        "typically found in the ground or earth",
+        "possible presence of water or mud at the bottom",
+        "elongated, narrow depression or ditch",
+        "may have steep sides"
+    ],
+    "tundra": [
+        "Treeless landscape",
+        "Visible patches of bare earth or rock",
+        "Permafrost or frozen ground visible in some areas",
+        "Vast, open, and flat areas",
+        "Generally cold and barren appearance"
+    ],
+    "underwater-ocean_deep": [
+        "Absence or scarcity of plants",
+        "High pressure-resistant organisms",
+        "Limited or dim light",
+        "Lack of visible landmarks like coral reefs or sunken objects near the surface",
+        "Sediment or fine particulate matter suspended in water"
+    ],
+    "utility_room": [
+        "laundry appliances (e.g., washing machine, dryer)",
+        "cabinets or storage units",
+        "generally functional and organized layout",
+        "water heater or furnace",
+        "ironing board"
+    ],
+    "valley": [
+        "U-shaped or V-shaped terrain",
+        "lush vegetation or forests (depending on the climate)",
+        "low-lying land area",
+        "expansive, wide view of the landscape",
+        "often with a river or stream running through it"
+    ],
+    "vegetable_garden": [
+        "patches or rows of soil",
+        "garden structures (e.g., raised beds, trellises)",
+        "garden tools (e.g., hoes, rakes, watering cans)",
+        "various types of vegetables (e.g., tomatoes, carrots, lettuce)",
+        "protective measures (e.g., fences, netting)"
+    ],
+    "veterinarians_office": [
+        "presence of animals (e.g., dogs, cats) being examined or in waiting areas",
+        "pet-friendly decor (e.g., paw prints, animal toys)",
+        "pet-specific equipment (e.g., stethoscopes, syringes, scales)"
+    ],
+    "viaduct": [
+        "series of arches or spans",
+        "extends over a valley, road, river, or other geographical feature",
+        "often part of a railway or roadway system",
+        "supporting piers or columns",
+        "typically made of concrete, steel, or stone"
+    ],
+    "village": [
+        "often includes a mixture of residential, agricultural, and communal structures",
+        "lack of tall skyscrapers, typically more open space compared to urban settings",
+        "sometimes features a church, school, or other community buildings",
+        "presence of a central communal area, such as a square or common",
+        "clusters of small buildings or houses"
+    ],
+    "vineyard": [
+        "lush green foliage during the growing season or dormant, woody vines in winter",
+        "clusters of grapes growing on the vines (depending on the season)",
+        "presence of protective netting or bird deterrents",
+        "trellises or support structures for the vines",
+        "surrounding agricultural or rural environment (buildings, farm equipment, etc.)"
+    ],
+    "volcano": [
+        "Fumaroles or gas emissions",
+        "Crater at the summit",
+        "Magma flow or hardened lava streams",
+        "Absence of vegetation near the summit due to recent activity",
+        "Conical or dome-shaped mountain"
+    ],
+    "volleyball_court-outdoor": [
+        "players in athletic attire (optional)",
+        "sand, grass, or hard court surface",
+        "volleyball present on or near the court",
+        "often includes a surrounding area for players and spectators",
+        "net in the center, suspended between two poles"
+    ],
+    "waiting_room": [
+        "a calm and organized layout, often with a clean and professional appearance",
+        "seating arrangements, such as chairs or sofas",
+        "a reception desk or counter ",
+        "a coffee table or side tables",
+        "informational posters or signage "
+    ],
+    "water_park": [
+        "People in swimwear enjoying the attractions",
+        "Large swimming pools",
+        "Lifeguard stations and life vests",
+        "Wave pools or lazy rivers",
+        "Floating tubes and inflatable devices"
+    ],
+    "water_tower": [
+        "usually situated in open areas or near power lines and infrastructure",
+        "often painted, sometimes with logos or town names",
+        "cylindrical or spherical tank shape",
+        "tall structure",
+        "large, elevated tank or reservoir"
+    ],
+    "waterfall": [
+        "Possible vegetation around the area",
+        "Flowing water descending vertically or steeply",
+        "Repeated water droplets or mist at the base",
+        "Natural setting, often in forests or mountainous regions",
+        "Pool or body of water at the base"
+    ],
+    "watering_hole": [
+        "Natural surroundings, often with vegetation like grass, trees, or shrubs",
+        "Muddy or wet areas near the edges of the water",
+        "A body of water such as a pond, lake, or small pool",
+        "Animals gathered around the water, such as wildlife or livestock",
+        "Absence of man-made structures or urban elements"
+    ],
+    "wave": [
+        "crest (the top of the wave)",
+        "surface of the water appears choppy or undulating",
+        "trough (the bottom or lowest part of the wave)",
+        "background of water body (ocean, sea, lake)",
+        "white foam or froth at the crest or breaking point"
+    ],
+    "wet_bar": [
+        "storage cabinets or shelves",
+        "countertop or bar surface",
+        "a small refrigerator or wine cooler",
+        "decorative elements like lighting, mirrors, or signage",
+        "bar stools or seating area"
+    ],
+    "wheat_field": [
+        "often seen swaying with the wind",
+        "heads of wheat with grain kernels",
+        "clear skies or agricultural structures in the background",
+        "greenish hue if the wheat is immature",
+        "rows or clusters of tall stalks"
+    ],
+    "wind_farm": [
+        "Open landscape, often in fields, plains, or offshore areas",
+        "Long, slender blades attached to each turbine",
+        "Minimal surrounding vegetation or structures",
+        "Multiple tall turbines",
+        "The turbines' towers are usually white or light grey"
+    ],
+    "windmill": [
+        "can be traditional (with wooden or brick structures) or modern (with sleek, metallic designs)",
+        "may have surrounding buildings or infrastructure (for older windmills, such as mill houses)",
+        "often set in open, windy areas",
+        "tall, often tower-like structure",
+        "mounted on a base or platform"
+    ],
+    "yard": [
+        "Patio or deck areas",
+        "Pathways or walkways",
+        "Garden ornaments or decorations (e.g., birdbaths, statues)",
+        "Trees or shrubs",
+        "Presence of outdoor equipment such as a lawnmower or gardening tools"
+    ],
+    "youth_hostel": [
+        "Shared dormitory-style rooms or bunk beds",
+        "Simple and often vibrant or welcoming interior decor",
+        "Lockers or storage areas for personal belongings",
+        "Shared bathrooms or communal washrooms",
+        "Common areas or lounges with seating arrangements"
+    ],
+    "zen_garden": [
+        "meticulously raked sand or gravel",
+        "minimalistic and uncluttered design",
+        "arranged rocks or stones",
+        "moss-covered ground or stones",
+        "tranquil and serene ambiance"
+    ]
+}

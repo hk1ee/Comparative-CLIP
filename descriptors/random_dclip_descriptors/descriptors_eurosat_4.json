@@ -1,0 +1,72 @@
+{
+    "annual crop land": [
+        "rows or grids of plants",
+        "possibly farm equipment or irrigation systems",
+        "cultivated plots of land",
+        "visible soil between rows",
+        "uniformity in the type of vegetation being grown"
+    ],
+    "forest": [
+        "natural elements like soil, rocks, and fallen leaves",
+        "dense collection of trees",
+        "varying shades of green leaves or foliage",
+        "presence of underbrush or ground vegetation",
+        "pattern of light and shadow due to the canopy above"
+    ],
+    "brushland or shrubland": [
+        "often situated in arid or semi-arid regions",
+        "sparse or scattered distribution of shrubs or small trees",
+        "",
+        "dry, rocky, or sandy soil",
+        "limited or irregular patches of taller plants"
+    ],
+    "highway or road": [
+        "lane markings, such as white or yellow lines",
+        "guardrails or barriers",
+        "curbs or gutters",
+        "visible routes or mile markers",
+        "streetlights or overhead lighting"
+    ],
+    "industrial buildings or commercial buildings": [
+        "HVAC systems or other industrial equipment visible on the roof",
+        "multiple levels or floors",
+        "smokestacks or silos (indicative of an industrial facility)",
+        "exterior lighting or security cameras",
+        "parking lots with numerous vehicles"
+    ],
+    "pasture land": [
+        "Presence of grazing animals such as cows, sheep, or horses",
+        "Often divided by hedgerows, ditches, or other natural boundaries",
+        "Rolling or flat terrain",
+        "Sometimes includes a barn or a shelter for animals",
+        "Bright and airy, often with clear skies"
+    ],
+    "permanent crop land": [
+        "signs of agricultural activity such as machinery or workers",
+        "presence of structures like trellises or supports",
+        "irrigation systems or equipment",
+        "mature trees or perennial plants",
+        "rows or patterns of planted crops"
+    ],
+    "residential buildings or homes or apartments": [
+        "doors",
+        "chimneys",
+        "windows",
+        "multiple floors for apartments or multi-level homes",
+        "walls with siding, brick, or other exterior finishes"
+    ],
+    "river": [
+        "Meandering or winding path through the landscape",
+        "Various shades of blue, green, or brown",
+        "Sometimes animals or people interacting with the water",
+        "Possibly bridges or boats",
+        "Flowing body of water"
+    ],
+    "lake or sea": [
+        "reflections of the sky or surrounding landscape",
+        "waves or ripples on the surface",
+        "shoreline or coast",
+        "varying shades of blue or green",
+        "large body of water"
+    ]
+}

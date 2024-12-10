@@ -1,0 +1,480 @@
+{
+    "A300": [],
+    "A310": [
+        "Dual-aisle passenger cabin",
+        "Distinctive cockpit windows",
+        "Wide-body aircraft",
+        "Shorter fuselage in comparison to similar aircraft like the A300",
+        "Winglets or wingtip devices (in some models)"
+    ],
+    "A320": [
+        "Two engines mounted under the wings",
+        "A single vertical stabilizer (tail fin) with the Airbus logo or airline livery",
+        "A relatively short and wide fuselage",
+        "Retractable landing gear with main gear consisting of two sets of wheels each and a nose gear with dual wheels",
+        "Four cabin doors on each side (two forward, two aft)"
+    ],
+    "A330": [
+        "large, wide-body twin-engine jet airliner",
+        "usually displays airline livery and registration number on the fuselage",
+        "distinctive winglets at the tips of the wings",
+        "a slightly curved nose",
+        "tricycle landing gear configuration"
+    ],
+    "A340": [
+        "\u201cAirbus A340\u201d marking or logo near the front",
+        "two sets of landing gear on the wings and a set on the fuselage",
+        "widebody aircraft",
+        "long fuselage",
+        "typically large, rounded nose"
+    ],
+    "A380": [
+        "four engines mounted under the wings",
+        "large commercial aircraft",
+        "multiple sets of landing gear wheels",
+        "distinctive hump-backed fuselage",
+        "large wings with winglets"
+    ],
+    "ATR-42": [
+        "twin-engine turboprop aircraft",
+        "small passenger windows along the side",
+        "T-tail configuration",
+        "typically white or silver with airline livery",
+        "high-wing design"
+    ],
+    "ATR-72": [
+        "Distinctive circular windows along the fuselage",
+        "T-tail design",
+        "Twin-engine setup with propellers",
+        "Typically white or with airline-specific livery",
+        "Retractable landing gear"
+    ],
+    "An-12": [
+        "Short, blunted nose compared to some other aircraft types",
+        "Retractable tricycle landing gear",
+        "Square or rectangular windows along the fuselage",
+        "High wing configuration",
+        "Often painted in military or cargo airline livery"
+    ],
+    "BAE 146": [
+        "Swept wings with moderate dihedral angle",
+        "Bulging fuselage just above and behind the cockpit area",
+        "Distinctive, short fuselage with a pronounced curve towards the rear",
+        "A pronounced, rounded nosecone",
+        "High, T-tail (tailplane mounted atop the vertical stabilizer)"
+    ],
+    "BAE-125": [
+        "midsize business jet",
+        "rounded fuselage",
+        "multiple windows along the fuselage",
+        "twin engines mounted on the rear fuselage",
+        "pointed nose"
+    ],
+    "Beechcraft 1900": [
+        "three-blade or four-blade propellers",
+        "low-wing design",
+        "landing gear which may be extended or retracted",
+        "twin-engine turboprop aircraft",
+        "typically white with blue, red, or other accent stripes"
+    ],
+    "Boeing 707": [
+        "multiple cabin windows running along the sides of the fuselage",
+        "four turbofan engines, typically mounted under the wings",
+        "retractable landing gear with multiple wheels",
+        "airline livery or logo often visible on the fuselage and tail",
+        "a distinct nose with a slightly pointed or rounded shape"
+    ],
+    "Boeing 717": [
+        "relatively small landing gear compared to larger Boeing aircraft",
+        "T-tail configuration (horizontal stabilizer mounted at the top of the vertical stabilizer)",
+        "twin-engine jet aircraft",
+        "engines mounted at the rear of the fuselage",
+        "relatively short fuselage"
+    ],
+    "Boeing 727": [
+        "large, swept-back wings",
+        "one engine at the base of the vertical stabilizer (tail)",
+        "narrow-body aircraft",
+        "retractable landing gear",
+        "trijet design, with three engines"
+    ],
+    "Boeing 737": [
+        "engines located under the wings",
+        "landing gear with wheels that retract into the fuselage and wings",
+        "noticeable horizontal stabilizers and vertical fin at the tail",
+        "generally short to medium length compared to larger aircraft like the Boeing 747",
+        "distinctive nose shape with a relatively blunt tip"
+    ],
+    "Boeing 747": [
+        "four jet engines mounted on the wings",
+        "large wingspan with a slight upward curve",
+        "multiple sets of landing gear",
+        "tall vertical stabilizer (tail fin)",
+        "distinctive cockpit windows "
+    ],
+    "Boeing 757": [
+        "tall, swept-back vertical stabilizer (tail fin)",
+        "high windows relative to the nose",
+        "narrow-body fuselage",
+        "two turbofan engines mounted under the wings",
+        "distinctive pointed nose"
+    ],
+    "Boeing 767": [
+        "recognizable airline livery or logos",
+        "twin-engine jet airliner",
+        "typically a T-tail configuration",
+        "two large turbofan engines mounted under the wings",
+        "a pair of swept-back wings"
+    ],
+    "Boeing 777": [
+        "a T-tail with horizontal stabilizers",
+        "two turbofan engines under each wing",
+        "large, rounded cockpit windows",
+        "long cylindrical fuselage",
+        "large, twin-engine jet airliner"
+    ],
+    "C-130": [
+        "landing gear with multiple wheels",
+        "high, straight wings",
+        "ramp door at the rear",
+        "a wide, boxy fuselage",
+        "T-tail (horizontal stabilizers on top of the vertical stabilizer)"
+    ],
+    "C-47": [
+        "long, cylindrical fuselage",
+        "distinctive nose shape",
+        "high wing placement",
+        "retractable landing gear",
+        "twin-engine military transport aircraft"
+    ],
+    "CRJ-200": [
+        "Forward-slanted cockpit windows",
+        "Landing gear with single wheels on each strut",
+        "Narrow fuselage with seating for up to 50 passengers",
+        "Low-wing configuration",
+        "Prominent winglets on the tips of the wings"
+    ],
+    "CRJ-700": [
+        "elongated fuselage with seating for approximately 70 passengers",
+        "T-tail configuration",
+        "tail fin marked with airline livery or branding",
+        "windows positioned along the length of the fuselage",
+        "swept-back wings with upward-angled winglets at the tips"
+    ],
+    "Cessna 172": [
+        "small, single-engine aircraft",
+        "high-wing design",
+        "straight or slightly tapered wings",
+        "often white with distinctive stripes or markings",
+        "tricycle landing gear with a nose wheel"
+    ],
+    "Cessna 208": [
+        "single-engine turboprop aircraft",
+        "rectangular windows along the fuselage",
+        "fixed tricycle landing gear",
+        "often used for cargo or passenger transport, sometimes with visible cargo pod under the fuselage",
+        "tapered wings with wing struts"
+    ],
+    "Cessna Citation": [
+        "multiple windows along the fuselage",
+        "smooth, sleek fuselage shape",
+        "low-wing design",
+        "engine nacelles mounted on the rear fuselage",
+        "swept-back wings"
+    ],
+    "Challenger 600": [
+        "retractable landing gear",
+        "typically white with colored stripes or decals",
+        "winglets on the tips of the wings",
+        "two turbofan engines mounted on the rear fuselage",
+        "large, circular windows"
+    ],
+    "DC-10": [
+        "Circular windows along the fuselage",
+        "Three turbofan engines (one on each wing, and one at the base of the vertical stabilizer at the rear)",
+        "Slightly swept wings",
+        "Large, rounded fuselage",
+        "Wide-body aircraft"
+    ],
+    "DC-3": [
+        "three-blade propellers",
+        "low-wing monoplane design",
+        "distinctive tailwheel undercarriage",
+        "tapered wings with rounded tips",
+        "twin-engine propeller aircraft"
+    ],
+    "DC-6": [
+        "retractable landing gear",
+        "often a slightly curved, \"vintage\" appearance associated with mid-20th-century airliners",
+        "typically a tricycle landing gear configuration with a nose wheel",
+        "multiple cockpit windows",
+        "round nose"
+    ],
+    "DC-8": [
+        "swept-back wings",
+        "T-tail design",
+        "traditional cockpit windows with a downward slant",
+        "multiple small windows along the fuselage",
+        "two or more sets of triple landing gear wheels"
+    ],
+    "DC-9": [
+        "narrow-body aircraft",
+        "a nose landing gear and two main landing gear",
+        "typically a length ranging from around 104 to 152 feet, depending on the variant",
+        "distinctive number and arrangement of passenger windows depending on model and airline livery",
+        "two rear-mounted jet engines"
+    ],
+    "DH-82": [
+        "open cockpit (often with a front and rear seat)",
+        "distinctive elliptical shape of the vertical stabilizer and rudder",
+        "fabric-covered airframe",
+        "prominent cabane struts (vertical supports connecting the two wings)",
+        "radial engine with visible engine exhaust pipes"
+    ],
+    "DHC-1": [
+        "metal airframe construction",
+        "single-engine",
+        "low-wing configuration",
+        "empennage with vertical and horizontal stabilizers",
+        "tandem seating (one seat behind the other)"
+    ],
+    "DHC-6": [
+        "rounded nose",
+        "fixed tricycle landing gear",
+        "typically white with red, blue or other color accents",
+        "distinctive large windows along the fuselage",
+        "propellers on each engine mounted on the wings"
+    ],
+    "DR-400": [],
+    "Dash 8": [
+        "elongated, narrow fuselage",
+        "large, rounded wingtips",
+        "high-mounted wings",
+        "passenger windows along the sides",
+        "twin-engine turboprop aircraft"
+    ],
+    "Dornier 328": [
+        "multiple passenger windows along the fuselage",
+        "short fuselage",
+        "an aircraft with a distinctively rounded nose ",
+        "twin-engine turboprop aircraft",
+        "two turboprop engines mounted under the wings"
+    ],
+    "EMB-120": [
+        "distinctive propellers on each engine",
+        "windows along the passenger cabin",
+        "sleek, elongated fuselage",
+        "low-wing design",
+        "two sets of propeller blades (typically four-bladed)"
+    ],
+    "Embraer E-Jet": [
+        "highly swept wings",
+        "passenger windows aligned in rows along the fuselage",
+        "engines mounted under the wings",
+        "T-tail or conventional tail design",
+        "twin-engine jet aircraft"
+    ],
+    "Embraer ERJ 145": [
+        "elongated fuselage with a slender appearance",
+        "tall, slender vertical stabilizer (tail fin)",
+        "engines mounted at the rear of the fuselage",
+        "cockpit with a relatively pointed nose",
+        "T-tail configuration"
+    ],
+    "Embraer Legacy 600": [
+        "Ailerons, elevators, and fuselage with a smooth, aerodynamic finish",
+        "Three windows near the cockpit on each side",
+        "Large, twin-engine business jet",
+        "Swept wings",
+        "T-tail design"
+    ],
+    "Eurofighter Typhoon": [
+        "typically grey or camouflaged paint scheme",
+        "cockpit canopy with a single-piece, bubble design",
+        "nose-mounted air intake",
+        "two vertical stabilizers (tail fins)",
+        "pointed nose cone"
+    ],
+    "F-16": [
+        "array of missiles or bombs mounted on wing pylons or underbelly",
+        "retractable landing gear",
+        "bubble canopy cockpit",
+        "delta wing design",
+        "single-engine jet fighter"
+    ],
+    "F/A-18": [
+        "twin-engine jet",
+        "often marked with military insignia or camouflage patterns",
+        "twin vertical stabilizers (tail fins) that are angled outward",
+        "landing gear with wheels",
+        "rectangular air intakes on either side of the fuselage"
+    ],
+    "Falcon 2000": [
+        "tricycle landing gear with the main gear located under the wings and a nose wheel",
+        "sleek, aerodynamic fuselage",
+        "multiple cabin windows along the length of the fuselage",
+        "twin-engine business jet",
+        "two rear-mounted turbofan engines"
+    ],
+    "Falcon 900": [
+        "Cabin windows arranged in a row along the fuselage",
+        "T-tail design",
+        "Dassault Falcon branding or logo (sometimes visible on the aircraft)",
+        "Trijet configuration (three engines mounted on the rear fuselage)",
+        "Winglets at the tips of the wings"
+    ],
+    "Fokker 100": [
+        "twin-engined regional jet aircraft",
+        "retractable landing gear",
+        "narrow-body design",
+        "relatively short and somewhat cylindrical fuselage",
+        "distinctive cockpit windows shape"
+    ],
+    "Fokker 50": [
+        "airline livery or markings (if in commercial use)",
+        "t-shaped tail",
+        "high-wing design",
+        "twin-engine turboprop aircraft",
+        "elongated fuselage"
+    ],
+    "Fokker 70": [
+        "relatively short fuselage compared to larger commercial jets",
+        "cockpit with two or more windows/protruding windshield",
+        "twin-engine regional jet",
+        "single-aisle cabin terrain",
+        "distinctive Fokker logo or airline branding on the body and tail"
+    ],
+    "Global Express": [
+        "identifiable Bombardier logo or markings on the tail or fuselage",
+        "multiple round windows along the fuselage",
+        "T-tail configuration",
+        "two rear-mounted jet engines",
+        "sleek, elongated fuselage"
+    ],
+    "Gulfstream": [
+        "multiple windows usually in a horizontal line along the side of the fuselage",
+        "two jet engines mounted on the rear of the fuselage near the tail",
+        "often painted in executive or corporate color schemes",
+        "distinctive T-tail with a horizontal stabilizer mounted atop a vertical fin",
+        "sleek, elongated fuselage"
+    ],
+    "Hawk T1": [
+        "tandem seating arrangement (pilot and co-pilot or instructor seated one behind the other)",
+        "distinctive tail fin and horizontal stabilizers",
+        "underwing pylons for carrying weapons or fuel tanks",
+        "often painted in military or training squadron colors, sometimes with insignia or roundels",
+        "fixed-wing aircraft"
+    ],
+    "Il-76": [
+        "Landing gear with multiple wheels, typically three main landing gear legs and a nose gear",
+        "Presence of large auxiliary fuel tanks under the wings (in some versions)",
+        "Bulky, rectangular fuselage",
+        "Large, four-engine jet aircraft",
+        "T-tail configuration with a high-set horizontal stabilizer"
+    ],
+    "King Air": [
+        "T-tail or conventional tail configuration",
+        "angled wingtips and possibly winglets",
+        "multiple round windows along the fuselage",
+        "retractable tricycle landing gear",
+        "distinctive propeller blades on each engine"
+    ],
+    "L-1011": [
+        "winglets at the tips of the wings (in some cases)",
+        "wide-body commercial jet airliner",
+        "two main landing gears with multiple wheels and one nose gear",
+        "T-tail configuration (horizontal stabilizer mounted at the top of the vertical stabilizer)",
+        "distinctive S-duct intake for the engine at the base of the vertical stabilizer"
+    ],
+    "MD-11": [
+        "large and distinctive cockpit windows",
+        "winglets at the tips of the wings (upward-pointing tips)",
+        "T-tail design (horizontal stabilizer mounted high on the vertical stabilizer)",
+        "multiple passenger windows along the fuselage (if configured as a passenger aircraft) or cargo doors (if configured as a freighter)",
+        "trijet configuration (three engines: one under each wing and one at the base of the vertical stabilizer)"
+    ],
+    "MD-80": [
+        "distinctive nose shape, somewhat pointed",
+        "engines mounted at the rear of the fuselage",
+        "low-mounted wings with slight rearward sweep",
+        "twin-engine, narrow-body jet airliner",
+        "a single aisle inside (narrow-body configuration)"
+    ],
+    "MD-90": [
+        "A somewhat elongated fuselage compared to its predecessors in the MD-80 series",
+        "Typical airline livery and registration markings",
+        "T-tail empennage (tail assembly)",
+        "Single-aisle, narrow-body aircraft",
+        "Horizontal stabilizers mounted high on the vertical stabilizer (tail fin)"
+    ],
+    "Metroliner": [
+        "coupled train cars forming a cohesive unit",
+        "streamlined, aerodynamic body design",
+        "large, front-facing headlight",
+        "distinctive Amtrak branding and logos (often featuring red, white, and blue colors)",
+        "stainless steel or painted exterior"
+    ],
+    "PA-28": [
+        "Tricycle landing gear (one nose wheel and two main wheels)",
+        "Distinctive rounded, vertical stabilizer (tail fin) with a curved top",
+        "Rectangular windows along the fuselage",
+        "Often white with colored stripes running along the sides",
+        "Wingtip fuel tanks or streamlined wingtips"
+    ],
+    "SR-20": [
+        "3-blade propeller",
+        "composite airframe",
+        "typically painted white with colorful stripes or accents",
+        "cabin door on the right side",
+        "side yoke controls for the pilot"
+    ],
+    "Saab 2000": [
+        "cockpit windows with distinctive shape",
+        "twin-engine turboprop aircraft",
+        "T-tail configuration (horizontal stabilizer mounted at the top of the vertical stabilizer)",
+        "prominent engine nacelles mounted on the wings",
+        "retractable tricycle landing gear"
+    ],
+    "Saab 340": [
+        "two Pratt & Whitney turboprop engines",
+        "twin-engine turboprop aircraft",
+        "distinctive saucer-shaped engine nacelles",
+        "airline livery or identification marks",
+        "nose landing gear and twin main landing gear"
+    ],
+    "Spitfire": [
+        "camouflaged paint scheme, often green and brown",
+        "large underwing radiators on later models",
+        "retractable landing gear",
+        "sleek, aerodynamic fuselage",
+        "distinctive front air intake or radiator scoop under the nose"
+    ],
+    "Tornado": [
+        "may be surrounded by a large, dark, and rotating wall cloud",
+        "debris cloud at the base where it touches the ground",
+        "often appears dark or gray",
+        "rotating, funnel-shaped cloud",
+        "associated with severe weather conditions, such as heavy rain, hail, or lightning"
+    ],
+    "Tu-134": [
+        "swept wings",
+        "landing gear with prominent wheel wells",
+        "T-tail configuration",
+        "distinctive rounded nose",
+        "windows arranged in a straight line along the fuselage"
+    ],
+    "Tu-154": [
+        "swept-back wings",
+        "distinctive wing dihedral (upward angle)",
+        "often seen with landing gear that retracts into the wings and fuselage",
+        "three-engine jet airliner",
+        "T-tail configuration"
+    ],
+    "Yak-42": [
+        "Swept-back wings with winglets",
+        "T-tail design with horizontal stabilizers mounted at the top of the tail fin",
+        "The aircraft's distinctive \"bulbous\" nose and cockpit windows",
+        "Trijet configuration with three engines: two mounted on the rear of the fuselage and one at the base of the tail",
+        "Yakovlev logo or distinctive airline livery on the tail or body of the aircraft"
+    ]
+}

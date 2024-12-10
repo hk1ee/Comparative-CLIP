@@ -1,0 +1,698 @@
+{
+    "pink primrose": [
+        "five petals per flower",
+        "oval or slightly elongated green leaves",
+        "vibrant pink petals",
+        "yellow or white center",
+        "low-growing, rosette-like plant structure"
+    ],
+    "hard-leaved pocket orchid": [
+        "thick, leathery leaves",
+        "slender or somewhat wiry stem",
+        "leaves arranged in a rosette formation",
+        "flowers have a prominent lip (labellum) that may be pocket-like or sac-like",
+        "small to medium-sized terrestrial orchid"
+    ],
+    "canterbury bells": [
+        "tall, slender stems",
+        "clustered blooms along a central stem",
+        "five-petaled flowers with a wide, open shape",
+        "bell-shaped flowers",
+        "green, lance-shaped leaves"
+    ],
+    "sweet pea": [
+        "tendrils for climbing",
+        "often fragrant blossoms",
+        "pod-like fruits containing seeds",
+        "green, slender stems",
+        "oval leaves"
+    ],
+    "english marigold": [
+        "Bright, orange or yellow flowers",
+        "A central disc floret, which may be a deeper orange or yellow",
+        "Multiple layers of petals",
+        "Often grows in clusters or groups",
+        "Daisy-like flower heads"
+    ],
+    "tiger lily": [
+        "six elongated, recurved petals",
+        "black or dark spots on the petals",
+        "trumpet-like flower shape",
+        "bright orange color",
+        "lance-shaped leaves arranged alternately on the stem"
+    ],
+    "moon orchid": [
+        "a central labellum (lip) sometimes with yellow or red markings",
+        "bilateral symmetry (flower has a mirror image)",
+        "white or pale-colored petals",
+        "visible roots typically seen in epiphytic growth conditions",
+        "a cluster of flowers on a single stem"
+    ],
+    "bird of paradise": [
+        "some species may have unique structures such as shields, fans, or wire-like feathers",
+        "long tail feathers or ornamental plumes",
+        "distinctive and extravagant courtship displays",
+        "vibrant and iridescent plumage",
+        "elaborate and often elongated feathers"
+    ],
+    "monkshood": [
+        "Clusters of showy flowers, typically spiking up",
+        "Deeply lobed leaves",
+        "Blue, purple, or occasionally white flowers",
+        "Helmet-shaped upper petal (like a monk's hood)",
+        "Stems that can be hairy or smooth"
+    ],
+    "globe thistle": [
+        "spherical flower head",
+        "green, deeply lobed leaves",
+        "multiple flower clusters on a single stem",
+        "tall, erect stem",
+        "spiky, blue or purple flowers"
+    ],
+    "snapdragon": [
+        "range of flower colors including pink, red, yellow, white, and purple",
+        "lance-shaped green leaves",
+        "vertically growing stem",
+        "typically found in garden settings or wildflower meadows",
+        "flowers with a dragon-like \"mouth\" that can be opened and closed"
+    ],
+    "colt's foot": [],
+    "king protea": [
+        "white or creamy inner petals",
+        "symmetrical, circular arrangement of petals",
+        "found in a bush or shrub setting",
+        "large, striking flower head",
+        "central dome-shaped cluster of small flowers"
+    ],
+    "spear thistle": [
+        "purple or pink flower heads",
+        "typically grows in clusters",
+        "sharp spines along stems and leaves",
+        "deeply lobed leaves with a grey-green hue",
+        "flower buds surrounded by spiny bracts"
+    ],
+    "yellow iris": [
+        "Typically found in garden settings or near water sources like ponds or wetlands",
+        "Upright flower with six petals (three large, three smaller, often drooping)",
+        "Bright yellow petals",
+        "Long, slender green stems",
+        "Sword-shaped leaves"
+    ],
+    "globe-flower": [
+        "round, globe-shaped flowers",
+        "often found in wet meadows or near water sources",
+        "green, deeply divided leaves",
+        "vibrant yellow, orange, or sometimes white petals",
+        "emerged from slender stalks"
+    ],
+    "purple coneflower": [
+        "a flowering head that stands upright",
+        "leaves that are lance-shaped, rough, and slightly serrated",
+        "often found in small clusters or as solitary flowers on tall stems",
+        "petals that often droop downwards",
+        "a prominent, cone-shaped central disc (often orange or brown)"
+    ],
+    "peruvian lily": [
+        "delicate, symmetrical appearance",
+        "narrow, lance-shaped leaves",
+        "vibrant colors such as pink, purple, white, yellow, red, or orange",
+        "clusters of flowers on a single stem",
+        "long, slender stems"
+    ],
+    "balloon flower": [
+        "Multiple flowers on a single stem",
+        "Thrives in clusters or as individual stalks",
+        "Blue, purple, white, or pink coloration",
+        "Oval, pointed leaves with a serrated edge",
+        "Herbaceous plant with a green stem"
+    ],
+    "giant white arum lily": [
+        "elegant, symmetrical shape",
+        "often associated with a water or marshy habitat",
+        "pure white petals",
+        "prominent central yellow spadix (spike)",
+        "large, trumpet-shaped flower"
+    ],
+    "fire lily": [
+        "Petals are curved backward, appearing as if they are pointed",
+        "Long, slender green stems",
+        "Typically seen in clusters or groups",
+        "Central stalk with multiple blooms",
+        "Bright red or orange flowers"
+    ],
+    "pincushion flower": [
+        "generally small to medium in size",
+        "bright, colorful petals (commonly shades of purple, pink, blue, or white)",
+        "often found with multiple flowers per plant",
+        "numerous, thin stamens protruding from the center",
+        "rounded, pincushion-like flower head"
+    ],
+    "fritillary": [
+        "proboscis for feeding on nectar or other fluids",
+        "bell-shaped flowers",
+        "checkered or spotted underwings",
+        "long antennae, often with clubs at the tips",
+        "lance-shaped or linear leaves"
+    ],
+    "red ginger": [
+        "tropical appearance",
+        "grows in clusters or as single, prominent stalks",
+        "green, lance-shaped leaves",
+        "vibrant red bracts (flower-like structures) arranged in a conical shape",
+        "glossy and waxy texture on leaves and bracts"
+    ],
+    "grape hyacinth": [
+        "Small, grape-like appearance of the flower clusters",
+        "Deep blue or purple color",
+        "Stands around 6 to 12 inches tall",
+        "Clustered, bell-shaped flowers",
+        "Grows in a spiky cluster on a single stem"
+    ],
+    "corn poppy": [
+        "slender, green stems",
+        "delicate, papery texture of the petals",
+        "feathery, deeply lobed leaves",
+        "typically grows in clusters",
+        "bright red petals, sometimes with a black spot at the base"
+    ],
+    "prince of wales feathers": [
+        "Sometimes associated with a heraldic shield or crest",
+        "Usually tied together with a coronet (a small crown)",
+        "Plume of three ostrich feathers",
+        "Feathers are white in color",
+        "Elegant and symmetrical arrangement of the feathers"
+    ],
+    "stemless gentian": [
+        "green, lanceolate (spear-shaped) leaves in a rosette at the base",
+        "often found in rocky or grassy habitats",
+        "vivid blue, trumpet-shaped flowers",
+        "radial symmetry with five petals",
+        "short growth, typically close to the ground"
+    ],
+    "artichoke": [
+        "Globular or oval shape",
+        "A dense, fibrous center (if the artichoke is cut open, this is the choke)",
+        "Green or purple color",
+        "Sometimes has a slight, natural sheen on the bracts",
+        "Pointed tips on the bracts"
+    ],
+    "sweet william": [
+        "Small, colorful flowers",
+        "Sturdy, green stems",
+        "Usually grows in bunches or clumps",
+        "Long, narrow green leaves",
+        "Clustered flower heads"
+    ],
+    "carnation": [
+        "slender green stems",
+        "typically clusters of flowers can be seen in bouquets or arrangements",
+        "multiple layers of petals, often forming a rosette shape",
+        "narrow, elongated leaves",
+        "brightly-colored petals (commonly pink, white, red, or yellow)"
+    ],
+    "garden phlox": [
+        "slender, elongated green leaves",
+        "flowers can be pink, white, red, purple, or blue",
+        "found in garden settings or as part of floral arrangements",
+        "tall stems",
+        "flowers often have a central eye of a contrasting color"
+    ],
+    "love in the mist": [
+        "pale blue, white, pink, or purple petals",
+        "central cluster of stamens and pistils",
+        "prominent, puffy green or black seed pods",
+        "star-shaped flowers",
+        "finely divided, thread-like leaves"
+    ],
+    "mexican aster": [
+        "Brightly colored petals, typically pink, purple, or white",
+        "Feathery, fern-like leaves",
+        "Often found in garden settings or wildflower meadows",
+        "Long, slender stems",
+        "Multiple blooms on a single plant"
+    ],
+    "alpine sea holly": [
+        "Serrated or deeply lobed, dark green leaves",
+        "Star-shaped bracts (modified leaves) surrounding the flower heads",
+        "Erect, branching stems",
+        "Compact, rosette-shaped foliage at the base",
+        "Distinctive spiky, silvery-blue or metallic blue flower heads"
+    ],
+    "ruby-lipped cattleya": [
+        "Large, showy blooms",
+        "Orchid flower",
+        "Pseudobulbs (swollen stem structures)",
+        "Prominent, vibrant lip (labellum) that is ruby-red or deep magenta in color",
+        "Thick, fleshy leaves"
+    ],
+    "cape flower": [],
+    "great masterwort": [
+        "stems often tall and slender",
+        "compound flower heads (umbels)",
+        "typically has a central, reddish or pinkish flush at the crown of the umbel",
+        "bracts (leaf-like structures) surrounding the flower heads, often with a papery texture",
+        "herbaceous perennial plant"
+    ],
+    "siam tulip": [
+        "The bracts are typically arranged in a conical or cylindrical cluster",
+        "Upright flower spike",
+        "Green, elongated leaves",
+        "Showy bracts that are usually pink, purple, or white",
+        "Small true flowers that emerge from between the bracts"
+    ],
+    "lenten rose": [
+        "flowers come in a variety of colors: white, pink, purple, or green",
+        "leaves divided into several leaflets (typically 7-9)",
+        "deep green, glossy foliage",
+        "central cluster of prominent yellow stamens",
+        "nodding or downward-facing flower orientation"
+    ],
+    "barbeton daisy": [
+        "central disc florets (typically yellow or greenish)",
+        "often seen in clusters",
+        "large, daisy-like flowers",
+        "bright, vibrant colors (red, pink, orange, yellow, white)",
+        "long, slender stems"
+    ],
+    "daffodil": [
+        "trumpet-shaped central corona (often in a contrasting color like orange)",
+        "long, slender green stem",
+        "upward-facing flower",
+        "strap-like, narrow green leaves",
+        "bright yellow or white petals"
+    ],
+    "sword lily": [
+        "Multiple funnel-shaped flowers arranged along a single spike",
+        "Flowers bloom in succession from the bottom to the top of the spike",
+        "Flower colors can vary widely, including pink, purple, red, white, yellow, and orange",
+        "Flowers typically have six petals",
+        "Tall, upright stem"
+    ],
+    "poinsettia": [
+        "typically potted or arranged decoratively, especially around the holiday season",
+        "bright red, pink, or white bracts (leaf-like structures)",
+        "pointed, elliptical leaves",
+        "small yellow or green flowers in the center of the bracts ",
+        "a bushy, shrubby appearance "
+    ],
+    "bolero deep blue": [],
+    "wallflower": [
+        "slender stems",
+        "colorful flowers, typically yellow, orange, red, or purple",
+        "often found growing in cracks or crevices of walls or rocky surfaces",
+        "compact and bushy appearance",
+        "herbaceous plant"
+    ],
+    "marigold": [
+        "flower heads composed of multiple layered petals",
+        "often seen in clusters or garden beds",
+        "rounded or slightly cupped petals",
+        "green, pinnate leaves with serrated edges",
+        "bright yellow, orange, or red-orange blooms"
+    ],
+    "buttercup": [
+        "typically found in clusters in meadows or grassy areas",
+        "slender green stems",
+        "glossy or shiny appearance of petals",
+        "five rounded petals",
+        "green, deeply lobed leaves"
+    ],
+    "oxeye daisy": [
+        "long, slender green stem",
+        "yellow central disk (composite flower head)",
+        "herbaceous plant",
+        "leaves are narrow and sometimes lobed",
+        "typically grows in clusters or bunches"
+    ],
+    "common dandelion": [
+        "spherical seed heads (white and fluffy when mature)",
+        "often found in grassy areas and lawns",
+        "hollow and unbranched stems",
+        "taproot system",
+        "size may vary, but typically ranges from a few centimeters to over a foot tall"
+    ],
+    "petunia": [
+        "five fused petals forming a single corolla tube",
+        "a range of colors including purple, pink, white, red, and sometimes bi-colored",
+        "trailing or slightly bushy growth habit",
+        "colorful, trumpet-shaped flowers",
+        "multiple flowers often grouped together"
+    ],
+    "wild pansy": [
+        "A distinct dark \"face-like\" marking in the center",
+        "Flowers usually less than an inch wide",
+        "Green, oval, or lance-shaped leaves",
+        "Heart-shaped petals with overlapping arrangements",
+        "Low-growing, branching stems"
+    ],
+    "primula": [
+        "low-growing plant, often forming a compact mound",
+        "prominent, usually yellow center (throat) of the flowers",
+        "clusters or rosettes of blossoms",
+        "bright green, oval or elongated leaves with a slightly wrinkled texture",
+        "colorful flowers, often in shades of yellow, pink, purple, red, blue, or white"
+    ],
+    "sunflower": [
+        "dark brown or black central disc (flower center)",
+        "tall, green stem",
+        "large, circular flower head",
+        "commonly seen in fields or gardens",
+        "typically facing towards the direction of sunlight"
+    ],
+    "pelargonium": [
+        "rounded or kidney-shaped leaves",
+        "colorful flowers (commonly red, pink, white, or purple)",
+        "clusters of small flowers",
+        "leaves often with scalloped edges",
+        "distinct patterns or zonal markings on leaves (in some varieties)"
+    ],
+    "bishop of llandaff": [
+        "a crosier (a ceremonial staff)",
+        "a mitre (a ceremonial headdress)",
+        "typically present in an ecclesiastical setting like a church",
+        "may have a badge or emblem signifying their position within the diocese of Llandaff",
+        "a person in religious attire"
+    ],
+    "gaura": [
+        "herbaceous perennials or annuals",
+        "whorled, lance-shaped leaves",
+        "long, slender stems",
+        "blooms arranged in elongated clusters",
+        "narrow, upright growth habit "
+    ],
+    "geranium": [
+        "radial symmetry in flowers with five petals per bloom",
+        "stems can be green or slightly woody",
+        "clusters of flowers usually held above the foliage",
+        "flowering plant",
+        "leaves may have a distinctively pungent scent when crushed"
+    ],
+    "orange dahlia": [
+        "often found in garden settings or arranged in floral displays",
+        "green stem",
+        "pinnate, serrated green leaves",
+        "central disk with small florets",
+        "layered or multi-petal structure"
+    ],
+    "pink-yellow dahlia": [
+        "a large, round flower head",
+        "multiple layers of petals",
+        "symmetrical petal arrangement",
+        "central cluster of small disk florets, usually yellow or orange",
+        "petals that are pink at the tips and transition to yellow near the center"
+    ],
+    "cautleya spicata": [
+        "Herbaceous plant",
+        "Typically found in shaded, moist conditions",
+        "Lance-shaped leaves",
+        "Bright red to deep orange bracts",
+        "Green, elongated foliage"
+    ],
+    "japanese anemone": [
+        "Central cluster of yellow stamens",
+        "Tendency to grow in clusters or large patches",
+        "Buds and flowers often appear above the foliage on tall, thin stems",
+        "Large, rounded or slightly lobed leaves with serrated edges",
+        "Flowers with five to six petal-like sepals (commonly pink, white, or lavender)"
+    ],
+    "black-eyed susan": [
+        "bright yellow or orange petals",
+        "daisy-like appearance",
+        "typically grows in clusters",
+        "alternate, coarse-textured leaves",
+        "green, hairy stems"
+    ],
+    "silverbush": [
+        "small to medium-sized shrub",
+        "flowers often with a yellow center",
+        "white or very pale purple flowers",
+        "leaves covered with fine, silvery hairs",
+        "flowers usually five-petaled"
+    ],
+    "californian poppy": [
+        "fern-like, finely divided bluish-green leaves",
+        "prominent central stamen cluster",
+        "slender, green stems",
+        "growing close to the ground, usually up to about 1 foot tall",
+        "bright orange or yellow flowers"
+    ],
+    "osteospermum": [
+        "herbaceous stem",
+        "green, lance-shaped leaves",
+        "daisy-like flower",
+        "long, slender petals",
+        "vibrant, petal colors (white, purple, pink, yellow, or blue)"
+    ],
+    "spring crocus": [
+        "cup-shaped flowers",
+        "vibrant purple, white, yellow, or striped petals",
+        "typically blooming in early spring",
+        "three prominent stamens",
+        "slender, grass-like green leaves"
+    ],
+    "bearded iris": [
+        "fan-shaped arrangement of green, sword-like leaves",
+        "three upright petals (standards)",
+        "three hanging petals (falls)",
+        "various colors including purple, blue, yellow, white, or bi-colored",
+        "large, showy flowers"
+    ],
+    "windflower": [
+        "Colors often include white, pink, purple, or blue.",
+        "Central cluster of stamens, often yellow or contrasting in color.",
+        "Typically grows close to the ground on slender stems.",
+        "Blooming during spring or early summer, depending on the species.",
+        "Simple, green leaves that may be lobed or finely divided."
+    ],
+    "tree poppy": [
+        "Silvery-green or blue-green leaves",
+        "Shrub-like plant",
+        "Leaves are long and narrow or lance-shaped",
+        "Numerous stamens at the center of each flower",
+        "Generally taller compared to other types of poppies"
+    ],
+    "gazania": [
+        "petals often have dark spots or stripes at the base",
+        "elongated, narrow green leaves",
+        "central disk that is prominent and often yellow or orange",
+        "some varieties have silvery or grayish foliage",
+        "leaves can be smooth or slightly hairy"
+    ],
+    "azalea": [
+        "flowers often bloom in springtime",
+        "woody stems",
+        "multiple petals, often forming clusters",
+        "flowering shrub",
+        "glossy, elongated, and leathery leaves"
+    ],
+    "water lily": [
+        "calm water surface, such as ponds or lakes",
+        "flowers with multiple petals",
+        "slender stems that connect leaves and flowers to the underwater roots",
+        "aquatic plant",
+        "colorful flowers (white, pink, yellow, or purple) rising from the water"
+    ],
+    "rose": [
+        "thorny stems",
+        "brightly colored petals, typically red, pink, white, yellow, or orange",
+        "buds at different stages of opening",
+        "green leaves with serrated edges",
+        "a flowering plant"
+    ],
+    "thorn apple": [
+        "prominent veins on the leaves",
+        "an overall toxic appearance",
+        "prickly, spherical fruit resembling a green or brown spiky ball",
+        "large, trumpet-shaped flowers, typically white or pale purple",
+        "sometimes shows seeds within splitting fruit"
+    ],
+    "morning glory": [
+        "heart-shaped leaves",
+        "trumpet-shaped flowers",
+        "slender, twining stems",
+        "vibrant colors like blue, purple, pink, white, or red",
+        "flowers that open in the morning"
+    ],
+    "passion flower": [
+        "often features a unique and visually complex center",
+        "vibrant and intricate floral structure",
+        "commonly white, purple, blue, or red petals",
+        "corona of filament-like structures (often brightly colored)",
+        "lobed leaves with tendrils for climbing"
+    ],
+    "lotus lotus": [
+        "Mostly found in aquatic environments like ponds or shallow lakes",
+        "Large, flat, and circular leaves (often floating on water)",
+        "Tall, rising stems from which flowers bloom",
+        "Central seed pod that has a unique, perforated pattern",
+        "Generally a vibrant, eye-catching bloom"
+    ],
+    "toad lily": [
+        "Six petals arranged in a symmetrical pattern",
+        "Variegated foliage in some varieties",
+        "Arching growth habits, often forming clumps",
+        "Alternating or whorled leaves that are typically lance-shaped or oval",
+        "Flowers often appear in late summer to fall"
+    ],
+    "anthurium": [
+        "long, slender spadix (flower spike) protruding from the spathe, often yellow or white",
+        "tropical appearance",
+        "typically grown in pots or as part of ornamental arrangements",
+        "bright, waxy, heart-shaped spathes (modified leaves) usually red, but can also be pink, white, or purple",
+        "glossy, dark green, elongated leaves"
+    ],
+    "frangipani": [
+        "five-petaled blooms",
+        "smooth, elongated leaves with prominent veins",
+        "small to medium-sized tree or shrub",
+        "milky sap when branches or leaves are broken",
+        "flowers with a distinct central yellow area"
+    ],
+    "clematis": [
+        "Flower colors commonly in shades of purple, pink, white, or blue  ",
+        "Seed heads with fluffy or feathery appearance after flowering",
+        "Prominent stamens in the center of the flower  ",
+        "Six to eight petal-like sepals per flower  ",
+        "Climbing vine or shrub  "
+    ],
+    "hibiscus": [
+        "a central stamen (often prominently protruding)",
+        "five or more petals",
+        "a woody stem in shrubs or trees, herbaceous in smaller plants",
+        "green, lance-shaped leaves",
+        "large, showy flowers"
+    ],
+    "columbine": [
+        "compound leaves with deeply lobed leaflets",
+        "flowers with distinctive spurs (elongated, tubular extensions)",
+        "typically one to three feet tall",
+        "multi-petal flowers",
+        "herbaceous plant"
+    ],
+    "desert-rose": [
+        "Succulent plant structure",
+        "Narrow, elongated, and leathery leaves",
+        "Frequently appears in a rocky or desert-like environment",
+        "Clusters of pointed petals",
+        "Prominent, brightly colored flowers (typically pink, red, or white)"
+    ],
+    "tree mallow": [
+        "Bushy growth habit",
+        "Alternating leaf arrangement",
+        "Shrub with woody stems",
+        "Lobed or deeply divided leaves, often with a hairy texture",
+        "Flowers typically have a prominent, protruding central column (stamen tube)"
+    ],
+    "magnolia": [
+        "flowers typically have multiple large petals (6 to 12 or more)",
+        "large, showy flowers",
+        "branches and stems can be smooth or rough depending on the species",
+        "glossy, dark green leaves",
+        "cone-like fruit with red seeds"
+    ],
+    "cyclamen": [
+        "leaves often have silver or light-colored patterns",
+        "often found in pots or shaded garden areas",
+        "petals can be pink, red, white, or purple",
+        "flowering plant",
+        "rounded or heart-shaped leaves"
+    ],
+    "watercress": [
+        "smooth leaf texture",
+        "rounded or slightly oval leaf shapes",
+        "thin, delicate stems",
+        "often found near water sources or in moist soil",
+        "clusters of leaves growing from a central stem"
+    ],
+    "canna lily": [
+        "clustered flower arrangement at the top of the stem",
+        "tropical or subtropical appearance",
+        "tall, sturdy stems",
+        "flowers typically in shades of red, orange, yellow, or pink",
+        "elongated, lance-shaped leaves with prominent veins"
+    ],
+    "hippeastrum": [
+        "thick, hollow stems",
+        "six petals per flower",
+        "large, showy flowers",
+        "trumpet or funnel-shaped blooms",
+        "multiple flowers arranged in clusters atop each stem"
+    ],
+    "bee balm": [
+        "opposite leaves (leaves that grow in pairs on either side of the stem)",
+        "leaves with serrated edges",
+        "fuzzy or hairy leaves and stems",
+        "a minty or citrusy aroma when leaves are crushed",
+        "tubular, trumpet-shaped blooms"
+    ],
+    "ball moss": [
+        "grows on trees, fences, or wires",
+        "typically found in shaded or semi-shaded areas",
+        "small, spherical plant",
+        "consists of small, scale-like leaves",
+        "thin, wiry stems"
+    ],
+    "foxglove": [
+        "tall, spire-like plant",
+        "spotted or speckled patterns inside the flowers",
+        "tubular, bell-shaped flowers",
+        "leaves are usually dark green with pronounced veins",
+        "flowers arranged in a cluster along one side of the stem"
+    ],
+    "bougainvillea": [
+        "vibrant, papery bracts (often mistaken for petals) in colors such as pink, purple, red, orange, or white",
+        "the tendency to climb or sprawl over surfaces",
+        "ovate, pointed green leaves",
+        "growth habit that can be either a vine, bush, or tree-like structure",
+        "small, white, tubular flowers often found in clusters in the center of the bracts"
+    ],
+    "camellia": [
+        "woody stems",
+        "glossy, dark green leaves",
+        "flowers often pink, white, red, or variegated",
+        "flowers with multiple layers of petals",
+        "large, symmetrical flowers"
+    ],
+    "mallow": [
+        "central cluster of stamens (often brightly colored)",
+        "can have a delicate, papery texture to the flowers",
+        "tall stems",
+        "pink, white, purple, or red petals",
+        "flowering plant"
+    ],
+    "mexican petunia": [
+        "often seen in a bushy or clumping form",
+        "dark green foliage",
+        "tubular flowers",
+        "long, narrow, lance-shaped leaves",
+        "flower blooms usually open in the morning and may close or fall off by evening"
+    ],
+    "bromelia": [
+        "Sometimes have spiky or pointed leaf tips",
+        "Thick, waxy leaves that can be green or variegated with stripes or spots",
+        "Leaf edges that can be smooth or serrated",
+        "Epiphytic habit (grown attached to trees) or terrestrial (grown in soil)",
+        "Brightly colored flowers, often red, pink, orange, or yellow"
+    ],
+    "blanket flower": [
+        "distinct central disc florets that are often brown or red",
+        "bright and vibrant colors, typically red, orange, and yellow",
+        "stems that are thin and may be slightly hairy",
+        "green, lance-shaped leaves ",
+        "daisy-like flower shape"
+    ],
+    "trumpet creeper": [
+        "Compound leaves with multiple oval leaflets",
+        "Woody stems",
+        "Tendrils for climbing",
+        "Flowers typically orange, red, or yellow",
+        "Climbing vine"
+    ],
+    "blackberry lily": [
+        "petals are typically orange with red spots resembling a leopard print",
+        "fruit resembling a blackberry when mature",
+        "distinctive bloom with six petals",
+        "sturdy, upright stems",
+        "green, sword-shaped leaves"
+    ]
+}

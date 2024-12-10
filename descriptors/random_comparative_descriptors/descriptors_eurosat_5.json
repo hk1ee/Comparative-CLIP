@@ -1,0 +1,72 @@
+{
+    "annual crop land": [
+        "Presence of farming equipment or tire tracks",
+        "Seasonal color changes in crops",
+        "Agricultural machinery (like tractors or combines)",
+        "limited tree coverage",
+        "Presence of farm machinery or equipment"
+    ],
+    "forest": [
+        "Dense tree coverage",
+        "Larger, more diverse tree species",
+        "Green foliage",
+        "Tree trunks of varying sizes",
+        "lack of man-made structures like irrigation systems or orderly planting rows"
+    ],
+    "brushland or shrubland": [
+        "Varied terrain with natural land contours",
+        "Irregular vegetation height",
+        "Lack of uniform crop types",
+        "Natural terrain with uneven ground and rocky areas",
+        "Appearance of more wild or untamed landscape"
+    ],
+    "highway or road": [
+        "wide, open area with clear visibility in both directions",
+        "Vehicles (cars, trucks, etc.)",
+        "Asphalt or concrete material",
+        "Traffic signals or lights",
+        "overhead signs and traffic lights"
+    ],
+    "industrial buildings or commercial buildings": [
+        "Presence of vehicles such as trucks or cars",
+        "Man-made roads or pathways leading to the buildings",
+        "Visible infrastructure like smokestacks, loading docks, or machinery",
+        "Location in less densely populated or zoned industrial areas",
+        "Functional architectural style with less emphasis on aesthetics"
+    ],
+    "pasture land": [
+        "Grass and vegetation cover",
+        "fencing or boundary markings typical of farmland",
+        "Gentle, rolling terrain",
+        "Absence of continuous water flow",
+        "Minimal human intervention or cultivation patterns"
+    ],
+    "permanent crop land": [
+        "fencing or boundaries around plots",
+        "Fencing or boundaries around plots",
+        "Farm machinery designed for crop cultivation",
+        "organized rows of plants",
+        "Irrigation systems: Permanent crops often have more elaborate irrigation systems in place."
+    ],
+    "residential buildings or homes or apartments": [
+        "Roofs",
+        "Multiple stories or levels",
+        "building structures",
+        "street or sidewalks",
+        "Patios or outdoor furniture"
+    ],
+    "river": [
+        "Flowing water",
+        "wildlife (e.g., fish, ducks)",
+        "winding or meandering path",
+        "flowing water",
+        "Linear or winding shape"
+    ],
+    "lake or sea": [
+        "Water surface",
+        "Shoreline",
+        "Absence of crops or plants",
+        "Water expanse",
+        "Waves or ripples"
+    ]
+}

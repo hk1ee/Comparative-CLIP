@@ -1,0 +1,72 @@
+{
+    "annual crop land": [
+        "Irrigation lines or systems",
+        "Different stages of crop growth",
+        "Presence of farming equipment or tire tracks",
+        "Green or brown fields (depending on the crop and season)",
+        "rows of crops"
+    ],
+    "forest": [
+        "dense trees",
+        "lack of man-made structures like irrigation systems or orderly planting rows",
+        "Underbrush",
+        "Moss or fungi on trees",
+        "Forested areas may have trails or paths but are generally dense and less open compared to pasture lands"
+    ],
+    "brushland or shrubland": [
+        "Native or wild vegetation not organized in rows",
+        "Absence of paved areas",
+        "Variety of plant species including bushes and brambles",
+        "Sparse trees or none at all",
+        "Lack of uniform crop types"
+    ],
+    "highway or road": [
+        "pavement or tarmac",
+        "Absence of natural water flow",
+        "presence of multiple lanes",
+        "absence of large structures or buildings",
+        "Traffic signs and signals"
+    ],
+    "industrial buildings or commercial buildings": [
+        "storage tanks or silos",
+        "Large buildings with flat roofs",
+        "Signage or company logos",
+        "Chimneys or smokestacks",
+        "Buildings with straight lines and structured shapes"
+    ],
+    "pasture land": [
+        "Absence of paved surfaces",
+        "Absence of large machinery tracks typically associated with row crops",
+        "Trees and bushes",
+        "Natural features like trees, shrubs, or ponds",
+        "farm-related structures (like barns or silos) if present"
+    ],
+    "permanent crop land": [
+        "farm machinery",
+        "Absence of roads, driveways, and parking areas",
+        "Rows and patterns of planting",
+        "Greenhouses or other agricultural structures",
+        "farming equipment like tractors or plows"
+    ],
+    "residential buildings or homes or apartments": [
+        "Utility poles, streetlights, or mailboxes",
+        "Windows and doors",
+        "chimneys",
+        "Personal vehicles like cars or bicycles parked outside",
+        "Rooftops with materials like shingles or tiles"
+    ],
+    "river": [
+        "Narrow width compared to lakes and seas",
+        "continuous and elongated shape",
+        "natural banks and vegetation",
+        "Vegetation like reeds or aquatic plants along the edges",
+        "wildlife (e.g., fish, ducks)"
+    ],
+    "lake or sea": [
+        "Reflections of the sky or nearby objects",
+        "Absence of crops or plants",
+        "Waves or ripples",
+        "water surface",
+        "boats, buoys, or other watercraft"
+    ]
+}

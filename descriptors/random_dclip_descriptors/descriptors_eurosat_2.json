@@ -1,0 +1,72 @@
+{
+    "annual crop land": [
+        "cultivated plots of land",
+        "visible soil between rows",
+        "varying plant heights depending on growth stage",
+        "possibly farm equipment or irrigation systems",
+        "green, yellow, or brown plants depending on the season and crop type"
+    ],
+    "forest": [
+        "possibly features like streams or rivers",
+        "natural elements like soil, rocks, and fallen leaves",
+        "wildlife such as birds, insects, or mammals",
+        "diverse array of plant species",
+        "dense collection of trees"
+    ],
+    "brushland or shrubland": [
+        "limited or irregular patches of taller plants",
+        "may have grassy areas interspersed with shrubs",
+        "presence of low-lying vegetation",
+        "sparse or scattered distribution of shrubs or small trees",
+        "subject to seasonal changes in appearance, with stress indicating rainfall patterns"
+    ],
+    "highway or road": [
+        "streetlights or overhead lighting",
+        "road signs and traffic signals",
+        "visible routes or mile markers",
+        "lane markings, such as white or yellow lines",
+        "absence of vegetation in the primary travel paths"
+    ],
+    "industrial buildings or commercial buildings": [
+        "HVAC systems or other industrial equipment visible on the roof",
+        "multiple windows, often large (common in commercial buildings)",
+        "signage with company names or logos",
+        "large, expansive structures",
+        "loading docks or large entry doors (common in industrial buildings)"
+    ],
+    "pasture land": [
+        "Sometimes includes a barn or a shelter for animals",
+        "Presence of grazing animals such as cows, sheep, or horses",
+        "Fencing that may outline the pasture area",
+        "Sparse or few trees and bushes",
+        "Rolling or flat terrain"
+    ],
+    "permanent crop land": [
+        "consistent and well-maintained vegetation",
+        "signs of agricultural activity such as machinery or workers",
+        "absence of crop rotation or seasonal changes",
+        "rows or patterns of planted crops",
+        "mature trees or perennial plants"
+    ],
+    "residential buildings or homes or apartments": [
+        "chimneys",
+        "windows",
+        "visible address numbers or plaques",
+        "garden or yard spaces",
+        "driveways"
+    ],
+    "river": [
+        "Possibly bridges or boats",
+        "Reflective surface that can range from calm to turbulent",
+        "Various shades of blue, green, or brown",
+        "Sometimes animals or people interacting with the water",
+        "Varying widths and depths along its course"
+    ],
+    "lake or sea": [
+        "relatively open and expansive area",
+        "waves or ripples on the surface",
+        "shoreline or coast",
+        "presence of boats, buoys, or other watercraft",
+        "large body of water"
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "annual crop land": [
+        "Different shapes and patterns of fields",
+        "Farm machinery or equipment",
+        "Farm equipment (tractors, harvesters)",
+        "Soil exposure between rows of plants",
+        "Irrigation systems or ditches"
+    ],
+    "forest": [
+        "Presence of underbrush or groundcover plants",
+        "Natural underbrush",
+        "Multiple vertical layers of vegetation, including:",
+        "Canopy cover",
+        "Larger, more diverse tree species"
+    ],
+    "brushland or shrubland": [
+        "Low-growing vegetation",
+        "Presence of native shrubs and grasses",
+        "Limited human-made structures (e.g., fences, signs)",
+        "Small trees or large shrubs",
+        "Presence of wildflowers or non-crop plants"
+    ],
+    "highway or road": [
+        "streetlights",
+        "intersections or traffic signals",
+        "vehicles",
+        "pedestrian crosswalks",
+        "sidewalks"
+    ],
+    "industrial buildings or commercial buildings": [
+        "Presence of vehicles (trucks, cars)",
+        "Concrete or steel construction",
+        "Chimneys or smokestacks",
+        "Utilitarian exterior materials like metal or concrete",
+        "large structures with signs, logos, or company names"
+    ],
+    "pasture land": [
+        "Presence of grazing animals (e.g., cows, sheep)",
+        "Trees and bushes",
+        "farm-related structures (like barns or silos) if present",
+        "Lack of organized planting rows",
+        "Lack of structures"
+    ],
+    "permanent crop land": [
+        "Irrigation systems",
+        "Greenhouses or other agricultural structures",
+        "Absence of roads, driveways, and parking areas",
+        "Fences or boundaries typical of agricultural land",
+        "Less visible soil: Due to permanent plants covering much of the ground."
+    ],
+    "residential buildings or homes or apartments": [
+        "Mailboxes and street signs",
+        "Human activity or people",
+        "Windows, doors, and architectural details",
+        "Sidewalks",
+        "doors"
+    ],
+    "river": [
+        "Flowing water",
+        "ripples or water currents",
+        "Trees or vegetation along the banks in a linear pattern",
+        "possible presence of wildlife like fish or waterfowl",
+        "Reflections of the sky or trees on the surface of the water"
+    ],
+    "lake or sea": [
+        "reflections of the sky or surrounding landscape in the water",
+        "boats or other watercrafts",
+        "reflective properties",
+        "Water expanse",
+        "shoreline or coast"
+    ]
+}

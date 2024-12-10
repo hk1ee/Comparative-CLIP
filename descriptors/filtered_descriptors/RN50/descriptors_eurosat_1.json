@@ -1,0 +1,102 @@
+{
+    "annual crop land": [],
+    "forest": [
+        "Uneven terrain",
+        "Absence of artificial structures (e.g., buildings, machinery)",
+        "Uneven terrain with natural features (e.g., hills, streams, rocks)",
+        "absence of water flow",
+        "Underbrush",
+        "Lack of systematic rows or uniform planting patterns",
+        "Multiple vertical layers of vegetation, including:",
+        "Lack of pavement or asphalt"
+    ],
+    "brushland or shrubland": [
+        "Absence of organized rows",
+        "Irregular, uneven terrain",
+        "Sparse trees or none at all",
+        "Lack of paved surfaces",
+        "Absence of paved areas",
+        "Lack of buildings, rooflines, and architectural structures",
+        "Rolling terrain or hills",
+        "Dry, rocky, or sandy soil",
+        "Lack of uniform crop types",
+        "Varied terrain with natural land contours"
+    ],
+    "highway or road": [
+        "Marked lanes",
+        "absence of building structures",
+        "Paved surfaces",
+        "intersections",
+        "lanes and markings",
+        "absence of large structures or buildings",
+        "clear, paved surfaces",
+        "Paved surface",
+        "paved surface"
+    ],
+    "industrial buildings or commercial buildings": [
+        "Dense clusters of structures",
+        "Roads or paved areas surrounding the structures",
+        "absence of water bodies",
+        "Fences or gates around the perimeter",
+        "High fences or security gates around the premises",
+        "visible machinery or equipment",
+        "Presence of vehicles (trucks, cars)",
+        "Large size and expansive footprint",
+        "Paved roads or parking lots",
+        "paved roads or parking lots"
+    ],
+    "pasture land": [
+        "lack of roads, parking lots, and paved areas",
+        "Absence of paved surfaces",
+        "Lack of structures",
+        "absence of large structures or buildings",
+        "Man-made structures like barns or sheds",
+        "Rolling terrain or uneven landscape",
+        "Lack of visible rows or organized planting patterns",
+        "Scatter of hay bales or feeding troughs",
+        "Open, flat or gently rolling terrain",
+        "farm-related structures (like barns or silos) if present"
+    ],
+    "permanent crop land": [
+        "Patterns or patches of different crops or vegetation",
+        "uniform crop types",
+        "Less visible soil: Due to permanent plants covering much of the ground.",
+        "minimal or no large structures/buildings",
+        "Absence of roads, driveways, and parking areas",
+        "Visible boundaries or plots",
+        "patterns of crop rotation or different stages of crop growth",
+        "Orchard or vineyard patterns: Rows of trees or grapevines that are evenly spaced.",
+        "absence of parking lots and large paved areas",
+        "Absence of structures such as houses, apartments, or other buildings"
+    ],
+    "residential buildings or homes or apartments": [
+        "Visible structures such as houses or apartments",
+        "Presence of vehicles",
+        "Human activity or people",
+        "Streets and pathways"
+    ],
+    "river": [
+        "Meandering shape or defined channel",
+        "continuous and elongated shape",
+        "Linear or winding shape",
+        "Curvy or meandering shape",
+        "winding or meandering path",
+        "absence of structured rows or patterns",
+        "varying width along its course",
+        "irregular, winding path",
+        "Presence of ripples or currents",
+        "Trees or vegetation along the banks in a linear pattern"
+    ],
+    "lake or sea": [
+        "Absence of a distinct and noticeable channel or stream",
+        "absence of distinct rows or planted patterns",
+        "horizon line distinct from structures",
+        "potentially visible shores or coastlines",
+        "Absence of visible current or flow",
+        "Absence of crops or plants",
+        "Absence of pavement",
+        "shoreline or coast",
+        "Water surface",
+        "water surface"
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "annual crop land": [
+        "Farm machinery tracks",
+        "Scarecrows or plastic sheeting covering crops",
+        "Agricultural machinery (like tractors or combines)",
+        "Different shapes and patterns of fields",
+        "Field shapes and paths",
+        "tillage patterns",
+        "Crop rotation patterns",
+        "Farm machinery or equipment",
+        "Farm equipment (tractors, harvesters)",
+        "Presence of farm machinery or equipment"
+    ],
+    "forest": [
+        "Absence of man-made structures",
+        "Absence of artificial structures (e.g., buildings, machinery)",
+        "Wildlife presence (e.g., birds, deer, insects)"
+    ],
+    "brushland or shrubland": [
+        "Dry, arid terrain",
+        "Lack of continuous water body",
+        "Clustered, small plant formations rather than large, continuous tree cover",
+        "Varied terrain with natural land contours",
+        "Irregular, uneven terrain",
+        "Sparse trees or none at all",
+        "Lack of large water bodies",
+        "Lack of buildings, rooflines, and architectural structures",
+        "Sparse, scattered vegetation",
+        "Absence of organized rows"
+    ],
+    "highway or road": [
+        "vehicles traveling on it",
+        "Marked lanes",
+        "presence of vehicles",
+        "Presence of human infrastructure (bridges, tunnels)",
+        "paved surface",
+        "Paved surface",
+        "Overpasses or bridges",
+        "Vehicles",
+        "vehicles",
+        "overpasses"
+    ],
+    "industrial buildings or commercial buildings": [
+        "absence of dense tree cover",
+        "absence of water bodies",
+        "Dense clusters of structures",
+        "paved roads or sidewalks",
+        "Asphalt or paved surfaces surrounding buildings",
+        "Presence of vehicles (trucks, cars)",
+        "Large size and expansive footprint",
+        "Presence of roads and parking lots",
+        "Roads or paved areas surrounding the structures",
+        "paved roads or parking lots"
+    ],
+    "pasture land": [
+        "visible farming infrastructure (e.g., water troughs, barns)",
+        "Minimal human intervention or cultivation patterns",
+        "Presence of grazing animals (e.g., cows, sheep)",
+        "Absence of large machinery tracks typically associated with row crops",
+        "Lack of visible rows or organized planting patterns",
+        "Absence of continuous water flow",
+        "Absence of paved surfaces",
+        "Absence of specific horticultural structures (e.g., trellises, crop rows)",
+        "lack of roads, parking lots, and paved areas",
+        "Grazing animals (e.g., cows, sheep, horses)"
+    ],
+    "permanent crop land": [
+        "Orchard or vineyard patterns: Rows of trees or grapevines that are evenly spaced.",
+        "Presence of evenly spaced rows of plants or trees",
+        "patterns of crop rotation or different stages of crop growth",
+        "Rows of crops or trees",
+        "Visible fruit, vines, or other produce",
+        "Patterns or patches of different crops or vegetation",
+        "Rows and patterns of planting",
+        "Visible boundaries or plots",
+        "fruit trees or vines",
+        "uniform crop types"
+    ],
+    "residential buildings or homes or apartments": [
+        "Streets and pathways",
+        "Presence of vehicles",
+        "presence of surrounding infrastructure (like roads, driveways, or sidewalks)",
+        "straight, defined edges",
+        "Paved driveways and sidewalks",
+        "Paved driveways, walkways, or streets",
+        "Defined streets or driveways",
+        "Cars parked nearby",
+        "Driveways",
+        "Presence of driveways and parking areas adjacent to buildings"
+    ],
+    "river": [
+        "Visible banks or shores on both sides",
+        "Possible presence of boats, bridges, or docks",
+        "Trees or vegetation along the banks in a linear pattern",
+        "Natural banks or shorelines",
+        "Bridges or boats (if present)",
+        "boats or rafts",
+        "continuous and elongated shape",
+        "Linear or winding shape",
+        "Meandering shape or defined channel",
+        "lack of structured architecture"
+    ],
+    "lake or sea": [
+        "potentially visible shores or coastlines",
+        "Absence of a distinct and noticeable channel or stream",
+        "aquatic plants like reeds or water lilies"
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "annual crop land": [
+        "Presence of farm equipment or machinery",
+        "Harvested or plowed sections",
+        "Soil patterns and textures",
+        "open fields",
+        "Different stages of crop growth"
+    ],
+    "forest": [
+        "Absence of artificial structures (e.g., buildings, machinery)",
+        "lack of man-made structures like irrigation systems or orderly planting rows",
+        "Natural vegetation (e.g., shrubs, grasses)",
+        "Natural pathways and clearings",
+        "Limited open grassy areas"
+    ],
+    "brushland or shrubland": [
+        "Presence of wildflowers and grasses",
+        "Mostly earthy or grassy ground cover",
+        "Natural terrain with uneven ground and rocky areas",
+        "Sparse trees or none at all",
+        "Often found in regions with seasonal fires as part of the natural cycle"
+    ],
+    "highway or road": [
+        "road signs",
+        "lane markings and road signs",
+        "Reflective road markers",
+        "Traffic signs and signals",
+        "streetlights positioned at regular intervals"
+    ],
+    "industrial buildings or commercial buildings": [
+        "Visible infrastructure like smokestacks, loading docks, or machinery",
+        "Asphalt or paved surfaces surrounding buildings",
+        "Fewer green spaces or vegetation",
+        "Location in less densely populated or zoned industrial areas",
+        "storage tanks or silos"
+    ],
+    "pasture land": [
+        "Agricultural equipment (e.g., tractors, hay bales)",
+        "Presence of fences or enclosures",
+        "Absence of paved surfaces",
+        "Patches of different types of grasses and wildflowers",
+        "open and spacious landscape"
+    ],
+    "permanent crop land": [
+        "Uniform greenery or specific crop plants visible",
+        "farm machinery",
+        "rows of planted trees or crops",
+        "patterns of crop rotation or different stages of crop growth",
+        "Open spaces devoid of urban infrastructure"
+    ],
+    "residential buildings or homes or apartments": [
+        "Structured architecture (e.g., houses, apartments)",
+        "Street lights or utility poles",
+        "mailboxes",
+        "Utility poles, streetlights, or mailboxes",
+        "Human activity or people"
+    ],
+    "river": [
+        "ripples or currents",
+        "Presence of ripples or currents",
+        "Bridges, boats, or other water-related infrastructure",
+        "Banks with vegetation",
+        "Continuous flow direction"
+    ],
+    "lake or sea": [
+        "aquatic plants like reeds or water lilies",
+        "Presence of boats, docks, or recreational activities typically found on large bodies of water",
+        "Reflection of sky",
+        "presence of boats or aquatic plants",
+        "Waves or ripples on the surface"
+    ]
+}
